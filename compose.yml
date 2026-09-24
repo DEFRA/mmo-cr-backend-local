@@ -1,0 +1,47 @@
+# Root-level orchestration for all mmo-cr backend services.
+#
+# Each service keeps its own compose.yml as the source of truth for its
+# build, volumes, dependencies, etc. This file only "includes" them so they
+# can be started together, plus a small override block for anything that
+# would otherwise clash when services run side by side (e.g. host ports, or
+# the shared "floci" AWS emulator that both services define).
+#
+# To add a new backend service in future:
+#   1. Add its compose.yml path under `include:` below.
+#   2. If it defines a service name/host port already used elsewhere, add an
+#      override for just that field under `services:` below (use the
+#      `!override` tag for lists so they are replaced, not merged/appended).
+include:
+  - path: mmo-cr-authentication-service/compose.yml
+  - path: mmo-cr-reference-data-service/compose.yml
+
+services:
+  # Both included files define a "floci" service (shared AWS emulator), so
+  # Compose merges them into one container. Their init script directories
+  # target the same container path, so only one would survive the merge -
+  # override it with the combined start.d directory (compose/floci/start.d)
+  # so both services' bootstrap scripts run.
+  floci:
+    volumes: !override
+      - ./compose/floci/start.d:/etc/floci/init/start.d:ro
+      - floci-data:/app/data
+
+  # Both services default to host port 3001 inside their own compose.yml.
+  # Remap the reference-data service so both can run at the same time.
+  mmo-cr-reference-data-service:
+    ports: !override
+      - '3002:3001'
+
+  # The authentication service's own compose.yml declares no networks (it has
+  # no local dependencies of its own), so it only joins Compose's implicit
+  # default network. Attach it to cdp-tenant so it's reachable by service
+  # name from the reference-data service.
+  mmo-cr-authentication-service:
+    networks:
+      - cdp-tenant
+
+networks:
+  # Shared network so services can reach each other by container/service name.
+  cdp-tenant:
+    driver: bridge
+    name: cdp-tenant
