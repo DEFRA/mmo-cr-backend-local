@@ -1,0 +1,6865 @@
+{
+  "dataset": "ports",
+  "collectionId": "00000000-0000-4000-8000-000000000030",
+  "schemaVersion": "1.0",
+  "version": "ports-from-excel-1",
+  "generatedAt": "2026-09-28T08:29:55Z",
+  "itemCount": 624,
+  "items": [
+    {
+      "id": "49e319b2-9e65-45aa-a80e-0cf4b20bfe79",
+      "code": "GBAOT",
+      "name": "Abbotsbury",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.6666984558105,
+        "longitude": -2.59999990463257
+      },
+      "active": true
+    },
+    {
+      "id": "3c30d6c0-1411-498f-88b2-cb9245491522",
+      "code": "GBABA",
+      "name": "Aberaeron",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 52.2430000305176,
+        "longitude": -4.26399993896484
+      },
+      "active": true
+    },
+    {
+      "id": "001053a0-4fd5-4474-b96a-42bd8f75842e",
+      "code": "GBADR",
+      "name": "Aberdaron",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 52.8050003051758,
+        "longitude": -4.71199989318848
+      },
+      "active": true
+    },
+    {
+      "id": "ede2e85a-5251-4476-8c79-350f104797a7",
+      "code": "GBABD",
+      "name": "Aberdeen",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.1430015563965,
+        "longitude": -2.0789999961853
+      },
+      "active": true
+    },
+    {
+      "id": "5fbba199-b720-4a84-bcd7-0370d74dcf94",
+      "code": "GBABF",
+      "name": "Aberdyfi (Aberdovey)",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 52.5439987182617,
+        "longitude": -4.0460000038147
+      },
+      "active": true
+    },
+    {
+      "id": "67bea970-d9a7-4888-93ed-df8623b4531c",
+      "code": "GBABS",
+      "name": "Abersoch",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 52.8170013427734,
+        "longitude": -4.5
+      },
+      "active": true
+    },
+    {
+      "id": "4f0880fa-c419-4624-8aec-03dfcb59490c",
+      "code": "GBAYW",
+      "name": "Aberystwyth",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 52.4166984558105,
+        "longitude": -4.08333015441895
+      },
+      "active": true
+    },
+    {
+      "id": "a4c4e16b-47e3-4b42-a4f8-5e931c546b42",
+      "code": "GBACE",
+      "name": "Achiltibuie",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.0332984924316,
+        "longitude": -5.36667013168335
+      },
+      "active": true
+    },
+    {
+      "id": "c850155b-b55d-45c1-86eb-49833ddcdab9",
+      "code": "GBAIT",
+      "name": "Aith",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 60.2830009460449,
+        "longitude": -1.375
+      },
+      "active": true
+    },
+    {
+      "id": "a1c86801-a2d0-4596-a5d3-845a6a5fd693",
+      "code": "GBALB",
+      "name": "Aldeburgh",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 52.1500015258789,
+        "longitude": 1.60000002384186
+      },
+      "active": true
+    },
+    {
+      "id": "f587ec20-43c1-4cef-ad0a-39bcc7ad18c8",
+      "code": "GGACI",
+      "name": "Alderney",
+      "countryCode": "GGY",
+      "coordinate": {
+        "latitude": 49.6800003051758,
+        "longitude": -2.20000004768372
+      },
+      "active": true
+    },
+    {
+      "id": "2d6b49b3-62c1-4a7a-81e1-edf7f54a1112",
+      "code": "GBALL",
+      "name": "Alloa",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.1139984130859,
+        "longitude": -3.79900002479553
+      },
+      "active": true
+    },
+    {
+      "id": "6a50eab5-b684-4fba-a054-e13886053f62",
+      "code": "GBAMB",
+      "name": "Amble",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.3333015441895,
+        "longitude": -1.58333003520966
+      },
+      "active": true
+    },
+    {
+      "id": "0f2311fb-8906-49c9-8b12-0408a1ef49db",
+      "code": "GBAMW",
+      "name": "Amlwch",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 53.4119987487793,
+        "longitude": -4.33400011062622
+      },
+      "active": true
+    },
+    {
+      "id": "9ca32996-f356-4d77-bdf3-08fcd35d65fa",
+      "code": "GBVLY",
+      "name": "Anglesey",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 53.2999992370605,
+        "longitude": -4.63332986831665
+      },
+      "active": true
+    },
+    {
+      "id": "e9407e69-9da6-45f2-b378-a9cc72cc0ae7",
+      "code": "GBANG",
+      "name": "Annalong",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.1080017089844,
+        "longitude": -5.89599990844727
+      },
+      "active": true
+    },
+    {
+      "id": "52f41a8b-29e5-46f7-bec9-413ee7ad217e",
+      "code": "GBANN",
+      "name": "Annan",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.9869995117188,
+        "longitude": -3.26500010490417
+      },
+      "active": true
+    },
+    {
+      "id": "b81a14de-e009-42cd-8bb0-2f9e7ce11eb4",
+      "code": "GBANS",
+      "name": "Anstruther",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.2220001220703,
+        "longitude": -2.70099997520447
+      },
+      "active": true
+    },
+    {
+      "id": "74bbfd1a-7a6d-4826-8ddc-34dc610da6b5",
+      "code": "GBAPS",
+      "name": "Applecross",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.4329986572266,
+        "longitude": -5.81500005722046
+      },
+      "active": true
+    },
+    {
+      "id": "efb4da75-6a5b-4e68-bfe3-76e3dfa679a9",
+      "code": "GBAPP",
+      "name": "Appledore",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.0499992370605,
+        "longitude": -4.19999980926514
+      },
+      "active": true
+    },
+    {
+      "id": "a5f17c50-5b36-43ef-b2a5-bbce0aac05f5",
+      "code": "GBARB",
+      "name": "Arbroath",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.5559997558594,
+        "longitude": -2.58299994468689
+      },
+      "active": true
+    },
+    {
+      "id": "71646bbb-0c6c-4484-a036-e9974c4542f7",
+      "code": "GBAET",
+      "name": "Ardentinny",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.0460014343262,
+        "longitude": -4.91099977493286
+      },
+      "active": true
+    },
+    {
+      "id": "72ffe818-e8ca-478d-a3d2-64664de54a93",
+      "code": "GBAGL",
+      "name": "Ardglass",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.2599983215332,
+        "longitude": -5.60200023651123
+      },
+      "active": true
+    },
+    {
+      "id": "e9386900-5d17-4b9c-b0e9-66dfc20c67d6",
+      "code": "GBGIG",
+      "name": "Ardminish, Gigha Island",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.6749992370605,
+        "longitude": -5.73600006103516
+      },
+      "active": true
+    },
+    {
+      "id": "a53b5137-aa7f-4b77-9540-79ee1bdb9032",
+      "code": "GBAMN",
+      "name": "Ardnamurchan",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.6870002746582,
+        "longitude": -6.0939998626709
+      },
+      "active": true
+    },
+    {
+      "id": "ac0a2d8d-044d-4613-b013-51e02a21b42a",
+      "code": "GBASG",
+      "name": "Ardrishaig",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.015998840332,
+        "longitude": -5.44799995422363
+      },
+      "active": true
+    },
+    {
+      "id": "9cf6e07a-7897-4efb-ae43-683082e5b8d5",
+      "code": "GBARD",
+      "name": "Ardrossan",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.640998840332,
+        "longitude": -4.82000017166138
+      },
+      "active": true
+    },
+    {
+      "id": "3a16a7c4-45f3-4ebf-9b76-2ed4ac4f91b3",
+      "code": "GBDYN",
+      "name": "Ardyne",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.86669921875,
+        "longitude": -5.03332996368408
+      },
+      "active": true
+    },
+    {
+      "id": "e26c1f52-4494-490a-b28b-3e89a717be3c",
+      "code": "GBARG",
+      "name": "Arisaig",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.9099998474121,
+        "longitude": -5.84299993515015
+      },
+      "active": true
+    },
+    {
+      "id": "ea58d389-5bdd-47cf-9292-57acbf5eb2e3",
+      "code": "GBNAR",
+      "name": "Arran",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.5833015441895,
+        "longitude": -5.28332996368408
+      },
+      "active": true
+    },
+    {
+      "id": "1c970a61-72a3-474f-8ade-07fea2b54198",
+      "code": "GBAKL",
+      "name": "Auckengill",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.5666999816895,
+        "longitude": -3.06666994094849
+      },
+      "active": true
+    },
+    {
+      "id": "45720192-d597-48c3-92c4-d86c831ef277",
+      "code": "GBAVC",
+      "name": "Avoch",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.5670013427734,
+        "longitude": -4.16699981689453
+      },
+      "active": true
+    },
+    {
+      "id": "511d9374-281c-4224-995d-6efb274fa789",
+      "code": "GBAXO",
+      "name": "Axmouth",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.7039985656738,
+        "longitude": -3.05999994277954
+      },
+      "active": true
+    },
+    {
+      "id": "8eaa7f04-cdbf-45de-be45-0970ade4f019",
+      "code": "GBAYR",
+      "name": "Ayr",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.4667015075684,
+        "longitude": -4.63332986831665
+      },
+      "active": true
+    },
+    {
+      "id": "6c53d96c-7a88-4721-ac1a-c2795d41996a",
+      "code": "GBACB",
+      "name": "Back",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.2667007446289,
+        "longitude": -6.31666994094849
+      },
+      "active": true
+    },
+    {
+      "id": "877e7426-a494-4e44-b4db-88a4aaba72ba",
+      "code": "GBBGL",
+      "name": "Bagillt",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 53.2667007446289,
+        "longitude": -3.16667008399963
+      },
+      "active": true
+    },
+    {
+      "id": "4cef0a5b-f894-4283-8476-03b1a3253376",
+      "code": "GBBLI",
+      "name": "Balintore",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.7550010681152,
+        "longitude": -3.91100001335144
+      },
+      "active": true
+    },
+    {
+      "id": "1ad585cf-6c8f-41f2-a7c7-c5a74360022e",
+      "code": "GBBNR",
+      "name": "Ballantrae",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.0989990234375,
+        "longitude": -5.00799989700317
+      },
+      "active": true
+    },
+    {
+      "id": "80b19014-ccea-4c22-8829-7f6c2ea5d893",
+      "code": "GBBYP",
+      "name": "Ballintoy",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.2332992553711,
+        "longitude": -6.34999990463257
+      },
+      "active": true
+    },
+    {
+      "id": "ce05d29a-7a0a-4647-937e-b74e69b5888a",
+      "code": "GBBYC",
+      "name": "Ballycastle",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.2075004577637,
+        "longitude": -6.24126005172729
+      },
+      "active": true
+    },
+    {
+      "id": "a7578aaa-bdf1-476f-98a8-748876070c34",
+      "code": "GBBHB",
+      "name": "Ballyhalbert",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.5,
+        "longitude": -5.44999980926514
+      },
+      "active": true
+    },
+    {
+      "id": "ed864b62-1641-463c-9347-499d5ef32251",
+      "code": "GBBLR",
+      "name": "Ballylumford",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.8489990234375,
+        "longitude": -5.78999996185303
+      },
+      "active": true
+    },
+    {
+      "id": "8bd1ccfc-475d-4a7e-b581-47103fac9a7c",
+      "code": "GBLYW",
+      "name": "Ballywalter",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.5332984924316,
+        "longitude": -5.48332977294922
+      },
+      "active": true
+    },
+    {
+      "id": "e809dcbd-0d90-455d-a1c7-a2d6309ddb18",
+      "code": "GBBSN",
+      "name": "Baltasound",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 60.75,
+        "longitude": -0.816667020320892
+      },
+      "active": true
+    },
+    {
+      "id": "5cead813-fc0a-42d0-aaa1-d3800f65afd2",
+      "code": "GBBVR",
+      "name": "Balvicar",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.2832984924316,
+        "longitude": -5.59999990463257
+      },
+      "active": true
+    },
+    {
+      "id": "61b6ef00-84ad-499b-832a-870bf1cd1cec",
+      "code": "GBBFF",
+      "name": "Banff",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.6666984558105,
+        "longitude": -2.53332996368408
+      },
+      "active": true
+    },
+    {
+      "id": "c44df861-c3f1-4fb8-89e9-3acc32075aec",
+      "code": "GBBAN",
+      "name": "Bangor, Co. Down",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.6500015258789,
+        "longitude": -5.69999980926514
+      },
+      "active": true
+    },
+    {
+      "id": "ff37263c-981a-4677-857e-ee5894fd22e6",
+      "code": "GBBNG",
+      "name": "Bangor, Gwynedd",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 53.2332992553711,
+        "longitude": -4.11667013168335
+      },
+      "active": true
+    },
+    {
+      "id": "a5a989bc-a836-430d-b154-097f93381822",
+      "code": "GBBCE",
+      "name": "Barcaldine",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.5167007446289,
+        "longitude": -5.30000019073486
+      },
+      "active": true
+    },
+    {
+      "id": "5a6e6861-97df-4feb-ae15-afac3e566628",
+      "code": "GBBDZ",
+      "name": "Bardsea",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.1590003967285,
+        "longitude": -3.0699999332428
+      },
+      "active": true
+    },
+    {
+      "id": "2b1872b5-7607-4d84-8f04-f45df7ca9d3c",
+      "code": "GBABW",
+      "name": "Barmouth",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 52.7167015075684,
+        "longitude": -4.05000019073486
+      },
+      "active": true
+    },
+    {
+      "id": "ec01bc08-14f3-4a05-8ccd-8c9cf76d54b2",
+      "code": "GBBND",
+      "name": "Barnstaple",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.0833015441895,
+        "longitude": -4.06666994094849
+      },
+      "active": true
+    },
+    {
+      "id": "e83f7a2e-bdf2-43f4-9ef9-f26b93915721",
+      "code": "GBBRR",
+      "name": "Barra",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.0085983276367,
+        "longitude": -7.40336990356445
+      },
+      "active": true
+    },
+    {
+      "id": "0b65247e-9c63-48d1-9552-fb805df50f2a",
+      "code": "GBBIF",
+      "name": "Barrow-in-Furness",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 53.6829986572266,
+        "longitude": -0.367000013589859
+      },
+      "active": true
+    },
+    {
+      "id": "f876f596-5802-4081-a64f-8093730e7ae8",
+      "code": "GBBAZ",
+      "name": "Barton-on-Sea",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.7332992553711,
+        "longitude": -1.64999997615814
+      },
+      "active": true
+    },
+    {
+      "id": "ad33d7e5-38e2-4df7-a3ea-bfa9c9cc0796",
+      "code": "GBBQX",
+      "name": "Beadnell",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.5499992370605,
+        "longitude": -1.63332998752594
+      },
+      "active": true
+    },
+    {
+      "id": "283eb936-e980-402a-8933-35cd82db0497",
+      "code": "GBBMR",
+      "name": "Beaumaris",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 53.2999992370605,
+        "longitude": -4.11667013168335
+      },
+      "active": true
+    },
+    {
+      "id": "69cca199-5d8f-4cdc-8bdc-a89769bf8fdd",
+      "code": "GBBXX",
+      "name": "Beer",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.6969985961914,
+        "longitude": -3.09100008010864
+      },
+      "active": true
+    },
+    {
+      "id": "b7fc1f09-fd82-42de-835e-11ede32f00bb",
+      "code": "GBBSX",
+      "name": "Beesands",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.3333015441895,
+        "longitude": -3.56666994094849
+      },
+      "active": true
+    },
+    {
+      "id": "11c9891c-0479-48e9-be05-a3a0654adc25",
+      "code": "GBBEL",
+      "name": "Belfast",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.5833015441895,
+        "longitude": -5.93333005905151
+      },
+      "active": true
+    },
+    {
+      "id": "35e2ab90-8bf0-448b-bf4d-4a63fd8da08c",
+      "code": "GBBBP",
+      "name": "Bembridge",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.6829986572266,
+        "longitude": -1.08299994468689
+      },
+      "active": true
+    },
+    {
+      "id": "e819f26b-46f7-446d-9f17-3fad59416778",
+      "code": "GBBBC",
+      "name": "Benbecula",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.4500007629395,
+        "longitude": -7.26667022705078
+      },
+      "active": true
+    },
+    {
+      "id": "4ae05597-3f72-49d0-81a4-e454e368dab0",
+      "code": "GBRNR",
+      "name": "Bernera, Lewis",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.1833000183105,
+        "longitude": -6.98332977294922
+      },
+      "active": true
+    },
+    {
+      "id": "4cc044c9-929b-4022-9e75-a04def631f43",
+      "code": "GBRNN",
+      "name": "Bernera, North Uist",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.5999984741211,
+        "longitude": -7.15000009536743
+      },
+      "active": true
+    },
+    {
+      "id": "dacf4b74-fafc-4a90-a85e-a89fb8ed956d",
+      "code": "GBBWK",
+      "name": "Berwick-upon-Tweed",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.7830009460449,
+        "longitude": -2.0
+      },
+      "active": true
+    },
+    {
+      "id": "f9455743-89d2-4472-b81d-ccf94dec65a7",
+      "code": "GBBID",
+      "name": "Bideford",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.0167007446289,
+        "longitude": -4.21667003631592
+      },
+      "active": true
+    },
+    {
+      "id": "3725c068-2eaf-4b96-9d67-1f42282946ee",
+      "code": "GBRSB",
+      "name": "Birsay",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 59.11669921875,
+        "longitude": -3.28332996368408
+      },
+      "active": true
+    },
+    {
+      "id": "2a183fec-c996-49a3-bd53-4d7f519532ba",
+      "code": "GBBLK",
+      "name": "Blackpool",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 53.8166999816895,
+        "longitude": -3.04999995231628
+      },
+      "active": true
+    },
+    {
+      "id": "97922cd6-fb5f-4163-812e-fd978872328f",
+      "code": "GBBLC",
+      "name": "Blakeney",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 52.9500007629395,
+        "longitude": 1.0166699886322
+      },
+      "active": true
+    },
+    {
+      "id": "2b36c5f5-dde7-46d1-9b9b-f58afa631af1",
+      "code": "GBBLY",
+      "name": "Blyth",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.1206016540527,
+        "longitude": -1.51417005062103
+      },
+      "active": true
+    },
+    {
+      "id": "9ff12f06-2f32-4c91-857b-480e56b5a49c",
+      "code": "GBDMB",
+      "name": "Boddam",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.4749984741211,
+        "longitude": -1.77799999713898
+      },
+      "active": true
+    },
+    {
+      "id": "40453e18-bdcd-4db2-ada8-5793e69ad672",
+      "code": "GBBSI",
+      "name": "Bognor Regis",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.7832984924316,
+        "longitude": -0.683332979679108
+      },
+      "active": true
+    },
+    {
+      "id": "0fd82b5b-7cb1-4ae6-8f9b-6407e7ba8f85",
+      "code": "GBBSS",
+      "name": "Borrowstowness",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.4333000183105,
+        "longitude": -3.5166699886322
+      },
+      "active": true
+    },
+    {
+      "id": "79f86581-4a42-4f9f-8413-09f957951b31",
+      "code": "GBBSC",
+      "name": "Boscastle",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.6833000183105,
+        "longitude": -4.69999980926514
+      },
+      "active": true
+    },
+    {
+      "id": "0c48880b-177e-4426-883c-74301e9c5ca6",
+      "code": "GBBOS",
+      "name": "Boston",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 52.9832992553711,
+        "longitude": 0.0
+      },
+      "active": true
+    },
+    {
+      "id": "f8311634-c4ac-4d65-a620-c7156c06f3eb",
+      "code": "GBBMX",
+      "name": "Boulmer",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.4210014343262,
+        "longitude": -1.5809999704361
+      },
+      "active": true
+    },
+    {
+      "id": "0469e9c7-429a-41fe-b4a0-4c87043b437b",
+      "code": "GBOWM",
+      "name": "Bowmore",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.7332992553711,
+        "longitude": -6.30000019073486
+      },
+      "active": true
+    },
+    {
+      "id": "eaa28b49-4be6-40f9-a579-b5591e42d49c",
+      "code": "GBRCD",
+      "name": "Bracadale",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.3499984741211,
+        "longitude": -6.40000009536743
+      },
+      "active": true
+    },
+    {
+      "id": "b6e3f15a-4656-4bc3-a497-04e9434eecc9",
+      "code": "GBDWL",
+      "name": "Bradwell Waterside",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.7332992553711,
+        "longitude": 0.883333027362823
+      },
+      "active": true
+    },
+    {
+      "id": "26f6456e-2a81-4045-b2e2-2c44985e3a8d",
+      "code": "GBREV",
+      "name": "Braevig",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.9599990844727,
+        "longitude": -7.44299983978271
+      },
+      "active": true
+    },
+    {
+      "id": "7ad77d7c-3a1f-44de-b70d-231031dd2ae4",
+      "code": "GBBCS",
+      "name": "Brancaster Staithe",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 52.9667015075684,
+        "longitude": 0.666666984558105
+      },
+      "active": true
+    },
+    {
+      "id": "90a05b9f-17f9-466a-b1b2-1dec796d7c48",
+      "code": "GBBNN",
+      "name": "Braunton",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.0999984741211,
+        "longitude": -4.18333005905151
+      },
+      "active": true
+    },
+    {
+      "id": "7f2cd3cb-7652-49ed-b476-1d8a1dcf2b3c",
+      "code": "GBRST",
+      "name": "Breasclete",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.2000007629395,
+        "longitude": -6.75
+      },
+      "active": true
+    },
+    {
+      "id": "77b33a21-6299-4991-864f-b88caf4fd13c",
+      "code": "GBBRW",
+      "name": "Bridgwater",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.1296997070313,
+        "longitude": -3.00056004524231
+      },
+      "active": true
+    },
+    {
+      "id": "80d404cc-6718-46a1-a065-d60dbe15e9bc",
+      "code": "GBBRT",
+      "name": "Bridlington",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.0950012207031,
+        "longitude": -0.208056002855301
+      },
+      "active": true
+    },
+    {
+      "id": "9518cd38-0a53-4946-84c4-851ab4eead40",
+      "code": "GBBLS",
+      "name": "BrightlIngsea",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.7999992370605,
+        "longitude": 1.03332996368408
+      },
+      "active": true
+    },
+    {
+      "id": "2a53f776-3e32-4091-8115-b30745bba98f",
+      "code": "GBBSH",
+      "name": "Brighton",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.8190002441406,
+        "longitude": -0.136000007390976
+      },
+      "active": true
+    },
+    {
+      "id": "5ccf9b1a-6123-4c77-ba6e-6f07b139aa71",
+      "code": "GBBRS",
+      "name": "Bristol",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.4500007629395,
+        "longitude": -2.58332991600037
+      },
+      "active": true
+    },
+    {
+      "id": "7f16ea16-085b-41d7-9aa6-570ad097cfae",
+      "code": "GBBRX",
+      "name": "Brixham",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.38330078125,
+        "longitude": -3.5
+      },
+      "active": true
+    },
+    {
+      "id": "91dd60c2-a12f-4f79-b16f-c99a3d40ebab",
+      "code": "GBBDF",
+      "name": "Broadford, Isle of Skye",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.2332992553711,
+        "longitude": -5.88332986831665
+      },
+      "active": true
+    },
+    {
+      "id": "80d72b29-2aa3-4f07-b8bc-2ec1373b69f4",
+      "code": "GBBDT",
+      "name": "Broadstairs",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.3580017089844,
+        "longitude": 1.442999958992
+      },
+      "active": true
+    },
+    {
+      "id": "3da6f190-bd5b-4e32-a78a-4c5fbc20e72d",
+      "code": "GBBDI",
+      "name": "Brodick, Isle of Arran",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.5666999816895,
+        "longitude": -5.13332986831665
+      },
+      "active": true
+    },
+    {
+      "id": "46258789-8d7b-4629-9f10-b7fe07a5d1da",
+      "code": "GBBRJ",
+      "name": "Brora",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.0167007446289,
+        "longitude": -3.83332991600037
+      },
+      "active": true
+    },
+    {
+      "id": "9b691961-11a2-4646-b863-7f2ab68c8d66",
+      "code": "GBOGH",
+      "name": "Brough",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.646800994873,
+        "longitude": -3.34395003318787
+      },
+      "active": true
+    },
+    {
+      "id": "bf31327d-106f-4074-b7ff-6ccc04ef7f29",
+      "code": "GBBFU",
+      "name": "Broughton-in-Furness",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.2667007446289,
+        "longitude": -3.20000004768372
+      },
+      "active": true
+    },
+    {
+      "id": "5de0b597-2839-43fd-8915-8b5747b780ea",
+      "code": "GBBCH",
+      "name": "Bruichladdich",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.7639999389648,
+        "longitude": -6.36100006103516
+      },
+      "active": true
+    },
+    {
+      "id": "2a8ad318-a74e-4f3f-8fd5-865af5eca368",
+      "code": "GBBUC",
+      "name": "Buckie",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.6666984558105,
+        "longitude": -2.95000004768372
+      },
+      "active": true
+    },
+    {
+      "id": "3c83a48e-7b86-4f8d-8c91-193d953e865f",
+      "code": "GBBUD",
+      "name": "Bude",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.8333015441895,
+        "longitude": -4.55000019073486
+      },
+      "active": true
+    },
+    {
+      "id": "16ebb129-2afb-4402-be9e-2fe24a5c76d4",
+      "code": "GBBUA",
+      "name": "Budleigh Salterton",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.632999420166,
+        "longitude": -3.33299994468689
+      },
+      "active": true
+    },
+    {
+      "id": "94655307-8d67-49ea-bb2d-506d1b282597",
+      "code": "GBUNS",
+      "name": "Bunessan",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.3166999816895,
+        "longitude": -6.23332977294922
+      },
+      "active": true
+    },
+    {
+      "id": "7f2b6d6c-957b-420b-855f-d5761466c4de",
+      "code": "GBBUH",
+      "name": "Burghead",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.7000007629395,
+        "longitude": -3.4833300113678
+      },
+      "active": true
+    },
+    {
+      "id": "2d250f33-d0b8-4ace-955f-4defc16601b6",
+      "code": "GBBOC",
+      "name": "Burnham-on-Crouch",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.61669921875,
+        "longitude": 0.833333015441895
+      },
+      "active": true
+    },
+    {
+      "id": "9b985e13-6f40-4c24-8f47-731cb324656d",
+      "code": "GBBMO",
+      "name": "Burnmouth",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.8429985046387,
+        "longitude": -2.07100009918213
+      },
+      "active": true
+    },
+    {
+      "id": "7ed8ac5e-7615-4cc1-a15a-fece5df9341f",
+      "code": "GBBTL",
+      "name": "Burntisland",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.0666999816895,
+        "longitude": -3.21667003631592
+      },
+      "active": true
+    },
+    {
+      "id": "97b08cdd-6222-498b-a41c-1c81c4aaad44",
+      "code": "GBBVO",
+      "name": "Burravoe",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 60.3889999389648,
+        "longitude": -1.35000002384186
+      },
+      "active": true
+    },
+    {
+      "id": "673c3cd1-2e0d-4151-aa23-dcd3a6cec525",
+      "code": "GBBUF",
+      "name": "Burray",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.8499984741211,
+        "longitude": -2.91667008399963
+      },
+      "active": true
+    },
+    {
+      "id": "b6ad79cf-1269-4a11-b91c-6efb73222e11",
+      "code": "GBBPT",
+      "name": "Burry Port",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.6833000183105,
+        "longitude": -4.25
+      },
+      "active": true
+    },
+    {
+      "id": "8fe50727-2914-48ab-bfa8-822455512ace",
+      "code": "GBBUE",
+      "name": "Bursledon",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.86669921875,
+        "longitude": -1.29999995231628
+      },
+      "active": true
+    },
+    {
+      "id": "9536dfc8-dbf5-457b-9e3c-983850574f66",
+      "code": "GBIBU",
+      "name": "Bute",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.88330078125,
+        "longitude": -5.15000009536743
+      },
+      "active": true
+    },
+    {
+      "id": "a75e22b4-1071-4fd2-80e0-eb08355a64e2",
+      "code": "GBCGZ",
+      "name": "Cadgwith",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 49.9869995117188,
+        "longitude": -5.17899990081787
+      },
+      "active": true
+    },
+    {
+      "id": "09a6115c-7704-42b0-9130-04d63d150d10",
+      "code": "GBCNV",
+      "name": "Caernarfon (Caernarvon)",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 53.13330078125,
+        "longitude": -4.25
+      },
+      "active": true
+    },
+    {
+      "id": "955a67f3-6d62-40fc-b419-474c31021f29",
+      "code": "GBCBL",
+      "name": "Cairnbulg",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.6666984558105,
+        "longitude": -1.91666996479034
+      },
+      "active": true
+    },
+    {
+      "id": "64a97dba-558a-4f9f-b343-d7e14e15a941",
+      "code": "GBCBE",
+      "name": "Camber",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.9333000183105,
+        "longitude": 0.783333003520966
+      },
+      "active": true
+    },
+    {
+      "id": "4bfbffe9-300c-4534-a90f-4ae102a72a1a",
+      "code": "GBCBT",
+      "name": "Campbeltown",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.4166984558105,
+        "longitude": -5.59999990463257
+      },
+      "active": true
+    },
+    {
+      "id": "dd9b44e2-96e8-4451-86c3-299ffc9481a7",
+      "code": "GBCNA",
+      "name": "Canna, Inner Hebrides",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.0499992370605,
+        "longitude": -6.5
+      },
+      "active": true
+    },
+    {
+      "id": "55d47cde-71d6-4dec-9975-3cf6330c712c",
+      "code": "GBCAN",
+      "name": "Canvey Island",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.5167007446289,
+        "longitude": 0.566667020320892
+      },
+      "active": true
+    },
+    {
+      "id": "bf73d48d-1a30-4164-b46b-7ab3fd3f3650",
+      "code": "GBCAB",
+      "name": "Carbost",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.1833000183105,
+        "longitude": -6.19999980926514
+      },
+      "active": true
+    },
+    {
+      "id": "9d6acdb3-112b-4c89-95b3-561da16c835d",
+      "code": "GBCDF",
+      "name": "Cardiff",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.4620018005371,
+        "longitude": -3.16700005531311
+      },
+      "active": true
+    },
+    {
+      "id": "f484a52a-038b-4a0a-a3f7-03c82f718c22",
+      "code": "GBCAR",
+      "name": "Cardigan (Aberteifi)",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 52.0833015441895,
+        "longitude": -4.65000009536743
+      },
+      "active": true
+    },
+    {
+      "id": "e2be4ada-934b-4ac0-a65d-b1273ca745c0",
+      "code": "GBCAX",
+      "name": "Carlisle",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.88330078125,
+        "longitude": -2.93333005905151
+      },
+      "active": true
+    },
+    {
+      "id": "275f2622-b771-4f4e-a538-718b7cbf168e",
+      "code": "GBRLW",
+      "name": "Carloway",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.2667007446289,
+        "longitude": -6.78332996368408
+      },
+      "active": true
+    },
+    {
+      "id": "b602cc9b-cf2a-41ec-b1ae-3fdd7d5df61a",
+      "code": "GBCAH",
+      "name": "Carnlough",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.9832992553711,
+        "longitude": -6.0
+      },
+      "active": true
+    },
+    {
+      "id": "a618d879-9144-4038-afd6-d39636989ce3",
+      "code": "GBCRA",
+      "name": "Carradale",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.5919990539551,
+        "longitude": -5.46299982070923
+      },
+      "active": true
+    },
+    {
+      "id": "6366df4b-5d3e-40ff-aa4b-ad9acb9afff0",
+      "code": "GBCFG",
+      "name": "Carrickfergus",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.7128982543945,
+        "longitude": -5.80999994277954
+      },
+      "active": true
+    },
+    {
+      "id": "d3c1ae8e-e334-48f0-9fb2-c2b679df197e",
+      "code": "GBRRO",
+      "name": "Carron",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.3499984741211,
+        "longitude": -5.59999990463257
+      },
+      "active": true
+    },
+    {
+      "id": "e61b8b0a-0b06-4fd3-b9d0-0cdd6ca3d0fb",
+      "code": "GBCET",
+      "name": "Carsethorn",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.923999786377,
+        "longitude": -3.57500004768372
+      },
+      "active": true
+    },
+    {
+      "id": "b227de2d-1aab-4fa0-82f8-2e3f0f76b01f",
+      "code": "FRCRT",
+      "name": "Carteret",
+      "countryCode": "FRA",
+      "coordinate": {
+        "latitude": 49.3800010681152,
+        "longitude": -1.75
+      },
+      "active": true
+    },
+    {
+      "id": "cdb1a6d8-8e61-44b1-93aa-482f7fcc49ad",
+      "code": "GBCBA",
+      "name": "Castlebay",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.0,
+        "longitude": -7.40000009536743
+      },
+      "active": true
+    },
+    {
+      "id": "6f838e27-97b2-4412-b672-096d9d95ea02",
+      "code": "GBCTN",
+      "name": "Castletown",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.5999984741211,
+        "longitude": -3.38333010673523
+      },
+      "active": true
+    },
+    {
+      "id": "94722e59-b210-4374-9041-89f0df9694c5",
+      "code": "GBCCE",
+      "name": "Catterline",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.9000015258789,
+        "longitude": -2.20000004768372
+      },
+      "active": true
+    },
+    {
+      "id": "cb9cc937-a897-4848-b057-68bb32992067",
+      "code": "GBCNX",
+      "name": "Cawsand",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.3310012817383,
+        "longitude": -4.2020001411438
+      },
+      "active": true
+    },
+    {
+      "id": "c9d75b86-a455-4408-8877-9bcd71ad238e",
+      "code": "GBCEB",
+      "name": "Cemaes Bay",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 53.4166984558105,
+        "longitude": -4.44999980926514
+      },
+      "active": true
+    },
+    {
+      "id": "13290d3b-49cd-4aa8-87bc-45b5816ce02e",
+      "code": "GBCNM",
+      "name": "Central Mainland, Shetland",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 60.3166999816895,
+        "longitude": -1.2666699886322
+      },
+      "active": true
+    },
+    {
+      "id": "f7ae778a-1353-489f-a3af-80492d20ca74",
+      "code": "GBCHD",
+      "name": "Charleston",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.0332984924316,
+        "longitude": -3.5
+      },
+      "active": true
+    },
+    {
+      "id": "8842d997-f01f-4fa3-a15e-8e89436c7b17",
+      "code": "GBCWN",
+      "name": "Charlestown",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.0299987792969,
+        "longitude": -3.5
+      },
+      "active": true
+    },
+    {
+      "id": "d10f36fa-e6b1-44c0-8cf5-c6d1dc8ce62c",
+      "code": "GBCSR",
+      "name": "Chester",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 53.2000007629395,
+        "longitude": -2.91667008399963
+      },
+      "active": true
+    },
+    {
+      "id": "28e1feec-ae8c-464e-8f5c-4a7e80385e03",
+      "code": "GBCCH",
+      "name": "Christchurch",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.7332992553711,
+        "longitude": -1.75
+      },
+      "active": true
+    },
+    {
+      "id": "065686fe-1153-4d22-9a6b-e4393873a054",
+      "code": "GBCLS",
+      "name": "Clacton-on-Sea",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.7999992370605,
+        "longitude": 1.14999997615814
+      },
+      "active": true
+    },
+    {
+      "id": "75947a12-42c2-4d3d-b21e-60807eecc812",
+      "code": "GBCVL",
+      "name": "Clovelly",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.0,
+        "longitude": -4.40000009536743
+      },
+      "active": true
+    },
+    {
+      "id": "c114d868-fcbc-425a-8f50-fd1d6eb33ff5",
+      "code": "GBCOL",
+      "name": "Colchester",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.88330078125,
+        "longitude": 0.899999976158142
+      },
+      "active": true
+    },
+    {
+      "id": "f3b7b3ca-a6fa-4c06-83f7-fbee0b24e316",
+      "code": "GBCLR",
+      "name": "Coleraine",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.13330078125,
+        "longitude": -6.66666984558105
+      },
+      "active": true
+    },
+    {
+      "id": "f179636e-bf59-4862-8b71-40530321a80a",
+      "code": "GBOLL",
+      "name": "Coll",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.61669921875,
+        "longitude": -6.51667022705078
+      },
+      "active": true
+    },
+    {
+      "id": "68f2f1ed-00f9-4687-b5e6-4ffad0955144",
+      "code": "GBCAF",
+      "name": "Collafirth",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 60.4010009765625,
+        "longitude": -1.21899998188019
+      },
+      "active": true
+    },
+    {
+      "id": "c527a9d1-eeec-4d07-92f8-5f6032e7aba0",
+      "code": "GBCIT",
+      "name": "Collieston",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.3489990234375,
+        "longitude": -1.93400001525879
+      },
+      "active": true
+    },
+    {
+      "id": "350430e3-1abf-4916-958e-3f300506dd60",
+      "code": "GBCSA",
+      "name": "Colonsay",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.0690002441406,
+        "longitude": -6.18735980987549
+      },
+      "active": true
+    },
+    {
+      "id": "f9c90ac4-e652-4eb0-8f98-764b4dfbe89a",
+      "code": "GBCQY",
+      "name": "Connah's Quay",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 53.2167015075684,
+        "longitude": -3.06666994094849
+      },
+      "active": true
+    },
+    {
+      "id": "2e4f5976-6c2b-4ace-9c44-7dbb06b9556b",
+      "code": "GBCWA",
+      "name": "Conwy (Conway)",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 53.2832984924316,
+        "longitude": -3.83332991600037
+      },
+      "active": true
+    },
+    {
+      "id": "28c4720a-d746-423e-9c99-dca783cc8bcd",
+      "code": "GBCOR",
+      "name": "Corpach",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.8333015441895,
+        "longitude": -5.11667013168335
+      },
+      "active": true
+    },
+    {
+      "id": "d701548b-539e-4e1f-8d9f-e2db26e22cdc",
+      "code": "GBORR",
+      "name": "Corran",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.7167015075684,
+        "longitude": -5.23332977294922
+      },
+      "active": true
+    },
+    {
+      "id": "5b038b1a-31b9-4e12-a2c3-4bfc3c7f1ee6",
+      "code": "GBCOU",
+      "name": "Coulport",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.0,
+        "longitude": -4.84999990463257
+      },
+      "active": true
+    },
+    {
+      "id": "61686d22-12ed-45b6-8534-1fb1c85b9932",
+      "code": "GBACV",
+      "name": "Cove, Aberdeen",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.0999984741211,
+        "longitude": -2.06666994094849
+      },
+      "active": true
+    },
+    {
+      "id": "72eb9201-98b5-4e64-a4c1-43b3a4523aac",
+      "code": "GBCVI",
+      "name": "Cove, Leith",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.9333000183105,
+        "longitude": -2.34999990463257
+      },
+      "active": true
+    },
+    {
+      "id": "dd8cad04-4d56-4f02-93ec-d2e704d26506",
+      "code": "GBCOV",
+      "name": "Coverack",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.0167007446289,
+        "longitude": -5.09999990463257
+      },
+      "active": true
+    },
+    {
+      "id": "b56f99dd-e519-43f1-946c-885137f0b563",
+      "code": "GBCOW",
+      "name": "Cowes",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.7667007446289,
+        "longitude": -1.29999995231628
+      },
+      "active": true
+    },
+    {
+      "id": "d791fb7c-1b58-41f5-9c62-3d5b033069ff",
+      "code": "GBCGJ",
+      "name": "Craighouse, Isle of Jura",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.8320007324219,
+        "longitude": -5.94899988174438
+      },
+      "active": true
+    },
+    {
+      "id": "9ca80791-9d93-492e-91cf-111dc42d0493",
+      "code": "GBCRJ",
+      "name": "Crail",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.25,
+        "longitude": -2.61666989326477
+      },
+      "active": true
+    },
+    {
+      "id": "c2c13dab-a540-4d1a-ba76-4fedb6e764d4",
+      "code": "GBCRX",
+      "name": "Craster",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.4667015075684,
+        "longitude": -1.58333003520966
+      },
+      "active": true
+    },
+    {
+      "id": "6056c05b-d7e0-4208-82a2-51ffd8e082af",
+      "code": "GBCNC",
+      "name": "Crinan",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.0833015441895,
+        "longitude": -5.55000019073486
+      },
+      "active": true
+    },
+    {
+      "id": "6b93e930-5510-4bb3-b925-5409e07bbf02",
+      "code": "GBCRN",
+      "name": "Cromarty",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.6666984558105,
+        "longitude": -4.0
+      },
+      "active": true
+    },
+    {
+      "id": "1a638a68-963d-4d39-976f-1aa55976480c",
+      "code": "GBCRR",
+      "name": "Cromer",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 52.9333000183105,
+        "longitude": 1.29999995231628
+      },
+      "active": true
+    },
+    {
+      "id": "1ba675cf-ed9b-4f24-9b05-d5f253a6887a",
+      "code": "GBCKK",
+      "name": "Crosskirk",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.5999984741211,
+        "longitude": -3.65000009536743
+      },
+      "active": true
+    },
+    {
+      "id": "8fe9a18d-56f0-4ab7-916c-1592944bac8f",
+      "code": "GBCUA",
+      "name": "Cuan Ferry, Seil",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.2667007446289,
+        "longitude": -5.61667013168335
+      },
+      "active": true
+    },
+    {
+      "id": "2b478a91-0214-40a1-bf16-cb6339b9bdfd",
+      "code": "GBCLM",
+      "name": "Culkein, Drumbeg",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.2332992553711,
+        "longitude": -5.33333015441895
+      },
+      "active": true
+    },
+    {
+      "id": "e8d05283-2418-4452-b269-70eacd060360",
+      "code": "GBCUO",
+      "name": "Cullercoats",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.0332984924316,
+        "longitude": -1.43333005905151
+      },
+      "active": true
+    },
+    {
+      "id": "bb2796a7-062c-4524-bc7b-440f3f9ca06c",
+      "code": "GBCUV",
+      "name": "Cullivoe, Yell",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 60.7000007629395,
+        "longitude": -1.0
+      },
+      "active": true
+    },
+    {
+      "id": "f0c4d089-d79f-4255-bde6-67f11269c605",
+      "code": "GBCUM",
+      "name": "Cumbraes",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.7529983520508,
+        "longitude": -4.92899990081787
+      },
+      "active": true
+    },
+    {
+      "id": "44b40e2f-9927-4003-95d4-37cdab70be18",
+      "code": "GBCUS",
+      "name": "Cushendall",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.0833015441895,
+        "longitude": -6.05000019073486
+      },
+      "active": true
+    },
+    {
+      "id": "4864fbeb-c024-4152-8f20-7713dfdce211",
+      "code": "GBCUE",
+      "name": "Cushendun",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.13330078125,
+        "longitude": -6.05000019073486
+      },
+      "active": true
+    },
+    {
+      "id": "27b6dbba-a31c-4906-bcc8-8d0ccd2dcc85",
+      "code": "GBDTM",
+      "name": "Dartmouth",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.3499984741211,
+        "longitude": -3.58332991600037
+      },
+      "active": true
+    },
+    {
+      "id": "c36e58af-843f-4e50-a72c-6e3afc07ed80",
+      "code": "GBDEX",
+      "name": "Deal",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.2167015075684,
+        "longitude": 1.39999997615814
+      },
+      "active": true
+    },
+    {
+      "id": "c2003e83-226b-493d-9059-0186c51e82c5",
+      "code": "GBEER",
+      "name": "Deerness",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.9667015075684,
+        "longitude": -2.84999990463257
+      },
+      "active": true
+    },
+    {
+      "id": "4f70e2e5-b538-4539-851e-3dbd51ce1f77",
+      "code": "GBDHD",
+      "name": "Donaghadee",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.63330078125,
+        "longitude": -5.53332996368408
+      },
+      "active": true
+    },
+    {
+      "id": "361acd0c-0a28-49bc-88aa-6d13b60bee10",
+      "code": "GBDOC",
+      "name": "Dornoch",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.8790016174316,
+        "longitude": -4.01765012741089
+      },
+      "active": true
+    },
+    {
+      "id": "0a83307c-97f0-48b2-b015-a9b739dab8cf",
+      "code": "IMDGS",
+      "name": "Douglas",
+      "countryCode": "IMN",
+      "coordinate": {
+        "latitude": 54.1450004577637,
+        "longitude": -4.46999979019165
+      },
+      "active": true
+    },
+    {
+      "id": "5baffc07-b927-4090-81f4-5c47811518d7",
+      "code": "GBDVR",
+      "name": "Dover",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.1220016479492,
+        "longitude": 1.31299996376038
+      },
+      "active": true
+    },
+    {
+      "id": "3c7e9c1f-d1cb-4426-84a2-9e4ed19a21d0",
+      "code": "GBDRM",
+      "name": "Drummore",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.6915016174316,
+        "longitude": -4.89222002029419
+      },
+      "active": true
+    },
+    {
+      "id": "a0c3f01a-f7d6-413e-84d2-d4a8149581b7",
+      "code": "GBDUM",
+      "name": "Dumfries",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.0666999816895,
+        "longitude": -3.59999990463257
+      },
+      "active": true
+    },
+    {
+      "id": "562bd9de-8bf1-48a7-8a16-ccb037161da6",
+      "code": "GBDBR",
+      "name": "Dunbar",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.9832992553711,
+        "longitude": -2.4833300113678
+      },
+      "active": true
+    },
+    {
+      "id": "f5c1c13c-9974-43e1-b23e-77b8f3b2b99d",
+      "code": "GBDUE",
+      "name": "Dunbeath",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.2332992553711,
+        "longitude": -3.43333005905151
+      },
+      "active": true
+    },
+    {
+      "id": "6882df4b-7aa9-4d91-acf2-02d2970ef801",
+      "code": "GBDUN",
+      "name": "Dundee",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.4667015075684,
+        "longitude": -2.91667008399963
+      },
+      "active": true
+    },
+    {
+      "id": "00b3cf43-9b9d-431a-bbaa-be628fe8296a",
+      "code": "GBDDM",
+      "name": "Dundrum",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.25,
+        "longitude": -5.84999990463257
+      },
+      "active": true
+    },
+    {
+      "id": "6ba46314-e1f6-4607-ab27-005d78ee3fcd",
+      "code": "GBDSS",
+      "name": "Dungeness",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.9166984558105,
+        "longitude": 0.966666996479034
+      },
+      "active": true
+    },
+    {
+      "id": "fdddc439-ae84-498e-acdf-4c5dbdd7fc2c",
+      "code": "GBDNU",
+      "name": "Dunoon",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.9459991455078,
+        "longitude": -4.92199993133545
+      },
+      "active": true
+    },
+    {
+      "id": "7d7ec5dc-62c7-4cce-aa08-13c3feb8af5c",
+      "code": "GBDNF",
+      "name": "Dunrossness",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 60.1839981079102,
+        "longitude": -1.22899997234344
+      },
+      "active": true
+    },
+    {
+      "id": "ada5fdef-e510-476d-9034-e0eb4cdddd9a",
+      "code": "GBDSK",
+      "name": "Dunseverick",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.2332992553711,
+        "longitude": -6.44999980926514
+      },
+      "active": true
+    },
+    {
+      "id": "d44d86cc-e231-4813-9c81-bc7679b0634c",
+      "code": "GBDTF",
+      "name": "Dunstaffnage",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.4500007629395,
+        "longitude": -5.41666984558105
+      },
+      "active": true
+    },
+    {
+      "id": "4d16dd0e-07d1-4000-a5a5-0e440472b8e5",
+      "code": "GBDRE",
+      "name": "Dunure",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.4070014953613,
+        "longitude": -4.75699996948242
+      },
+      "active": true
+    },
+    {
+      "id": "6f748b8f-df3c-44cf-b116-f205c66ec402",
+      "code": "GBDVN",
+      "name": "Dunvegan",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.4333000183105,
+        "longitude": -6.58333015441895
+      },
+      "active": true
+    },
+    {
+      "id": "03f73890-b9ef-4b6b-b058-ca04b69abd38",
+      "code": "GBDNW",
+      "name": "Dunwich",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 52.2667007446289,
+        "longitude": 1.61667001247406
+      },
+      "active": true
+    },
+    {
+      "id": "1c46fcca-7705-4961-b849-77be954849f2",
+      "code": "GBDYS",
+      "name": "Dysart",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.11669921875,
+        "longitude": -3.13333010673523
+      },
+      "active": true
+    },
+    {
+      "id": "79b01260-0654-4dc5-af14-312b24812d90",
+      "code": "GBEWT",
+      "name": "East Wittering",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.7690010070801,
+        "longitude": -0.871999979019165
+      },
+      "active": true
+    },
+    {
+      "id": "d955af42-18be-4e8c-a36b-217c3b492e33",
+      "code": "GBEBO",
+      "name": "Eastbourne",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.7667007446289,
+        "longitude": 0.283333003520966
+      },
+      "active": true
+    },
+    {
+      "id": "c6e1a930-3598-4463-9b63-5634b26b01c8",
+      "code": "GBEOI",
+      "name": "Eday",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 59.1920013427734,
+        "longitude": -2.76999998092651
+      },
+      "active": true
+    },
+    {
+      "id": "9a0a0508-36f5-45a3-b68c-ab6143a6e783",
+      "code": "GBESK",
+      "name": "Eishken",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.0180015563965,
+        "longitude": -6.52899980545044
+      },
+      "active": true
+    },
+    {
+      "id": "1075fb58-313a-46cc-8b47-812165171014",
+      "code": "GBELI",
+      "name": "Elie",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.1833000183105,
+        "longitude": -2.79999995231628
+      },
+      "active": true
+    },
+    {
+      "id": "f3559ad2-9d02-4571-b28f-82cc29c5109f",
+      "code": "GBEMS",
+      "name": "Emsworth",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.8499984741211,
+        "longitude": -0.933332979679108
+      },
+      "active": true
+    },
+    {
+      "id": "86c8bf27-c0c6-47f3-8d9a-4f18cac88eaa",
+      "code": "GBRBL",
+      "name": "Erribol",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.4667015075684,
+        "longitude": -4.68333005905151
+      },
+      "active": true
+    },
+    {
+      "id": "7c3c1799-65b5-4273-86e8-fed7af91f025",
+      "code": "GBESS",
+      "name": "Eshaness",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 60.5,
+        "longitude": -1.54999995231628
+      },
+      "active": true
+    },
+    {
+      "id": "17f35d8f-56ba-4518-9357-85966565c013",
+      "code": "GBEXE",
+      "name": "Exeter",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.7000007629395,
+        "longitude": -3.53332996368408
+      },
+      "active": true
+    },
+    {
+      "id": "ba3e7bd6-8571-4114-9edb-5e24cf54d478",
+      "code": "GBEXM",
+      "name": "Exmouth",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.6189994812012,
+        "longitude": -3.41300010681152
+      },
+      "active": true
+    },
+    {
+      "id": "c407517a-f693-41c1-a73d-6b4d141a14c5",
+      "code": "GBEYM",
+      "name": "Eyemouth",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.86669921875,
+        "longitude": -2.08332991600037
+      },
+      "active": true
+    },
+    {
+      "id": "0e187125-5d4c-401d-9aa6-cf84946ad935",
+      "code": "GBFAL",
+      "name": "Falmouth",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.1483001708984,
+        "longitude": -5.07610988616943
+      },
+      "active": true
+    },
+    {
+      "id": "02ef544f-5c7b-40a9-b4cc-3b0792b76d85",
+      "code": "GBFAV",
+      "name": "Faversham",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.3166999816895,
+        "longitude": 0.899999976158142
+      },
+      "active": true
+    },
+    {
+      "id": "a2dc7d1b-91e4-4bcd-957a-607b855f8a4e",
+      "code": "GBFXT",
+      "name": "Felixstowe",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.9667015075684,
+        "longitude": 1.35000002384186
+      },
+      "active": true
+    },
+    {
+      "id": "b9ce34d0-0d4b-44ac-a6bb-6c0ec109c124",
+      "code": "GBFEB",
+      "name": "Ferrybridge",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 53.7000007629395,
+        "longitude": -1.2666699886322
+      },
+      "active": true
+    },
+    {
+      "id": "c912a23b-c6ac-4a4b-9547-7715b1ae635a",
+      "code": "GBFLY",
+      "name": "Filey",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.2099990844727,
+        "longitude": -0.289166986942291
+      },
+      "active": true
+    },
+    {
+      "id": "fa45fffe-6d29-4706-9312-b0be01492fed",
+      "code": "GBFID",
+      "name": "Findochty",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.6833000183105,
+        "longitude": -2.90000009536743
+      },
+      "active": true
+    },
+    {
+      "id": "fcd09cf5-17e6-4cdf-93b1-1c468acd6070",
+      "code": "GBFIO",
+      "name": "Fionnphort",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.3166999816895,
+        "longitude": -6.34999990463257
+      },
+      "active": true
+    },
+    {
+      "id": "426f14ad-19ce-44ce-bdea-02e67ef9a770",
+      "code": "GBFIH",
+      "name": "Fisherrow/Musselburgh",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.9333000183105,
+        "longitude": -3.06666994094849
+      },
+      "active": true
+    },
+    {
+      "id": "6279393c-c914-4f6e-bc20-2a4bee7a905f",
+      "code": "GBFIS",
+      "name": "Fishguard",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.9928016662598,
+        "longitude": -4.97360992431641
+      },
+      "active": true
+    },
+    {
+      "id": "dec1db5c-6bab-48f8-9a3e-85598992c76b",
+      "code": "GBFBH",
+      "name": "Flamborough",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.11669921875,
+        "longitude": -0.116667002439499
+      },
+      "active": true
+    },
+    {
+      "id": "e78b0ab8-2f98-4092-a9f7-fd91ac7acf95",
+      "code": "GBFET",
+      "name": "Fleet",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 52.7832984924316,
+        "longitude": 0.0
+      },
+      "active": true
+    },
+    {
+      "id": "e34b45b6-c0ac-4d5d-86d0-657b34fb3f25",
+      "code": "GBFLE",
+      "name": "Fleetwood",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 53.9166984558105,
+        "longitude": -3.0
+      },
+      "active": true
+    },
+    {
+      "id": "ef99a659-ff24-4b98-832d-87e32a3bacad",
+      "code": "GBFLK",
+      "name": "Flookburgh",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.1666984558105,
+        "longitude": -2.96667003631592
+      },
+      "active": true
+    },
+    {
+      "id": "d1956b19-c0a9-4bd6-aba5-a2f70c72a5fb",
+      "code": "GBFLU",
+      "name": "Flushing",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.1500015258789,
+        "longitude": -5.06666994094849
+      },
+      "active": true
+    },
+    {
+      "id": "f7010ab6-4097-4bf8-8488-9f918c65d38a",
+      "code": "GBFOI",
+      "name": "Foindlemore, Loch Glendhu",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.25,
+        "longitude": -4.98332977294922
+      },
+      "active": true
+    },
+    {
+      "id": "b0eb4f91-8d7b-4661-88a1-5b2460790623",
+      "code": "GBFOL",
+      "name": "Folkestone",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.0789985656738,
+        "longitude": 1.18900001049042
+      },
+      "active": true
+    },
+    {
+      "id": "613a193b-406e-4b0d-ac7b-ae640216b23b",
+      "code": "GBFWM",
+      "name": "Fort William",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.8166999816895,
+        "longitude": -5.08333015441895
+      },
+      "active": true
+    },
+    {
+      "id": "7d3e288b-b330-4f69-89bb-3fa7c089157d",
+      "code": "GBFDK",
+      "name": "Fosdyke",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 52.86669921875,
+        "longitude": 0.0
+      },
+      "active": true
+    },
+    {
+      "id": "0f2d36ef-b560-4d6d-af2d-f6bc6e68fc77",
+      "code": "GBFOY",
+      "name": "Fowey",
+      "countryCode": "GBR",
+      "coordinate": null,
+      "active": true
+    },
+    {
+      "id": "928e7e1b-e6be-465e-bbb0-b10e207d07df",
+      "code": "GBFRB",
+      "name": "Fraserburgh",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.6833000183105,
+        "longitude": -2.0
+      },
+      "active": true
+    },
+    {
+      "id": "4f7ba9cb-47ad-4c59-a033-01943d96c291",
+      "code": "GBFUR",
+      "name": "Furnace",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.1500015258789,
+        "longitude": -5.16666984558105
+      },
+      "active": true
+    },
+    {
+      "id": "1806cbe8-053e-41e3-9686-da60f76dbb9f",
+      "code": "GBGAR",
+      "name": "Gairloch",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.7000007629395,
+        "longitude": -5.68333005905151
+      },
+      "active": true
+    },
+    {
+      "id": "19a12710-f287-4157-8bfb-716e01ad5a5b",
+      "code": "GBGAS",
+      "name": "Galmisdale, Eigg",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.86669921875,
+        "longitude": -6.13332986831665
+      },
+      "active": true
+    },
+    {
+      "id": "f32f2a77-abe0-4d3c-bc13-ee3007e24b7c",
+      "code": "GBGDN",
+      "name": "Gardenstown",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.6666984558105,
+        "longitude": -2.33332991600037
+      },
+      "active": true
+    },
+    {
+      "id": "c6d44c7a-5fd5-4666-a783-28f64f28eef4",
+      "code": "GBGLH",
+      "name": "Gareloch",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.0999984741211,
+        "longitude": -4.81666994094849
+      },
+      "active": true
+    },
+    {
+      "id": "90d459d9-2a51-4c90-820d-c78e17afaab9",
+      "code": "GBGIS",
+      "name": "Garlieston",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.7879981994629,
+        "longitude": -4.36399984359741
+      },
+      "active": true
+    },
+    {
+      "id": "b3a2d77e-4a87-4116-b6c3-110e3158033b",
+      "code": "GBRRB",
+      "name": "Garrabost",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.2167015075684,
+        "longitude": -6.23332977294922
+      },
+      "active": true
+    },
+    {
+      "id": "5699460b-f7cd-4beb-a33a-180cf5901722",
+      "code": "GBGIR",
+      "name": "Girvan",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.2332992553711,
+        "longitude": -4.84999990463257
+      },
+      "active": true
+    },
+    {
+      "id": "aee0a676-215e-43de-9e04-b4c24554909f",
+      "code": "GBGLW",
+      "name": "Glasgow",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.8499984741211,
+        "longitude": -4.23332977294922
+      },
+      "active": true
+    },
+    {
+      "id": "f5a2fbe0-69f0-45bb-b010-7e6992940889",
+      "code": "GBGLD",
+      "name": "Glasson Dock",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 53.9832992553711,
+        "longitude": -2.84999990463257
+      },
+      "active": true
+    },
+    {
+      "id": "55ec07b6-521f-4c3d-b91e-dc7c6eeecde9",
+      "code": "GBGLA",
+      "name": "Glenarm",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.9679985046387,
+        "longitude": -5.9520001411438
+      },
+      "active": true
+    },
+    {
+      "id": "d6e60ec9-8ede-4d8c-9b7d-c20d7244b97a",
+      "code": "GBGLG",
+      "name": "Glenuig",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.8333015441895,
+        "longitude": -5.81666994094849
+      },
+      "active": true
+    },
+    {
+      "id": "1a088a91-5b27-489a-8203-0ba16475eceb",
+      "code": "GBGLO",
+      "name": "Gloucester",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.8629989624023,
+        "longitude": -2.25200009346008
+      },
+      "active": true
+    },
+    {
+      "id": "3876d965-1331-4c00-b9e4-5a8bb5472984",
+      "code": "GBGLP",
+      "name": "Golspie",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.9749984741211,
+        "longitude": -3.97000002861023
+      },
+      "active": true
+    },
+    {
+      "id": "eb186d09-1f70-4f89-bb02-d71cb988bb93",
+      "code": "GBGOO",
+      "name": "Goole",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 53.7167015075684,
+        "longitude": -0.866666972637177
+      },
+      "active": true
+    },
+    {
+      "id": "52a7a8e3-adde-42e2-aaf6-1c7175ed9818",
+      "code": "GBGOR",
+      "name": "Gorran Haven",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.2332992553711,
+        "longitude": -4.80000019073486
+      },
+      "active": true
+    },
+    {
+      "id": "a6eab33e-6b05-4375-a3b9-818307f17cae",
+      "code": "GBGUD",
+      "name": "Gourdon",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.8279991149902,
+        "longitude": -2.28399991989136
+      },
+      "active": true
+    },
+    {
+      "id": "47f3d540-ca6f-4be2-a4ab-cdbb7f4dccc4",
+      "code": "GBGUR",
+      "name": "Gourock",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.9500007629395,
+        "longitude": -4.80000019073486
+      },
+      "active": true
+    },
+    {
+      "id": "fc6b2c38-49c4-4b7d-b546-724bb1bfcb40",
+      "code": "GBGRG",
+      "name": "Grangemouth",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.0,
+        "longitude": -3.66667008399963
+      },
+      "active": true
+    },
+    {
+      "id": "d64b1566-48df-402c-83b3-c469aa0051f9",
+      "code": "GBGRN",
+      "name": "Granton",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.9832992553711,
+        "longitude": -3.20000004768372
+      },
+      "active": true
+    },
+    {
+      "id": "a7bc0a28-1b83-4841-811a-7935274bbc19",
+      "code": "FRGFR",
+      "name": "Granville",
+      "countryCode": "FRA",
+      "coordinate": {
+        "latitude": 48.8300018310547,
+        "longitude": -1.60000002384186
+      },
+      "active": true
+    },
+    {
+      "id": "fb6b2a99-55ea-4ee8-841e-55be6c33a608",
+      "code": "GBGVS",
+      "name": "Gravesend",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.4333000183105,
+        "longitude": 0.366667002439499
+      },
+      "active": true
+    },
+    {
+      "id": "5ae6cae6-f455-4c70-be6e-f978572b5a35",
+      "code": "GBGWG",
+      "name": "Great Wakering",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.5499992370605,
+        "longitude": 0.800000011920929
+      },
+      "active": true
+    },
+    {
+      "id": "81dac415-f222-4e79-8a01-b67a1d07786d",
+      "code": "GBGTY",
+      "name": "Great Yarmouth",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 52.63330078125,
+        "longitude": 1.75
+      },
+      "active": true
+    },
+    {
+      "id": "3d48e82b-fd23-4ddc-b875-91111e0a1215",
+      "code": "GBGFI",
+      "name": "Greenfield",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 53.2832984924316,
+        "longitude": -3.21667003631592
+      },
+      "active": true
+    },
+    {
+      "id": "c87f3985-643b-4706-8b82-6f79e57417d8",
+      "code": "GBGRK",
+      "name": "Greenock",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.9333000183105,
+        "longitude": -4.73332977294922
+      },
+      "active": true
+    },
+    {
+      "id": "0bdb82b1-88a1-407d-9596-182a86773e6e",
+      "code": "GBGMY",
+      "name": "Grimsay",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.4667015075684,
+        "longitude": -7.19999980926514
+      },
+      "active": true
+    },
+    {
+      "id": "ace595b0-40cc-4049-b5d4-f70977199095",
+      "code": "GBGSY",
+      "name": "Grimsby",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 53.5332984924316,
+        "longitude": 0.0
+      },
+      "active": true
+    },
+    {
+      "id": "9695b596-ed04-42da-8791-f904da1da87f",
+      "code": "GBGRO",
+      "name": "Groomsport",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.6666984558105,
+        "longitude": -5.61667013168335
+      },
+      "active": true
+    },
+    {
+      "id": "a5b838ad-f0ff-4bff-90dd-c8457dd5234e",
+      "code": "GBAUL",
+      "name": "Gruinard - Aultbea",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.8333015441895,
+        "longitude": -5.56666994094849
+      },
+      "active": true
+    },
+    {
+      "id": "62bb278a-3941-41c1-b01c-0e48880507a3",
+      "code": "GGGCI",
+      "name": "Guernsey",
+      "countryCode": "GGY",
+      "coordinate": {
+        "latitude": 49.4300003051758,
+        "longitude": -2.57999992370605
+      },
+      "active": true
+    },
+    {
+      "id": "9df812b2-bf75-446b-9acd-4c0038b62aae",
+      "code": "GBHAM",
+      "name": "Hamble",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.8499984741211,
+        "longitude": -1.31666994094849
+      },
+      "active": true
+    },
+    {
+      "id": "97122734-9ef0-44f2-9d4c-f361366c4b59",
+      "code": "GBHMV",
+      "name": "Hamnavoe, Burra Isle",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 60.103401184082,
+        "longitude": -1.32197999954224
+      },
+      "active": true
+    },
+    {
+      "id": "462e3de0-8d5e-422a-aaed-220da112ca81",
+      "code": "GBHTP",
+      "name": "Hartlepool",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.6833000183105,
+        "longitude": -1.21667003631592
+      },
+      "active": true
+    },
+    {
+      "id": "7c529308-e6e2-4490-a6a6-11ce6c4168e4",
+      "code": "GBHRW",
+      "name": "Harwich",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.9500007629395,
+        "longitude": 1.29999995231628
+      },
+      "active": true
+    },
+    {
+      "id": "a4135a7b-069b-422e-be2e-932393ef6239",
+      "code": "GBHTG",
+      "name": "Hastings",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.8549995422363,
+        "longitude": 0.592999994754791
+      },
+      "active": true
+    },
+    {
+      "id": "d791dacf-53e7-4ec9-8b9a-ee1c2806d7f2",
+      "code": "GBHAY",
+      "name": "Hayle",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.182201385498,
+        "longitude": -5.41583013534546
+      },
+      "active": true
+    },
+    {
+      "id": "42caa95b-fb43-4238-a32c-cafb7655daa9",
+      "code": "GBHYG",
+      "name": "Hayling Island",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.8333015441895,
+        "longitude": -0.983332991600037
+      },
+      "active": true
+    },
+    {
+      "id": "e67c32fc-ade7-4c31-ab38-01282eaf3162",
+      "code": "GBHLN",
+      "name": "Helensburgh",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.9832992553711,
+        "longitude": -4.68333005905151
+      },
+      "active": true
+    },
+    {
+      "id": "418e4624-50df-4b05-83b3-07f11a5182f4",
+      "code": "GBHDR",
+      "name": "Helford River",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.0833015441895,
+        "longitude": -5.15000009536743
+      },
+      "active": true
+    },
+    {
+      "id": "b3d74207-2911-4bba-985b-72516773f0cf",
+      "code": "GBHMA",
+      "name": "Helmsdale",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.1150016784668,
+        "longitude": -3.6489999294281
+      },
+      "active": true
+    },
+    {
+      "id": "2f25fb3f-7f3c-4d48-8ffa-d3eea1f48864",
+      "code": "GBHRN",
+      "name": "Herne Bay",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.36669921875,
+        "longitude": 1.13332998752594
+      },
+      "active": true
+    },
+    {
+      "id": "db51c4e0-bdfe-41d3-921d-6c4945e05594",
+      "code": "GBHBK",
+      "name": "Hest Bank",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.0909996032715,
+        "longitude": -2.81399989128113
+      },
+      "active": true
+    },
+    {
+      "id": "e2e26577-01d8-4946-a646-e3bcc78fc059",
+      "code": "GBHOM",
+      "name": "Holm",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.9000015258789,
+        "longitude": -2.90000009536743
+      },
+      "active": true
+    },
+    {
+      "id": "4ccd30fc-a6ec-4a7d-bc68-a4191ba11809",
+      "code": "GBHYI",
+      "name": "Holy Island",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.6666984558105,
+        "longitude": -1.79999995231628
+      },
+      "active": true
+    },
+    {
+      "id": "a97ae1e4-d7c4-4676-a3fb-c6707c240018",
+      "code": "GBHLY",
+      "name": "Holyhead",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 53.2999992370605,
+        "longitude": -4.63332986831665
+      },
+      "active": true
+    },
+    {
+      "id": "c32f27ba-ea32-49c2-8061-e5610646ab32",
+      "code": "GBHPC",
+      "name": "Hope Cove",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.2332992553711,
+        "longitude": -3.84999990463257
+      },
+      "active": true
+    },
+    {
+      "id": "e08de75e-0ec9-4f80-adb6-7860f5c9fd9a",
+      "code": "GBHOP",
+      "name": "Hopeman",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.7000007629395,
+        "longitude": -3.41667008399963
+      },
+      "active": true
+    },
+    {
+      "id": "b3456d61-0d00-468e-8568-a3fba1162245",
+      "code": "GBHRZ",
+      "name": "Hornsea",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 53.9000015258789,
+        "longitude": -0.166666999459267
+      },
+      "active": true
+    },
+    {
+      "id": "5a531e9c-ae63-4666-826c-e741e95e4e2d",
+      "code": "GBHGY",
+      "name": "Hougharry and Loch Eport",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.6100006103516,
+        "longitude": -7.51900005340576
+      },
+      "active": true
+    },
+    {
+      "id": "1f26bb38-522b-4b67-a9b1-838d433baa51",
+      "code": "GBHYO",
+      "name": "Hoy",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.7999992370605,
+        "longitude": -3.20000004768372
+      },
+      "active": true
+    },
+    {
+      "id": "76d10a03-c16d-4495-9ab8-c39da80343af",
+      "code": "GBHYL",
+      "name": "Hoylake",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 53.38330078125,
+        "longitude": -3.18333005905151
+      },
+      "active": true
+    },
+    {
+      "id": "11204aea-29bf-4439-85f2-5ecc20c24b4b",
+      "code": "GBHUL",
+      "name": "Hull",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 53.7167015075684,
+        "longitude": -0.333332985639572
+      },
+      "active": true
+    },
+    {
+      "id": "18573178-a165-46bb-a018-b3d44f4905c3",
+      "code": "GBHYT",
+      "name": "Hythe",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.0666999816895,
+        "longitude": 1.08333003520966
+      },
+      "active": true
+    },
+    {
+      "id": "705f703e-1cbe-4da4-9f9f-38c2aeeb7891",
+      "code": "GBILF",
+      "name": "Ilfracombe",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.2099990844727,
+        "longitude": -4.11299991607666
+      },
+      "active": true
+    },
+    {
+      "id": "cec79019-c883-45ae-bea4-657ea827a1ed",
+      "code": "GBIMM",
+      "name": "ImmIngham",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 53.5999984741211,
+        "longitude": -0.216666996479034
+      },
+      "active": true
+    },
+    {
+      "id": "3321f445-ac71-443a-b1c8-5083c9610d33",
+      "code": "GBINS",
+      "name": "Instow",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.0499992370605,
+        "longitude": -4.16666984558105
+      },
+      "active": true
+    },
+    {
+      "id": "df90da47-c167-412d-9bca-8cdf987fa1d5",
+      "code": "GBIAY",
+      "name": "Inverallochy",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.6666984558105,
+        "longitude": -1.91666996479034
+      },
+      "active": true
+    },
+    {
+      "id": "d44672d5-2fb1-4c4a-be0c-bc64aa412f27",
+      "code": "GBIVR",
+      "name": "Inveraray",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.2309989929199,
+        "longitude": -5.07000017166138
+      },
+      "active": true
+    },
+    {
+      "id": "4be93627-1b4c-4ef0-9ddd-8bbb3b0dc6e8",
+      "code": "GBIVG",
+      "name": "Invergordon",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.6833000183105,
+        "longitude": -4.16666984558105
+      },
+      "active": true
+    },
+    {
+      "id": "46eca8a0-042c-49b0-b062-203cd1fb7b21",
+      "code": "GBINV",
+      "name": "Inverness",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.4832992553711,
+        "longitude": -4.21667003631592
+      },
+      "active": true
+    },
+    {
+      "id": "14068fe0-20a6-45d3-8c3e-1e79167b7f71",
+      "code": "GBIPS",
+      "name": "IpswIch",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 52.0833015441895,
+        "longitude": 1.16666996479034
+      },
+      "active": true
+    },
+    {
+      "id": "dc274736-3497-418e-894e-7024714aad82",
+      "code": "GBIRV",
+      "name": "Irvine",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.5999984741211,
+        "longitude": -4.68333005905151
+      },
+      "active": true
+    },
+    {
+      "id": "66b914ae-5586-456c-ba8d-6940a18d5484",
+      "code": "GBIMG",
+      "name": "Islandmagee",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.8166999816895,
+        "longitude": -5.69999980926514
+      },
+      "active": true
+    },
+    {
+      "id": "0b25a90c-7218-44bd-a805-0a52703f461a",
+      "code": "GBISY",
+      "name": "Islay",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.7999992370605,
+        "longitude": -6.25
+      },
+      "active": true
+    },
+    {
+      "id": "394b2d92-8949-4400-b28d-39896c9e00a2",
+      "code": "GBIOS",
+      "name": "Isle of Sheppey",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.4000015258789,
+        "longitude": 0.816667020320892
+      },
+      "active": true
+    },
+    {
+      "id": "c407c45b-b36b-4b43-8ddd-dbce19c4c9b1",
+      "code": "GBWHH",
+      "name": "Isle of Whithorn",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.6990013122559,
+        "longitude": -4.36399984359741
+      },
+      "active": true
+    },
+    {
+      "id": "138c6c43-0361-4382-82a9-a368487c6342",
+      "code": "GBISC",
+      "name": "Isles of Scilly",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 49.9166984558105,
+        "longitude": -6.33333015441895
+      },
+      "active": true
+    },
+    {
+      "id": "efe645bb-f7ce-4c62-9d27-4274c656e085",
+      "code": "GBITC",
+      "name": "Itchenor",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.7999992370605,
+        "longitude": -0.866666972637177
+      },
+      "active": true
+    },
+    {
+      "id": "0b533e5a-3b6f-4e3c-8375-c30addacfe00",
+      "code": "GBJOG",
+      "name": "John o'groats",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.6440010070801,
+        "longitude": -3.0699999332428
+      },
+      "active": true
+    },
+    {
+      "id": "0f9657ed-8833-486b-821b-00dd03ad0bfc",
+      "code": "GBJHV",
+      "name": "Johnshaven",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.7939987182617,
+        "longitude": -2.33699989318848
+      },
+      "active": true
+    },
+    {
+      "id": "9bb21ffe-0fcf-4bc6-9faf-6a330c804648",
+      "code": "GBJUR",
+      "name": "Jura",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.0167007446289,
+        "longitude": -5.91666984558105
+      },
+      "active": true
+    },
+    {
+      "id": "438c4097-1d43-43bb-a87b-ad30f4988ab1",
+      "code": "GBKAL",
+      "name": "Kallin (Ceallan), Isle of Grimsay",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.4667015075684,
+        "longitude": -7.19999980926514
+      },
+      "active": true
+    },
+    {
+      "id": "e1deb9f7-8b80-4cac-b47e-4b66887e24f3",
+      "code": "GBKES",
+      "name": "Keiss",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.5320014953613,
+        "longitude": -3.11700010299683
+      },
+      "active": true
+    },
+    {
+      "id": "232a8bf2-85d1-4b8c-b85a-aa6ad1122c35",
+      "code": "GBKEV",
+      "name": "Keyhaven",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.7167015075684,
+        "longitude": -1.56666994094849
+      },
+      "active": true
+    },
+    {
+      "id": "bb5f9fb0-8e90-4197-9017-b37c119c534e",
+      "code": "GBKOA",
+      "name": "Kilchoan",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.6980018615723,
+        "longitude": -6.11299991607666
+      },
+      "active": true
+    },
+    {
+      "id": "590415c5-3a9b-48a7-b58c-c704faaf6149",
+      "code": "GBKLK",
+      "name": "Kilkeel",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.0666999816895,
+        "longitude": -6.0
+      },
+      "active": true
+    },
+    {
+      "id": "4fb16b43-8a51-41f4-9e6e-af7d3d110a85",
+      "code": "GBKIO",
+      "name": "Killough",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.25,
+        "longitude": -5.63332986831665
+      },
+      "active": true
+    },
+    {
+      "id": "c6d48cbe-47cd-47de-b058-8162802ab90a",
+      "code": "GBKYH",
+      "name": "Killyleagh",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.4000015258789,
+        "longitude": -5.71667003631592
+      },
+      "active": true
+    },
+    {
+      "id": "2084dae6-ce08-4f1b-91cf-52cc2d284f82",
+      "code": "GBKIM",
+      "name": "Kimmeridge",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.61669921875,
+        "longitude": -2.11666989326477
+      },
+      "active": true
+    },
+    {
+      "id": "a1d1ab4f-61f0-447e-89ca-7e4a2488a5d7",
+      "code": "GBKDE",
+      "name": "Kincardine",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.0666999816895,
+        "longitude": -3.70000004768372
+      },
+      "active": true
+    },
+    {
+      "id": "77d70eae-1827-4fb1-a3cc-195df8903602",
+      "code": "GBKHN",
+      "name": "Kinghorn",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.0666999816895,
+        "longitude": -3.16667008399963
+      },
+      "active": true
+    },
+    {
+      "id": "dd0f6f45-a9dd-46ff-b4df-e173288e0e06",
+      "code": "GBKLN",
+      "name": "King's Lynn",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 52.75,
+        "longitude": 0.383332997560501
+      },
+      "active": true
+    },
+    {
+      "id": "c880dcda-09e3-423f-9b93-055b08aa8614",
+      "code": "GBKIB",
+      "name": "KingsbrIdge",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.2832984924316,
+        "longitude": -3.7666699886322
+      },
+      "active": true
+    },
+    {
+      "id": "a50cb411-5a93-4396-8ea0-1eb6d2d32551",
+      "code": "GBKWE",
+      "name": "Kingswear",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.3333015441895,
+        "longitude": -3.56666994094849
+      },
+      "active": true
+    },
+    {
+      "id": "54847220-306f-46f5-885e-6153729f9d17",
+      "code": "GBKBE",
+      "name": "Kinlochbervie",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.4500007629395,
+        "longitude": -5.05000019073486
+      },
+      "active": true
+    },
+    {
+      "id": "045eaf64-b8c7-4463-8e9d-7aa1eff0d235",
+      "code": "GBKNC",
+      "name": "Kinlochleven",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.7000007629395,
+        "longitude": -4.98332977294922
+      },
+      "active": true
+    },
+    {
+      "id": "9b99896a-9cdb-4682-9998-8b9bcec9c29f",
+      "code": "GBKIP",
+      "name": "Kippford",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.8800010681152,
+        "longitude": -3.81399989128113
+      },
+      "active": true
+    },
+    {
+      "id": "a78ce620-b514-4d4d-bf7a-b534731b3671",
+      "code": "GBKCN",
+      "name": "KircubbIn",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.4832992553711,
+        "longitude": -5.53332996368408
+      },
+      "active": true
+    },
+    {
+      "id": "f7cc3950-56cd-4b4e-9329-37be05305b56",
+      "code": "GBKKD",
+      "name": "Kirkcaldy",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.0999984741211,
+        "longitude": -3.15000009536743
+      },
+      "active": true
+    },
+    {
+      "id": "feab2ded-61f9-4afc-a587-2ee85981dfad",
+      "code": "GBKBT",
+      "name": "Kirkcudbright",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.8380012512207,
+        "longitude": -4.05100011825562
+      },
+      "active": true
+    },
+    {
+      "id": "d2e72d02-0beb-4f01-9566-5a539df06196",
+      "code": "GBKWL",
+      "name": "Kirkwall",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.9832992553711,
+        "longitude": -2.95000004768372
+      },
+      "active": true
+    },
+    {
+      "id": "387ff6a9-4efc-499f-a3e4-1fcc2d2c2de1",
+      "code": "GBKRM",
+      "name": "Kirtomy",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.5332984924316,
+        "longitude": -4.15000009536743
+      },
+      "active": true
+    },
+    {
+      "id": "7a7b76ac-0045-42c4-a5bd-39fc909045f5",
+      "code": "GBKYL",
+      "name": "Kyle",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.2667007446289,
+        "longitude": -5.69999980926514
+      },
+      "active": true
+    },
+    {
+      "id": "8362bfd0-c526-4f23-bc99-50ba12ba536c",
+      "code": "GBKYE",
+      "name": "Kyles of Bute",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.86669921875,
+        "longitude": -5.21667003631592
+      },
+      "active": true
+    },
+    {
+      "id": "b58fed4c-c15f-4e13-b49d-8282439b0ad5",
+      "code": "GBKYU",
+      "name": "Kylesku",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.25,
+        "longitude": -5.01667022705078
+      },
+      "active": true
+    },
+    {
+      "id": "b5c53dc0-5f88-4ec7-b76f-8beb5b43b88c",
+      "code": "GBLAN",
+      "name": "Lancaster",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.0460014343262,
+        "longitude": -2.80100011825562
+      },
+      "active": true
+    },
+    {
+      "id": "bd183ba4-8f70-48a8-a8b6-54323df6aff3",
+      "code": "GBLSH",
+      "name": "Langstone Harbour",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.8333015441895,
+        "longitude": -0.983332991600037
+      },
+      "active": true
+    },
+    {
+      "id": "69ca839b-bb55-4ca6-a48f-3933f6b2613f",
+      "code": "GBLGS",
+      "name": "Largs",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.7832984924316,
+        "longitude": -4.86667013168335
+      },
+      "active": true
+    },
+    {
+      "id": "30d8b067-136b-4698-b472-6cd088c6e907",
+      "code": "GBLAR",
+      "name": "Larne",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.8499984741211,
+        "longitude": -5.81666994094849
+      },
+      "active": true
+    },
+    {
+      "id": "3dbb6392-be89-4862-b8d7-835833458361",
+      "code": "GBLWL",
+      "name": "Latheronwheel",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.2667007446289,
+        "longitude": -3.36666989326477
+      },
+      "active": true
+    },
+    {
+      "id": "956f00db-c87f-4414-89a9-70f324ec980e",
+      "code": "GBLOS",
+      "name": "Leigh-on-Sea",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.5499992370605,
+        "longitude": 0.666666984558105
+      },
+      "active": true
+    },
+    {
+      "id": "7dd1d640-d345-442b-8804-9442480cc473",
+      "code": "GBLEI",
+      "name": "Leith",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.9667015075684,
+        "longitude": -3.16667008399963
+      },
+      "active": true
+    },
+    {
+      "id": "cdf8597a-f355-44c8-be1f-36738defe5d6",
+      "code": "GBLER",
+      "name": "Lerwick",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 60.1629981994629,
+        "longitude": -1.15799999237061
+      },
+      "active": true
+    },
+    {
+      "id": "88ccb39c-5c3c-4813-87b1-1da14ff98ebb",
+      "code": "GBLVY",
+      "name": "Leven",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.1959991455078,
+        "longitude": -2.99600005149841
+      },
+      "active": true
+    },
+    {
+      "id": "4b801c47-d801-43f1-9ad3-11c6a8d9eea4",
+      "code": "GBLVK",
+      "name": "Levenwick",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 59.9667015075684,
+        "longitude": -1.2666699886322
+      },
+      "active": true
+    },
+    {
+      "id": "6b9f972d-a59a-4927-9053-d3d53f779aaa",
+      "code": "GBLVR",
+      "name": "Leverburgh",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.7667007446289,
+        "longitude": -7.01667022705078
+      },
+      "active": true
+    },
+    {
+      "id": "8fd30233-7067-4522-8675-150091938cc8",
+      "code": "GBLIT",
+      "name": "Littlehampton",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.7999992370605,
+        "longitude": -0.533333003520966
+      },
+      "active": true
+    },
+    {
+      "id": "b004bd76-c702-407d-9d3e-8e4135a052ce",
+      "code": "GBLIV",
+      "name": "Liverpool",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 53.4166984558105,
+        "longitude": -3.0
+      },
+      "active": true
+    },
+    {
+      "id": "ae0f4669-c586-44d7-a48d-300c0053df2b",
+      "code": "GBLZD",
+      "name": "Lizard",
+      "countryCode": "GBR",
+      "coordinate": null,
+      "active": true
+    },
+    {
+      "id": "a0c87f05-c44c-4503-b05f-ea2f08b5c4ab",
+      "code": "GBLLN",
+      "name": "Llanelli",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.6761016845703,
+        "longitude": -4.15667009353638
+      },
+      "active": true
+    },
+    {
+      "id": "d37a0dd2-4902-40e4-9697-4c9d475e8c80",
+      "code": "GBLBE",
+      "name": "Loch Buie",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.3400001525879,
+        "longitude": -5.86464023590088
+      },
+      "active": true
+    },
+    {
+      "id": "570bc2ea-d55e-43f1-b6a0-01aae09b54a0",
+      "code": "GBLCC",
+      "name": "Loch Carnan",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.36669921875,
+        "longitude": -7.26667022705078
+      },
+      "active": true
+    },
+    {
+      "id": "5570eb32-05fb-4043-a7b0-73c4f4a6a440",
+      "code": "GBLCG",
+      "name": "Loch Long",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.0833015441895,
+        "longitude": -4.84999990463257
+      },
+      "active": true
+    },
+    {
+      "id": "8ec4fe2d-8fe0-40dd-bc4d-fccb4c87c9af",
+      "code": "GBLSC",
+      "name": "Loch Scridain",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.3333015441895,
+        "longitude": -6.18333005905151
+      },
+      "active": true
+    },
+    {
+      "id": "69343725-4978-4948-b14c-c24cf5bf9852",
+      "code": "GBLBD",
+      "name": "Lochboisdale",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.1500015258789,
+        "longitude": -7.30000019073486
+      },
+      "active": true
+    },
+    {
+      "id": "ca4fd233-f1c3-414c-a74d-559b23ddcd8d",
+      "code": "GBLOV",
+      "name": "Lochinver",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.1500015258789,
+        "longitude": -5.23332977294922
+      },
+      "active": true
+    },
+    {
+      "id": "7d2e8f7c-d1e6-410f-a684-2f4cc60a1fe0",
+      "code": "GBLMA",
+      "name": "Lochmaddy",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.6030006408691,
+        "longitude": -7.16300010681152
+      },
+      "active": true
+    },
+    {
+      "id": "2709b8e7-e4ff-4061-9a20-e7ef7b00b034",
+      "code": "GBOCH",
+      "name": "Lochs",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.0999984741211,
+        "longitude": -6.48332977294922
+      },
+      "active": true
+    },
+    {
+      "id": "f000d476-9512-4d5b-a4ab-dcf23df93404",
+      "code": "GBLON",
+      "name": "London",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.5,
+        "longitude": 0.0
+      },
+      "active": true
+    },
+    {
+      "id": "36b9bb31-2264-487e-844a-f4c0a9fac13f",
+      "code": "GBLDY",
+      "name": "Londonderry",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.0,
+        "longitude": -7.33333015441895
+      },
+      "active": true
+    },
+    {
+      "id": "92121355-b6a0-43bb-893b-f99e0d79e61a",
+      "code": "GBLOE",
+      "name": "Looe",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.3499984741211,
+        "longitude": -4.44999980926514
+      },
+      "active": true
+    },
+    {
+      "id": "c2f96309-1a74-499a-8968-55e6efa55ab3",
+      "code": "GBLSS",
+      "name": "Lossiemouth",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.7167015075684,
+        "longitude": -3.2666699886322
+      },
+      "active": true
+    },
+    {
+      "id": "f9cdf178-a076-475c-9d6f-77d68dbde83c",
+      "code": "GBLOW",
+      "name": "Lowestoft",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 52.4832992553711,
+        "longitude": 1.75
+      },
+      "active": true
+    },
+    {
+      "id": "4607af3f-23a8-4402-843e-d5750d5dfdc8",
+      "code": "GBLUI",
+      "name": "Luing",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.2667007446289,
+        "longitude": -5.63332986831665
+      },
+      "active": true
+    },
+    {
+      "id": "e49eadce-37fc-4de2-a48a-bd2efec19580",
+      "code": "GBLWC",
+      "name": "Lulworth Cove",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.6189994812012,
+        "longitude": -2.25
+      },
+      "active": true
+    },
+    {
+      "id": "b9a16641-5990-47d1-9c09-647e406d2cc8",
+      "code": "GBHEQ",
+      "name": "Lune Estuary - Heaton",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.0332984924316,
+        "longitude": -2.84999990463257
+      },
+      "active": true
+    },
+    {
+      "id": "6ef8616e-5d35-4d5e-9cd4-ee3d745ad874",
+      "code": "GBLYB",
+      "name": "Lybster",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.2832984924316,
+        "longitude": -3.29999995231628
+      },
+      "active": true
+    },
+    {
+      "id": "e5dcb0d0-fb03-4c9c-b310-ac2e6ac3e358",
+      "code": "GBLYR",
+      "name": "Lyme Regis",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.7332992553711,
+        "longitude": -2.93333005905151
+      },
+      "active": true
+    },
+    {
+      "id": "ef6aaf95-94fe-461d-8d43-06765c0a7d9d",
+      "code": "GBLYM",
+      "name": "Lymington",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.75,
+        "longitude": -1.54999995231628
+      },
+      "active": true
+    },
+    {
+      "id": "291fc536-ff74-418a-85ad-eb7173834bc6",
+      "code": "GBLNM",
+      "name": "Lynmouth",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.2319984436035,
+        "longitude": -3.83100008964539
+      },
+      "active": true
+    },
+    {
+      "id": "9eaebe5f-6cd8-4614-a209-f862f19050d4",
+      "code": "GBLYA",
+      "name": "Lytham Saint Annes",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 53.7332992553711,
+        "longitude": -2.96667003631592
+      },
+      "active": true
+    },
+    {
+      "id": "0a96ecb3-98c4-4e5b-8272-647a82f5ec93",
+      "code": "GBMCD",
+      "name": "Macduff",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.6666984558105,
+        "longitude": -2.4833300113678
+      },
+      "active": true
+    },
+    {
+      "id": "f2fc1356-dbc4-41c8-b2fa-b1660c95a901",
+      "code": "GBMAC",
+      "name": "Machrihanish",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.4166984558105,
+        "longitude": -5.71667003631592
+      },
+      "active": true
+    },
+    {
+      "id": "c75bea8d-79db-49b9-90c4-47429b18dcc1",
+      "code": "GBMAI",
+      "name": "Maidens",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.3349990844727,
+        "longitude": -4.82399988174438
+      },
+      "active": true
+    },
+    {
+      "id": "0dd6162d-3059-492b-ba09-1eef1027502b",
+      "code": "GBMAL",
+      "name": "Maldon",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.7167015075684,
+        "longitude": 0.683332979679108
+      },
+      "active": true
+    },
+    {
+      "id": "765f83ca-cf91-4f27-8f9b-d63bf83f2a80",
+      "code": "GBMLG",
+      "name": "Mallaig",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.0,
+        "longitude": -5.81666994094849
+      },
+      "active": true
+    },
+    {
+      "id": "22384c8c-e661-43a8-89f8-b64d5f4744b6",
+      "code": "GBMAA",
+      "name": "Malpas",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 53.0167007446289,
+        "longitude": -2.7666699886322
+      },
+      "active": true
+    },
+    {
+      "id": "ef8ba195-615e-4165-9035-e7dde19c1f2a",
+      "code": "GBMNC",
+      "name": "Manchester",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 53.5,
+        "longitude": -2.21667003631592
+      },
+      "active": true
+    },
+    {
+      "id": "118ae0df-5f91-4582-b778-ba0e339fe568",
+      "code": "GBMGT",
+      "name": "Margate",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.3880004882813,
+        "longitude": 1.37899994850159
+      },
+      "active": true
+    },
+    {
+      "id": "4c30c425-3908-4eb1-93c8-4862c3b3fd3d",
+      "code": "GBMRY",
+      "name": "Maryport",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.7000007629395,
+        "longitude": -3.5
+      },
+      "active": true
+    },
+    {
+      "id": "8e031f97-e3bf-4146-8d4a-64f7090db53a",
+      "code": "GBMFY",
+      "name": "Meikle Ferry",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.8580017089844,
+        "longitude": -4.13600015640259
+      },
+      "active": true
+    },
+    {
+      "id": "7effcc13-4e17-451a-aedc-faf282fe8709",
+      "code": "GBMEB",
+      "name": "Menai Bridge",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 53.2167015075684,
+        "longitude": -4.15000009536743
+      },
+      "active": true
+    },
+    {
+      "id": "529e1895-0dd6-48a2-9fc5-ff2bfc767d56",
+      "code": "GBMTH",
+      "name": "Methil",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.1860008239746,
+        "longitude": -3.00600004196167
+      },
+      "active": true
+    },
+    {
+      "id": "47e04a5e-318f-467b-9421-211eddd50c19",
+      "code": "GBMVG",
+      "name": "Mevagissey",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.2667007446289,
+        "longitude": -4.78332996368408
+      },
+      "active": true
+    },
+    {
+      "id": "547cd93b-ca3d-4693-92d1-e0113a7a9e31",
+      "code": "GBMYE",
+      "name": "Mid Yell",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 60.5999984741211,
+        "longitude": -1.04999995231628
+      },
+      "active": true
+    },
+    {
+      "id": "c92fc0de-b8d7-4bf6-8c24-f11297b88164",
+      "code": "GBMID",
+      "name": "Middlesbrough",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.5666999816895,
+        "longitude": -1.14999997615814
+      },
+      "active": true
+    },
+    {
+      "id": "56e059a3-d5b9-4b87-a146-2e1180ac182b",
+      "code": "GBMLF",
+      "name": "Milford Haven",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.7167015075684,
+        "longitude": -5.03332996368408
+      },
+      "active": true
+    },
+    {
+      "id": "8f101adc-6f0a-4605-9c18-71bd83654f91",
+      "code": "GBMLB",
+      "name": "Millbrook",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.36669921875,
+        "longitude": -4.18333005905151
+      },
+      "active": true
+    },
+    {
+      "id": "15e0e986-9357-4e76-b533-6d9719c0e7dd",
+      "code": "GBMHD",
+      "name": "Minehead",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.2140007019043,
+        "longitude": -3.47399997711182
+      },
+      "active": true
+    },
+    {
+      "id": "20baa0c7-a2ad-49ea-97a4-cc65795a3ee7",
+      "code": "GBMIS",
+      "name": "Mistley",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.9333000183105,
+        "longitude": 1.08333003520966
+      },
+      "active": true
+    },
+    {
+      "id": "d74ab3e0-baf6-4f1f-bbe6-5b0910ab281e",
+      "code": "GBMON",
+      "name": "Montrose",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.7000007629395,
+        "longitude": -2.46667003631592
+      },
+      "active": true
+    },
+    {
+      "id": "6a027d7a-6012-4d67-b536-f72cb29a45a8",
+      "code": "GBMOC",
+      "name": "Morecambe",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.0740013122559,
+        "longitude": -2.86500000953674
+      },
+      "active": true
+    },
+    {
+      "id": "32a117cb-dce0-4ca3-8cad-c07bc0558fff",
+      "code": "GBMFN",
+      "name": "Morfa Nefyn",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 52.9333000183105,
+        "longitude": -4.53332996368408
+      },
+      "active": true
+    },
+    {
+      "id": "e8a2a336-3af3-4f00-9543-664b3b181357",
+      "code": "GBCHE",
+      "name": "Mostyn",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 53.3250007629395,
+        "longitude": -3.26200008392334
+      },
+      "active": true
+    },
+    {
+      "id": "0fad968a-712d-4008-a1a5-0027331eeecb",
+      "code": "GBMSH",
+      "name": "Mousehole",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.0830001831055,
+        "longitude": -5.55000019073486
+      },
+      "active": true
+    },
+    {
+      "id": "d56a2edf-47d7-4823-b4bc-e564f7b7a020",
+      "code": "GBMUA",
+      "name": "Muasdale",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.5999984741211,
+        "longitude": -5.66666984558105
+      },
+      "active": true
+    },
+    {
+      "id": "30ed6a67-9f37-407f-9708-b90f0cc35724",
+      "code": "GBMLI",
+      "name": "Mullion",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.0149993896484,
+        "longitude": -5.25699996948242
+      },
+      "active": true
+    },
+    {
+      "id": "e9845bd2-9fb7-4240-9ea8-e03ed5a32544",
+      "code": "GBMYL",
+      "name": "Mylor",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.1666984558105,
+        "longitude": -5.05000019073486
+      },
+      "active": true
+    },
+    {
+      "id": "13cd973b-4fdf-46fd-9822-ac701479a9f9",
+      "code": "GBNAI",
+      "name": "Nairn",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.5833015441895,
+        "longitude": -3.86666989326477
+      },
+      "active": true
+    },
+    {
+      "id": "2ffbe181-860e-478a-939e-cf6d52c9beea",
+      "code": "GBNSA",
+      "name": "Ness",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.4500007629395,
+        "longitude": -6.33333015441895
+      },
+      "active": true
+    },
+    {
+      "id": "7d2a4ce5-19a7-40fa-aa8e-e3fffd205190",
+      "code": "GBCEI",
+      "name": "New Quay (Ceinewydd)",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 52.2150001525879,
+        "longitude": -4.35799980163574
+      },
+      "active": true
+    },
+    {
+      "id": "c25b970e-c32a-43ec-bfb3-47deff3d7e2c",
+      "code": "GBNBC",
+      "name": "NewbiggIn by the Sea",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.1666984558105,
+        "longitude": -1.5166699886322
+      },
+      "active": true
+    },
+    {
+      "id": "faf525db-ff7d-4f1c-9733-4a47fe8bacaa",
+      "code": "GBNBU",
+      "name": "Newburgh",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.3333015441895,
+        "longitude": -2.0
+      },
+      "active": true
+    },
+    {
+      "id": "f804462e-0c40-4022-910b-eb5ee41dba36",
+      "code": "GBNCL",
+      "name": "Newcastle upon Tyne",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.9669990539551,
+        "longitude": -1.60000002384186
+      },
+      "active": true
+    },
+    {
+      "id": "eff69d24-2d31-46d1-93e7-5c221ba9fff0",
+      "code": "GBNCS",
+      "name": "Newcastle, Co. Down",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.2167015075684,
+        "longitude": -5.90000009536743
+      },
+      "active": true
+    },
+    {
+      "id": "e411abea-3250-4f3e-9bc2-a4a3047acc27",
+      "code": "GBNHV",
+      "name": "Newhaven",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.7890014648438,
+        "longitude": 0.0570000000298023
+      },
+      "active": true
+    },
+    {
+      "id": "9c3bab70-a375-4ffc-9ef8-66365f950c34",
+      "code": "GBNWF",
+      "name": "Newhaven/Edinburgh",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.9832992553711,
+        "longitude": -3.21667003631592
+      },
+      "active": true
+    },
+    {
+      "id": "4c18a7d8-4506-4612-b305-86d9e8ff8a42",
+      "code": "GBNYL",
+      "name": "Newlyn",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.1011009216309,
+        "longitude": -5.55360984802246
+      },
+      "active": true
+    },
+    {
+      "id": "ea6607b2-36cd-469d-b559-6497295c6135",
+      "code": "GBNPT",
+      "name": "Newport, Gwent",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.5833015441895,
+        "longitude": -2.9833300113678
+      },
+      "active": true
+    },
+    {
+      "id": "98aa6e32-f757-46d1-997d-cfb542878203",
+      "code": "GBNQY",
+      "name": "Newquay",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.4166984558105,
+        "longitude": -5.08333015441895
+      },
+      "active": true
+    },
+    {
+      "id": "3f79b165-08b7-4764-a119-672fc4049843",
+      "code": "GBNRY",
+      "name": "Newry",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.1833000183105,
+        "longitude": -6.33333015441895
+      },
+      "active": true
+    },
+    {
+      "id": "73bfbcba-8f88-4396-8c36-320ffd909b2d",
+      "code": "GBNBS",
+      "name": "Newton-by-the-Sea",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.5,
+        "longitude": -1.66666996479034
+      },
+      "active": true
+    },
+    {
+      "id": "0147e98e-56de-450b-b55d-b51fb75757e3",
+      "code": "GBNYD",
+      "name": "Neyland",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.7000007629395,
+        "longitude": -4.93333005905151
+      },
+      "active": true
+    },
+    {
+      "id": "846d0a9e-4245-491c-a93c-81c95fa14a6c",
+      "code": "GBNBW",
+      "name": "North Berwick",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.0499992370605,
+        "longitude": -2.71667003631592
+      },
+      "active": true
+    },
+    {
+      "id": "b29585f3-506e-4471-b6ae-c86f12dc27ba",
+      "code": "GBNHS",
+      "name": "North Harris",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.88330078125,
+        "longitude": -6.86667013168335
+      },
+      "active": true
+    },
+    {
+      "id": "c98d8da3-da81-4c11-be0e-1fffa2660a55",
+      "code": "GBNTL",
+      "name": "North Lochs",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.0999984741211,
+        "longitude": -6.48332977294922
+      },
+      "active": true
+    },
+    {
+      "id": "f1ab2b50-9466-4135-b837-81de22b8e78c",
+      "code": "GBNOQ",
+      "name": "North Queensferry",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.0089988708496,
+        "longitude": -3.39199995994568
+      },
+      "active": true
+    },
+    {
+      "id": "9544835b-33f1-4d8e-9888-3f4af57241f1",
+      "code": "GBNRR",
+      "name": "North Roe to Hillswick",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 60.5833015441895,
+        "longitude": -1.33333003520966
+      },
+      "active": true
+    },
+    {
+      "id": "bf5d9ed4-559e-4e02-8869-bbc36a1b8fc1",
+      "code": "GBNSH",
+      "name": "North Shields",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.0046997070313,
+        "longitude": -1.47277998924255
+      },
+      "active": true
+    },
+    {
+      "id": "c488aa5e-32cd-4927-956b-4b9471549693",
+      "code": "GBNSD",
+      "name": "North Sunderland",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.5666999816895,
+        "longitude": -1.66666996479034
+      },
+      "active": true
+    },
+    {
+      "id": "68f50fc1-e0ff-49f5-b570-38d0159f85f0",
+      "code": "GBNUI",
+      "name": "North Uist",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.5999984741211,
+        "longitude": -7.15000009536743
+      },
+      "active": true
+    },
+    {
+      "id": "6487c196-2545-452c-8082-87f6f99a9a63",
+      "code": "GBNRB",
+      "name": "Northbay",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.0,
+        "longitude": -7.40000009536743
+      },
+      "active": true
+    },
+    {
+      "id": "a99ed741-b149-4323-ad53-007af3a82ce7",
+      "code": "GBNME",
+      "name": "Northmavine",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 60.523998260498,
+        "longitude": -1.37699997425079
+      },
+      "active": true
+    },
+    {
+      "id": "d1b34fe6-3730-41ae-a2af-4fa099184652",
+      "code": "GBOBA",
+      "name": "Oban",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.4000015258789,
+        "longitude": -5.46667003631592
+      },
+      "active": true
+    },
+    {
+      "id": "83f6f7cd-fb90-4fb8-813e-ce856bd8f4a2",
+      "code": "GBORH",
+      "name": "Orford",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 52.0999984741211,
+        "longitude": 1.53332996368408
+      },
+      "active": true
+    },
+    {
+      "id": "6b3453e7-0704-49b1-9850-ef643bc45563",
+      "code": "GBORK",
+      "name": "Orkney",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 59.0666999816895,
+        "longitude": -2.88333010673523
+      },
+      "active": true
+    },
+    {
+      "id": "6ad54e69-c94f-4bdb-8733-e300776936d7",
+      "code": "GBOUK",
+      "name": "Out skerries",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 60.4166984558105,
+        "longitude": -0.75
+      },
+      "active": true
+    },
+    {
+      "id": "4cf7f56a-b107-442e-85a4-863807ecd952",
+      "code": "GBPAD",
+      "name": "Padstow",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.5332984924316,
+        "longitude": -4.93333005905151
+      },
+      "active": true
+    },
+    {
+      "id": "1faa9713-3045-44b0-92a7-8dc700904713",
+      "code": "GBPAG",
+      "name": "Paglesham",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.63330078125,
+        "longitude": 0.666666984558105
+      },
+      "active": true
+    },
+    {
+      "id": "94c81480-a0aa-4668-9f7e-ca7522459463",
+      "code": "GBPGN",
+      "name": "Paignton",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.4333000183105,
+        "longitude": -3.56666994094849
+      },
+      "active": true
+    },
+    {
+      "id": "96b31794-e483-47a0-9fb2-0465d975f2b9",
+      "code": "GBPAR",
+      "name": "Par",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.3499984741211,
+        "longitude": -4.71000003814697
+      },
+      "active": true
+    },
+    {
+      "id": "1c14d941-a2c3-4c80-9ce9-339a22d12b0e",
+      "code": "IMPEL",
+      "name": "Peel",
+      "countryCode": "IMN",
+      "coordinate": {
+        "latitude": 54.2333297729492,
+        "longitude": -4.69999980926514
+      },
+      "active": true
+    },
+    {
+      "id": "dc3db906-36e6-4f6e-bf79-21df19ae736f",
+      "code": "GBPNB",
+      "name": "Penberth",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.0499992370605,
+        "longitude": -5.59999990463257
+      },
+      "active": true
+    },
+    {
+      "id": "85780d71-ecca-4177-a385-8b61ce1b2c0d",
+      "code": "GBPDD",
+      "name": "Pen-Clawdd",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.6419982910156,
+        "longitude": -4.10099983215332
+      },
+      "active": true
+    },
+    {
+      "id": "d12dd263-0deb-4a48-89be-0aacec7b33a6",
+      "code": "GBENN",
+      "name": "Pennan",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.6666984558105,
+        "longitude": -2.2666699886322
+      },
+      "active": true
+    },
+    {
+      "id": "c7885136-7ab1-4c88-9e54-1689e4d9ccf7",
+      "code": "GBPPE",
+      "name": "Penrhyn",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 53.2332992553711,
+        "longitude": -4.08333015441895
+      },
+      "active": true
+    },
+    {
+      "id": "15dbf3c7-b034-45b4-b62f-9d33bfb90e44",
+      "code": "GBPRY",
+      "name": "Penryn",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.1666984558105,
+        "longitude": -5.09999990463257
+      },
+      "active": true
+    },
+    {
+      "id": "34396ab5-db80-4189-872f-d028ce2ef058",
+      "code": "GBPEN",
+      "name": "Penzance",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.1136016845703,
+        "longitude": -5.54778003692627
+      },
+      "active": true
+    },
+    {
+      "id": "d2337c3f-9edd-48f8-954a-8c7df4c087df",
+      "code": "GBPHD",
+      "name": "Peterhead",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.5019989013672,
+        "longitude": -1.77799999713898
+      },
+      "active": true
+    },
+    {
+      "id": "51ad98d7-af78-4ce0-b775-548ec3fc4f16",
+      "code": "GBPTC",
+      "name": "Pettycur",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.0666999816895,
+        "longitude": -3.16667008399963
+      },
+      "active": true
+    },
+    {
+      "id": "74d56599-762b-4813-ada7-19440d7aebbd",
+      "code": "GBPWM",
+      "name": "Pittenweem",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.2167015075684,
+        "longitude": -2.7333300113678
+      },
+      "active": true
+    },
+    {
+      "id": "3a6b0be8-82c2-4271-a566-f984fd1f482c",
+      "code": "GBPLY",
+      "name": "Plymouth",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.3639984130859,
+        "longitude": -4.13399982452393
+      },
+      "active": true
+    },
+    {
+      "id": "fa652e50-321b-4995-977e-a6da0d7b92ff",
+      "code": "GBPLP",
+      "name": "Polperro",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.3333015441895,
+        "longitude": -4.53332996368408
+      },
+      "active": true
+    },
+    {
+      "id": "02a56982-aefc-4987-b0a2-42f43d4a8865",
+      "code": "GBPLR",
+      "name": "Polruan",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.3300018310547,
+        "longitude": -4.63500022888184
+      },
+      "active": true
+    },
+    {
+      "id": "66035938-9d54-4e38-a1ee-fdd6901fba68",
+      "code": "GBPOO",
+      "name": "Poole",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.7167015075684,
+        "longitude": -2.0
+      },
+      "active": true
+    },
+    {
+      "id": "51003d52-1e76-4c49-aade-4b09c5df5b6c",
+      "code": "GBPWE",
+      "name": "Poolewe",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.75,
+        "longitude": -5.59999990463257
+      },
+      "active": true
+    },
+    {
+      "id": "d13fab13-e2bb-462d-9229-24ac6e897e3c",
+      "code": "GBPAP",
+      "name": "Port Appin",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.5499992370605,
+        "longitude": -5.40000009536743
+      },
+      "active": true
+    },
+    {
+      "id": "87289015-c1ee-4576-83dc-a6abcec66038",
+      "code": "GBPAK",
+      "name": "Port Askaig",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.8333015441895,
+        "longitude": -6.09999990463257
+      },
+      "active": true
+    },
+    {
+      "id": "93f1f8a0-dec5-491a-a6f6-87827a9ca7d3",
+      "code": "GBPLN",
+      "name": "Port Ellen",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.61669921875,
+        "longitude": -6.18333005905151
+      },
+      "active": true
+    },
+    {
+      "id": "23965e91-bf8b-4141-83c3-9871aaee5126",
+      "code": "GBRTL",
+      "name": "Port Erroll",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.4000015258789,
+        "longitude": -1.83333003520966
+      },
+      "active": true
+    },
+    {
+      "id": "3f023e89-58bc-4e86-b6a0-3668f87e7cee",
+      "code": "GBISA",
+      "name": "Port Isaac",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.5833015441895,
+        "longitude": -4.81666994094849
+      },
+      "active": true
+    },
+    {
+      "id": "8cb85d96-1c50-4ba0-b840-8b222438ecd8",
+      "code": "GBPMR",
+      "name": "Port Mor, Muck",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.8333015441895,
+        "longitude": -6.21667003631592
+      },
+      "active": true
+    },
+    {
+      "id": "b6989ad8-b8d8-405a-9dc5-0a3ec984ef13",
+      "code": "GBPSE",
+      "name": "Port Seton",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.9667015075684,
+        "longitude": -2.93333005905151
+      },
+      "active": true
+    },
+    {
+      "id": "3983385a-b364-4499-8a87-947918dedfb4",
+      "code": "IMPSM",
+      "name": "Port St Mary",
+      "countryCode": "IMN",
+      "coordinate": {
+        "latitude": 54.0713882446289,
+        "longitude": -4.7319450378418
+      },
+      "active": true
+    },
+    {
+      "id": "1e6e8fd5-38f9-44a6-bc81-25e2adc14073",
+      "code": "GBPTB",
+      "name": "Port Talbot",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.5999984741211,
+        "longitude": -3.78332996368408
+      },
+      "active": true
+    },
+    {
+      "id": "c528e58b-1a05-451d-aa78-6e485aff887c",
+      "code": "GBPWI",
+      "name": "Port William",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.7603988647461,
+        "longitude": -4.58386993408203
+      },
+      "active": true
+    },
+    {
+      "id": "384d70b9-ba71-4de2-b01a-920f3fdd28a5",
+      "code": "GBPFY",
+      "name": "Portaferry",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.38330078125,
+        "longitude": -5.55000019073486
+      },
+      "active": true
+    },
+    {
+      "id": "5f7a2834-51a3-4089-896c-3d9f65430934",
+      "code": "GBPVG",
+      "name": "Portavogie",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.4500007629395,
+        "longitude": -5.44999980926514
+      },
+      "active": true
+    },
+    {
+      "id": "30eb241d-f312-4f22-8087-59d433d1a531",
+      "code": "GBPBA",
+      "name": "Portballintrae",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.2167015075684,
+        "longitude": -6.53332996368408
+      },
+      "active": true
+    },
+    {
+      "id": "87180442-4860-4945-8b6a-71b5185fe59a",
+      "code": "GBPCO",
+      "name": "Porth Colmon",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 52.8699989318848,
+        "longitude": -4.67999982833862
+      },
+      "active": true
+    },
+    {
+      "id": "538e3e5d-a0a8-4ed8-858f-1365d7bb672c",
+      "code": "GBPCW",
+      "name": "Porthcawl",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.4832992553711,
+        "longitude": -3.70000004768372
+      },
+      "active": true
+    },
+    {
+      "id": "64201b19-872b-4844-aa0e-3d651e4eac99",
+      "code": "GBPGI",
+      "name": "Porthgain",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.9490013122559,
+        "longitude": -5.18300008773804
+      },
+      "active": true
+    },
+    {
+      "id": "fcdf764f-97a6-45f3-8050-a22a0ceace2f",
+      "code": "GBPLV",
+      "name": "Porthleven",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.0833015441895,
+        "longitude": -5.31666994094849
+      },
+      "active": true
+    },
+    {
+      "id": "d551783c-62b1-46d2-9dc8-d9ac1ad5e85c",
+      "code": "GBPOH",
+      "name": "Porthoustock",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.0499992370605,
+        "longitude": -5.06666994094849
+      },
+      "active": true
+    },
+    {
+      "id": "cba65270-eb4d-487e-b370-dae6426a2fee",
+      "code": "GBPRP",
+      "name": "Portincaple",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.0999984741211,
+        "longitude": -4.84999990463257
+      },
+      "active": true
+    },
+    {
+      "id": "12901525-410f-4dc7-b80a-d18733069864",
+      "code": "GBPKN",
+      "name": "Portknockie",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.7000007629395,
+        "longitude": -2.84999990463257
+      },
+      "active": true
+    },
+    {
+      "id": "0480dcff-d343-4352-970d-15896c6c5a0b",
+      "code": "GBPTL",
+      "name": "Portland",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.5670013427734,
+        "longitude": -2.4449999332428
+      },
+      "active": true
+    },
+    {
+      "id": "2fa88070-b318-4b3a-b359-0de629e0f4e5",
+      "code": "GBPRL",
+      "name": "Portloe",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.2167015075684,
+        "longitude": -4.90000009536743
+      },
+      "active": true
+    },
+    {
+      "id": "ac7e7ef2-48f7-47ed-a2dd-539822a3f139",
+      "code": "GBPMD",
+      "name": "Portmadoc",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 52.926399230957,
+        "longitude": -4.11667013168335
+      },
+      "active": true
+    },
+    {
+      "id": "6371793c-2896-404c-9cbf-f1d561b5095c",
+      "code": "GBPMK",
+      "name": "Portmahomack",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.8333015441895,
+        "longitude": -3.81666994094849
+      },
+      "active": true
+    },
+    {
+      "id": "1c75f3df-8045-4101-bf2a-bffbcf82d8d8",
+      "code": "GBPRN",
+      "name": "Portnaguran",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.2569999694824,
+        "longitude": -6.16300010681152
+      },
+      "active": true
+    },
+    {
+      "id": "98edfcc7-fdd4-4c34-a378-a3e9c71533c2",
+      "code": "GBPNV",
+      "name": "Portnahaven",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.6666984558105,
+        "longitude": -6.5
+      },
+      "active": true
+    },
+    {
+      "id": "ba3ea094-43f5-4e56-b81b-e05b8ac699bd",
+      "code": "GBPNG",
+      "name": "Portnalong",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.2000007629395,
+        "longitude": -6.25
+      },
+      "active": true
+    },
+    {
+      "id": "6a6fa197-5ca7-44ef-aa7d-77831f9dd6b8",
+      "code": "GBPPK",
+      "name": "Portpatrick",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.8409996032715,
+        "longitude": -5.11899995803833
+      },
+      "active": true
+    },
+    {
+      "id": "0de4624c-67e2-4de9-a30c-97ed901ca206",
+      "code": "GBPRJ",
+      "name": "Portreath",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.2667007446289,
+        "longitude": -5.30000019073486
+      },
+      "active": true
+    },
+    {
+      "id": "51971ff5-ee7f-4ae1-9b93-e77ae2a169e8",
+      "code": "GBPRT",
+      "name": "Portree",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.4000015258789,
+        "longitude": -6.18333005905151
+      },
+      "active": true
+    },
+    {
+      "id": "c4bca8ae-b37b-488a-90e2-3ae255f07eaf",
+      "code": "GBPTR",
+      "name": "Portrush",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.2060012817383,
+        "longitude": -6.65799999237061
+      },
+      "active": true
+    },
+    {
+      "id": "e3fae5e3-baca-41ac-91f0-84d7131625ca",
+      "code": "GBPSC",
+      "name": "Portscatho",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.1829986572266,
+        "longitude": -4.98299980163574
+      },
+      "active": true
+    },
+    {
+      "id": "40d7da47-8820-4788-9722-0578ef78b2ed",
+      "code": "GBPKA",
+      "name": "Portskerra",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.5666999816895,
+        "longitude": -3.91667008399963
+      },
+      "active": true
+    },
+    {
+      "id": "05181dad-1d4b-4965-895a-299903263861",
+      "code": "GBPME",
+      "name": "Portsmouth",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.7970008850098,
+        "longitude": -1.10800004005432
+      },
+      "active": true
+    },
+    {
+      "id": "b97ef78c-f8f4-471d-ac17-3238643c2e4a",
+      "code": "GBPSY",
+      "name": "Portsoy",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.6833000183105,
+        "longitude": -2.68333005905151
+      },
+      "active": true
+    },
+    {
+      "id": "7bec15f6-6d80-4a1f-8f1d-b2579d6f96d3",
+      "code": "GBPSW",
+      "name": "Portstewart",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.1833000183105,
+        "longitude": -6.71667003631592
+      },
+      "active": true
+    },
+    {
+      "id": "f2ca0297-10e6-4270-a213-a105eb348c33",
+      "code": "GBPRE",
+      "name": "Preston",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 53.75,
+        "longitude": -2.71667003631592
+      },
+      "active": true
+    },
+    {
+      "id": "f287cb4a-4747-48a0-8fb9-9bf1036790b9",
+      "code": "GBPWL",
+      "name": "Pwllheli",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 52.88330078125,
+        "longitude": -4.41666984558105
+      },
+      "active": true
+    },
+    {
+      "id": "ad2b21fe-bd36-4441-95a2-206b8b3dd75d",
+      "code": "GBQUB",
+      "name": "Queenborough",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.4166984558105,
+        "longitude": 0.766667008399963
+      },
+      "active": true
+    },
+    {
+      "id": "e0dc54b0-36be-4d18-976d-186a13d1bc23",
+      "code": "GBRSY",
+      "name": "Ramsey",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.9333000183105,
+        "longitude": 1.21667003631592
+      },
+      "active": true
+    },
+    {
+      "id": "c43fa5e1-fcb9-48e5-941e-e63d90767d52",
+      "code": "IMRAM",
+      "name": "Ramsey (IoM)",
+      "countryCode": "IMN",
+      "coordinate": {
+        "latitude": 54.3209991455078,
+        "longitude": -4.38399982452393
+      },
+      "active": true
+    },
+    {
+      "id": "bf22911f-7fb9-4b46-bc9a-b8fc8128455e",
+      "code": "GBRMG",
+      "name": "Ramsgate",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.3289985656738,
+        "longitude": 1.4190000295639
+      },
+      "active": true
+    },
+    {
+      "id": "f9c8da4a-70e2-495b-b864-fd654e1260c2",
+      "code": "GBRER",
+      "name": "Redcar",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.6074981689453,
+        "longitude": -1.05944001674652
+      },
+      "active": true
+    },
+    {
+      "id": "af4520da-1be1-4b8f-97d9-8543a143e3cd",
+      "code": "GBRHC",
+      "name": "Rhoscolyn",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 53.2416610717773,
+        "longitude": -4.59000015258789
+      },
+      "active": true
+    },
+    {
+      "id": "b375e71e-c6ca-4433-bf28-811047431098",
+      "code": "GBRNE",
+      "name": "Rhosneigr",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 53.2333297729492,
+        "longitude": -4.52500009536743
+      },
+      "active": true
+    },
+    {
+      "id": "1407fc45-ff6d-42f5-89f2-979e98b308ef",
+      "code": "GBRCB",
+      "name": "Rhu Coigach - Badluachrach",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.88330078125,
+        "longitude": -5.38332986831665
+      },
+      "active": true
+    },
+    {
+      "id": "b27ca0e6-ef2a-475d-8cc3-dac78daf0e23",
+      "code": "GBRHY",
+      "name": "Rhyl",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 53.3166999816895,
+        "longitude": -3.5
+      },
+      "active": true
+    },
+    {
+      "id": "6cff5cdc-7709-4fc7-bd3f-333ff1e777f8",
+      "code": "GBRRD",
+      "name": "River Dart",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.3333015441895,
+        "longitude": -3.54999995231628
+      },
+      "active": true
+    },
+    {
+      "id": "1add0acf-1b3d-4e4e-9bd9-b7dfa08a1fd2",
+      "code": "GBRVF",
+      "name": "River Fowey",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.3409996032715,
+        "longitude": -4.63299989700317
+      },
+      "active": true
+    },
+    {
+      "id": "8381c45d-f706-4260-b844-5edec1d1f16a",
+      "code": "GBRCS",
+      "name": "Rochester",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.4000015258789,
+        "longitude": 0.516667008399963
+      },
+      "active": true
+    },
+    {
+      "id": "ae6ba546-c973-4009-82bf-f7279049ca56",
+      "code": "GBRFD",
+      "name": "Rochford",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.5833015441895,
+        "longitude": 0.716666996479034
+      },
+      "active": true
+    },
+    {
+      "id": "0e726ec7-04a3-4760-8df8-ff7429272469",
+      "code": "GBROC",
+      "name": "Rock",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.5332984924316,
+        "longitude": -4.90000009536743
+      },
+      "active": true
+    },
+    {
+      "id": "e8f228d2-11ab-492f-b812-1d41416f5f5d",
+      "code": "GBRTY",
+      "name": "Rosehearty",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.6833000183105,
+        "longitude": -2.11666989326477
+      },
+      "active": true
+    },
+    {
+      "id": "f81de57b-ba27-48e4-b546-2816b517c70f",
+      "code": "GBRME",
+      "name": "Rosemarkie",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.5999984741211,
+        "longitude": -4.11667013168335
+      },
+      "active": true
+    },
+    {
+      "id": "e14ca05a-0b5e-4c73-8618-2fa6aa479c4b",
+      "code": "GBRTV",
+      "name": "Rostrevor",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.0999984741211,
+        "longitude": -6.19999980926514
+      },
+      "active": true
+    },
+    {
+      "id": "a960f559-f108-46e9-b53d-4ba646b85e8c",
+      "code": "GBRAY",
+      "name": "Rothesay, Isle of Bute",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.8333015441895,
+        "longitude": -5.03332996368408
+      },
+      "active": true
+    },
+    {
+      "id": "4bc51213-03ab-4cb9-8b9c-c0076f3b2f4d",
+      "code": "GBROU",
+      "name": "Rousay",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 59.0332984924316,
+        "longitude": -2.78332996368408
+      },
+      "active": true
+    },
+    {
+      "id": "7449938f-052c-4251-8a15-9bded1444088",
+      "code": "GBRDH",
+      "name": "Rudh Re - Red Point",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.63330078125,
+        "longitude": -5.81666994094849
+      },
+      "active": true
+    },
+    {
+      "id": "7716b717-29eb-4691-8e29-a21dd7094b8a",
+      "code": "GBRUN",
+      "name": "Runcorn",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 53.3333015441895,
+        "longitude": -2.75
+      },
+      "active": true
+    },
+    {
+      "id": "da5893a0-5ef5-4aed-ad9f-4db4048c7bb3",
+      "code": "GBRYE",
+      "name": "Rye",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.9500007629395,
+        "longitude": 0.733332991600037
+      },
+      "active": true
+    },
+    {
+      "id": "65f53545-1c8f-436e-a312-291057100dac",
+      "code": "GBABJ",
+      "name": "Saint Abbs",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.88330078125,
+        "longitude": -2.11666989326477
+      },
+      "active": true
+    },
+    {
+      "id": "d916f28c-c6cb-459b-be28-2534f4e4266a",
+      "code": "GBSAG",
+      "name": "Saint Agnes",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 49.88330078125,
+        "longitude": -6.33333015441895
+      },
+      "active": true
+    },
+    {
+      "id": "48fe2b40-f5a8-4e44-8bf5-6f511e5782ae",
+      "code": "GBSNW",
+      "name": "Saint Andrews",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.3333015441895,
+        "longitude": -2.7666699886322
+      },
+      "active": true
+    },
+    {
+      "id": "837d1a4f-84ec-42e5-8127-b31443315794",
+      "code": "GBSCM",
+      "name": "Saint Combs and Charleston",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.6666984558105,
+        "longitude": -1.91666996479034
+      },
+      "active": true
+    },
+    {
+      "id": "6542bb9b-248e-4eb2-bee0-915d09cbc73a",
+      "code": "GBSVS",
+      "name": "Saint David's",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.88330078125,
+        "longitude": -5.26667022705078
+      },
+      "active": true
+    },
+    {
+      "id": "be7e9988-cd0b-4e27-ae27-fa40e1632dd8",
+      "code": "JESTH",
+      "name": "Saint Hélier",
+      "countryCode": "JEY",
+      "coordinate": {
+        "latitude": 49.1833343505859,
+        "longitude": -2.09999990463257
+      },
+      "active": true
+    },
+    {
+      "id": "9ac70f34-f25e-4c6e-ae2c-f62abb2a48bb",
+      "code": "GBIVS",
+      "name": "Saint Ives",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.2085990905762,
+        "longitude": -5.48750019073486
+      },
+      "active": true
+    },
+    {
+      "id": "6838a8e4-ea5a-4f9b-8878-4e3c6c4f76d2",
+      "code": "GBSMV",
+      "name": "Saint Mawes",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.1500015258789,
+        "longitude": -5.01667022705078
+      },
+      "active": true
+    },
+    {
+      "id": "2ae7bde7-ee01-430d-9e75-3c87f1b544c7",
+      "code": "GBSMC",
+      "name": "Saint Monance (Saint Monans)",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.2050018310547,
+        "longitude": -2.76500010490417
+      },
+      "active": true
+    },
+    {
+      "id": "cf07ba92-d6b4-4c7d-8d3f-f476bdc63cbb",
+      "code": "FRSML",
+      "name": "Saint-Malo",
+      "countryCode": "FRA",
+      "coordinate": {
+        "latitude": 48.6500015258789,
+        "longitude": -2.00999999046326
+      },
+      "active": true
+    },
+    {
+      "id": "bbc58428-968c-4bfa-8946-426950eae949",
+      "code": "GBSCB",
+      "name": "Salcombe",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.2332992553711,
+        "longitude": -3.78332996368408
+      },
+      "active": true
+    },
+    {
+      "id": "16378310-03ab-46ee-b27a-82a59ff4c8d5",
+      "code": "GBAEN",
+      "name": "Salen",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.7169990539551,
+        "longitude": -5.77699995040894
+      },
+      "active": true
+    },
+    {
+      "id": "eace7269-9440-4d94-aa5b-94086cc9feb3",
+      "code": "GBSLC",
+      "name": "Saltcoats",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.6319999694824,
+        "longitude": -4.78999996185303
+      },
+      "active": true
+    },
+    {
+      "id": "773bfc01-537e-499d-8544-94345cadde54",
+      "code": "GBNDY",
+      "name": "Sanday",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 59.2332992553711,
+        "longitude": -2.59999990463257
+      },
+      "active": true
+    },
+    {
+      "id": "6fb69bcf-a710-4281-9f75-fb5a660936d6",
+      "code": "GBSPI",
+      "name": "Sandhaven and Pitullie",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.6833000183105,
+        "longitude": -2.03332996368408
+      },
+      "active": true
+    },
+    {
+      "id": "742f7d59-ea79-4d1f-a9c3-2667ccdd2a0f",
+      "code": "GBSDS",
+      "name": "Sandside",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.5666999816895,
+        "longitude": -3.78332996368408
+      },
+      "active": true
+    },
+    {
+      "id": "052c0709-1990-4e78-bc95-79ddd4d43b1c",
+      "code": "GBSWC",
+      "name": "Sandwick",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 59.9959983825684,
+        "longitude": -1.22300004959106
+      },
+      "active": true
+    },
+    {
+      "id": "9c260fac-9390-4c24-bf7f-d20a945510ce",
+      "code": "GBSRX",
+      "name": "Sark",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 49.4333000183105,
+        "longitude": -2.36666989326477
+      },
+      "active": true
+    },
+    {
+      "id": "44ccb4b7-4612-4098-ae6a-5e5d6c7384ab",
+      "code": "GBSAU",
+      "name": "Saundersfoot",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.7089996337891,
+        "longitude": -4.69999980926514
+      },
+      "active": true
+    },
+    {
+      "id": "d6c28ced-0025-44f0-a649-83bcfb256df8",
+      "code": "GBSWY",
+      "name": "Scalloway",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 60.13330078125,
+        "longitude": -1.29999995231628
+      },
+      "active": true
+    },
+    {
+      "id": "3fea6e40-effb-42b9-87e5-29994d1b2349",
+      "code": "GBSCC",
+      "name": "Scalpay, Outer Hebrides",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.86669921875,
+        "longitude": -6.69999980926514
+      },
+      "active": true
+    },
+    {
+      "id": "14a64398-78c3-48c3-bbb8-28ac681ea1d3",
+      "code": "GBSCA",
+      "name": "Scarborough",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.2872009277344,
+        "longitude": -0.414166986942291
+      },
+      "active": true
+    },
+    {
+      "id": "8fe6c23f-2a12-48df-8aff-3dd62e3affd2",
+      "code": "GBSFK",
+      "name": "Scarfskerry",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.6500015258789,
+        "longitude": -3.2666699886322
+      },
+      "active": true
+    },
+    {
+      "id": "b3e6d068-22cb-4097-aa0d-ee24bfc3ed22",
+      "code": "GBRIE",
+      "name": "Scourie",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.3499984741211,
+        "longitude": -5.15000009536743
+      },
+      "active": true
+    },
+    {
+      "id": "989206ec-43a3-4986-b226-f3bc37cd7eff",
+      "code": "GBSCR",
+      "name": "Scrabster",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.5999984741211,
+        "longitude": -3.53332996368408
+      },
+      "active": true
+    },
+    {
+      "id": "489f6c09-35ee-4136-9f22-5df45d87d017",
+      "code": "GBSFR",
+      "name": "Seaford",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.7667007446289,
+        "longitude": 0.100000001490116
+      },
+      "active": true
+    },
+    {
+      "id": "9bce2d83-e157-4aaf-a36c-373b40d01585",
+      "code": "GBSEA",
+      "name": "Seaham",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.8367004394531,
+        "longitude": -1.33806002140045
+      },
+      "active": true
+    },
+    {
+      "id": "41c40038-356e-4152-b363-1754deab19ec",
+      "code": "GBSHU",
+      "name": "Seahouses",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.5833015441895,
+        "longitude": -1.66666996479034
+      },
+      "active": true
+    },
+    {
+      "id": "dc266769-5987-4b84-96a4-bd7ff29649e2",
+      "code": "GBSSY",
+      "name": "Selsey",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.7332992553711,
+        "longitude": -0.800000011920929
+      },
+      "active": true
+    },
+    {
+      "id": "a41182eb-42b5-4182-ba7d-d647c0c81452",
+      "code": "GBSNC",
+      "name": "Sennen Cove",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.0666999816895,
+        "longitude": -5.69999980926514
+      },
+      "active": true
+    },
+    {
+      "id": "ef748098-6f77-4f8b-9862-a677942e8b94",
+      "code": "GBSSS",
+      "name": "Sharpness",
+      "countryCode": "GBR",
+      "coordinate": null,
+      "active": true
+    },
+    {
+      "id": "78dcfedb-06b9-45fd-8ba3-f7d5a7585c7e",
+      "code": "GBSHS",
+      "name": "Sheerness",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.4333000183105,
+        "longitude": 0.766667008399963
+      },
+      "active": true
+    },
+    {
+      "id": "64a2f174-8879-4946-b473-d13c3b3bc24c",
+      "code": "GBEIL",
+      "name": "Sheildaig",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.6833000183105,
+        "longitude": -5.66666984558105
+      },
+      "active": true
+    },
+    {
+      "id": "d2eb25f8-59e3-475f-a98a-3853e72f8cf4",
+      "code": "GBSGM",
+      "name": "Sheringham",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 52.9333000183105,
+        "longitude": 1.20000004768372
+      },
+      "active": true
+    },
+    {
+      "id": "8ae2c6a7-76ea-4297-ae1a-652aa33f9a1a",
+      "code": "GBTLD",
+      "name": "Shetland",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 60.5332984924316,
+        "longitude": -1.21667003631592
+      },
+      "active": true
+    },
+    {
+      "id": "1322a56b-5542-4c91-a5a7-c679222a086f",
+      "code": "GBESH",
+      "name": "Shoreham-by-Sea",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.3166999816895,
+        "longitude": 1.0166699886322
+      },
+      "active": true
+    },
+    {
+      "id": "707486b3-6c68-496c-82ca-d8a794f7f759",
+      "code": "GBSDM",
+      "name": "Sidmouth",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.6829986572266,
+        "longitude": -3.25
+      },
+      "active": true
+    },
+    {
+      "id": "5e7aa36e-2477-4e9e-83d7-8f16aceff6e8",
+      "code": "GBSIL",
+      "name": "Silloth",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.8680000305176,
+        "longitude": -3.39499998092651
+      },
+      "active": true
+    },
+    {
+      "id": "71935d8e-96b9-4cf0-8930-2364e7b9e5a6",
+      "code": "GBSZB",
+      "name": "Sizewell Beach",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 52.2000007629395,
+        "longitude": 1.61667001247406
+      },
+      "active": true
+    },
+    {
+      "id": "bfd7d031-b38e-40f0-9fe3-9356f378f9b0",
+      "code": "GBSKE",
+      "name": "Skegness",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 53.1500015258789,
+        "longitude": 0.333000004291534
+      },
+      "active": true
+    },
+    {
+      "id": "7c5df7b0-2c87-4dba-94ab-624a5a70c3ad",
+      "code": "GBSKZ",
+      "name": "Skeld",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 60.1666984558105,
+        "longitude": -1.41666996479034
+      },
+      "active": true
+    },
+    {
+      "id": "4f9a7d54-6179-4006-bb99-7cb532dcbfc2",
+      "code": "GBSKR",
+      "name": "Skerray",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.5332984924316,
+        "longitude": -4.30000019073486
+      },
+      "active": true
+    },
+    {
+      "id": "9a6cde46-374c-4eae-8ad7-778804bbb073",
+      "code": "GBATS",
+      "name": "Sleat",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.0979995727539,
+        "longitude": -5.86499977111816
+      },
+      "active": true
+    },
+    {
+      "id": "031cf59c-f410-4042-9a0d-f1e385f09ad7",
+      "code": "GBSZT",
+      "name": "Snizort",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.4832992553711,
+        "longitude": -6.31666994094849
+      },
+      "active": true
+    },
+    {
+      "id": "5b23b6d3-a0de-4974-b50c-6e95152653fd",
+      "code": "GBSLV",
+      "name": "Solva (Solfach)",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.8740005493164,
+        "longitude": -5.19000005722046
+      },
+      "active": true
+    },
+    {
+      "id": "9ac0666d-d88f-44dc-8612-80c096f0102d",
+      "code": "GBTRS",
+      "name": "South Harris",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.0167007446289,
+        "longitude": -6.34999990463257
+      },
+      "active": true
+    },
+    {
+      "id": "6a9e47ef-62d9-4d50-b2cc-9c457663dc28",
+      "code": "GBOTC",
+      "name": "South Lochs",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.0999984741211,
+        "longitude": -6.48332977294922
+      },
+      "active": true
+    },
+    {
+      "id": "57763a58-300d-408f-8b7e-402765ae614b",
+      "code": "GBSRY",
+      "name": "South Ronaldsay",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.7332992553711,
+        "longitude": -2.96667003631592
+      },
+      "active": true
+    },
+    {
+      "id": "a9cf5fe0-6697-4283-b6dc-8479321b1920",
+      "code": "GBSSH",
+      "name": "South Shields",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.9878005981445,
+        "longitude": -1.42139005661011
+      },
+      "active": true
+    },
+    {
+      "id": "15f70090-d34e-4f43-867b-11bbd7def253",
+      "code": "GBTHT",
+      "name": "South Uist and Eriskay",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.0666999816895,
+        "longitude": -7.26667022705078
+      },
+      "active": true
+    },
+    {
+      "id": "35a2a506-2a14-4085-b15f-99c6125fec18",
+      "code": "GBSOU",
+      "name": "Southampton",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.9000015258789,
+        "longitude": -1.39999997615814
+      },
+      "active": true
+    },
+    {
+      "id": "c7d3669e-5b28-4686-9202-60536caae44a",
+      "code": "GBSEC",
+      "name": "Southend, Kintyre",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.314998626709,
+        "longitude": -5.6399998664856
+      },
+      "active": true
+    },
+    {
+      "id": "2350d6a0-55d7-487f-b716-ad316b1758bb",
+      "code": "GBSAA",
+      "name": "Southend-on-Sea",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.5332984924316,
+        "longitude": 0.699999988079071
+      },
+      "active": true
+    },
+    {
+      "id": "afd00e55-a15e-4d9f-8346-54a94c4d352b",
+      "code": "GBSRT",
+      "name": "Southport",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 53.6549987792969,
+        "longitude": -3.01099991798401
+      },
+      "active": true
+    },
+    {
+      "id": "369fc122-35fe-4da4-be8a-5b6d59e6fdef",
+      "code": "GBSWD",
+      "name": "Southwold",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 52.3333015441895,
+        "longitude": 1.68333005905151
+      },
+      "active": true
+    },
+    {
+      "id": "50e85962-fb55-41e5-8322-62b62ee32153",
+      "code": "GGSPT",
+      "name": "St Peter Port",
+      "countryCode": "GGY",
+      "coordinate": {
+        "latitude": 49.4500007629395,
+        "longitude": -2.54999995231628
+      },
+      "active": true
+    },
+    {
+      "id": "d844a869-8f48-471d-89db-882a6871b7fe",
+      "code": "GBSPQ",
+      "name": "Stackpole Quay",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.61669921875,
+        "longitude": -4.90000009536743
+      },
+      "active": true
+    },
+    {
+      "id": "ddf48baf-ca59-468f-a9ea-7bb70a1f6b18",
+      "code": "GBSTZ",
+      "name": "Staithes",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.5499992370605,
+        "longitude": -0.800000011920929
+      },
+      "active": true
+    },
+    {
+      "id": "287b83c7-9bab-4f96-b0d2-0b879ac01fa7",
+      "code": "GBSXE",
+      "name": "Staxigoe",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.4539985656738,
+        "longitude": -3.05900001525879
+      },
+      "active": true
+    },
+    {
+      "id": "94c03fdd-573b-4ebc-9afd-bb74980ee486",
+      "code": "GBSCH",
+      "name": "Stockinish",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.8230018615723,
+        "longitude": -6.83900022506714
+      },
+      "active": true
+    },
+    {
+      "id": "3ec0a6ca-ce21-4f89-a7db-adb7884273a1",
+      "code": "GBSCT",
+      "name": "Stockton",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.5833015441895,
+        "longitude": -1.41666996479034
+      },
+      "active": true
+    },
+    {
+      "id": "3537cc1e-c299-431c-b613-e84696e83eaa",
+      "code": "GBSVN",
+      "name": "Stonehaven",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.9667015075684,
+        "longitude": -2.20000004768372
+      },
+      "active": true
+    },
+    {
+      "id": "93d476ee-588d-43c0-a0ec-14cef543a7f3",
+      "code": "GBSTO",
+      "name": "Stornoway",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.2000007629395,
+        "longitude": -6.38332986831665
+      },
+      "active": true
+    },
+    {
+      "id": "0e756a8f-6654-4cbc-be51-565fb4a8e51a",
+      "code": "GBSJL",
+      "name": "Strangford",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.36669921875,
+        "longitude": -5.56666994094849
+      },
+      "active": true
+    },
+    {
+      "id": "29e12677-dcb7-4def-bd87-f31d5f653e90",
+      "code": "GBSTR",
+      "name": "Stranraer",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.9039993286133,
+        "longitude": -5.02400016784668
+      },
+      "active": true
+    },
+    {
+      "id": "d22c13b7-edad-48a9-989d-27afaf015a47",
+      "code": "GBSRH",
+      "name": "Strathaird",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.1666984558105,
+        "longitude": -6.05000019073486
+      },
+      "active": true
+    },
+    {
+      "id": "5d737e6d-78e6-42ea-ada7-e10a2f6b459f",
+      "code": "GBSOA",
+      "name": "Stroma",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.6833000183105,
+        "longitude": -3.11666989326477
+      },
+      "active": true
+    },
+    {
+      "id": "089538dd-a98b-4b09-b77b-c3904f2a1969",
+      "code": "GBSNS",
+      "name": "Stromness",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.9640007019043,
+        "longitude": -3.29699993133545
+      },
+      "active": true
+    },
+    {
+      "id": "9b35eff4-44be-4dc2-87a1-85edcd93336c",
+      "code": "GBSOY",
+      "name": "Stronsay",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 59.1500015258789,
+        "longitude": -2.59999990463257
+      },
+      "active": true
+    },
+    {
+      "id": "1922b0f1-da5c-4bb3-a355-6407bc81e07a",
+      "code": "GBSUL",
+      "name": "Sullom Voe",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 60.4500007629395,
+        "longitude": -1.20000004768372
+      },
+      "active": true
+    },
+    {
+      "id": "8d894b1e-1e41-4d1f-99bb-63a1f8e91bf6",
+      "code": "GBSUN",
+      "name": "Sunderland",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.9118995666504,
+        "longitude": -1.38332998752594
+      },
+      "active": true
+    },
+    {
+      "id": "774e64b1-344f-4177-909a-c0ff6e70d76e",
+      "code": "GBPSB",
+      "name": "Sutton Bridge",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 52.7667007446289,
+        "longitude": 1.0166699886322
+      },
+      "active": true
+    },
+    {
+      "id": "4a67f682-9394-421b-b6de-349949932af0",
+      "code": "GBSWE",
+      "name": "Swanage",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.61669921875,
+        "longitude": -1.96667003631592
+      },
+      "active": true
+    },
+    {
+      "id": "829766b4-5bf5-4d9b-8aa2-119f429748d1",
+      "code": "GBSWA",
+      "name": "Swansea",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.617000579834,
+        "longitude": -3.93300008773804
+      },
+      "active": true
+    },
+    {
+      "id": "f38c42c9-97a7-447b-b574-c1d62fa3eae3",
+      "code": "GBSYM",
+      "name": "Symbister",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 60.3166999816895,
+        "longitude": -1.0
+      },
+      "active": true
+    },
+    {
+      "id": "7c86038f-e180-4bd0-b665-ec503b2080b3",
+      "code": "GBTLN",
+      "name": "Talmine",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.5332984924316,
+        "longitude": -4.41666984558105
+      },
+      "active": true
+    },
+    {
+      "id": "d069a7b4-97df-4e91-9860-eab06e4fbbb9",
+      "code": "GBTAB",
+      "name": "Tarbert",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.8629989624023,
+        "longitude": -5.41599988937378
+      },
+      "active": true
+    },
+    {
+      "id": "f85a3209-ac3a-4c70-b694-a2771f54f5d5",
+      "code": "GBTAI",
+      "name": "Tayinloan",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.6666984558105,
+        "longitude": -5.65000009536743
+      },
+      "active": true
+    },
+    {
+      "id": "649492e8-9d66-4629-938b-e4b927fdc671",
+      "code": "GBTAY",
+      "name": "Tayport",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.4333000183105,
+        "longitude": -2.86666989326477
+      },
+      "active": true
+    },
+    {
+      "id": "a1dab777-50d8-4fce-96bb-569d23158348",
+      "code": "GBTLI",
+      "name": "Tayvallich",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.0167007446289,
+        "longitude": -5.61667013168335
+      },
+      "active": true
+    },
+    {
+      "id": "ed2e7c5c-a316-4444-b3f3-d4694e01c05f",
+      "code": "GBTNM",
+      "name": "Teignmouth",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.5460014343262,
+        "longitude": -3.49900007247925
+      },
+      "active": true
+    },
+    {
+      "id": "0c4fc306-96e6-4487-8338-94c6e4bb29e9",
+      "code": "GBTEN",
+      "name": "Tenby",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.6720008850098,
+        "longitude": -4.69700002670288
+      },
+      "active": true
+    },
+    {
+      "id": "38553170-933e-406f-8210-53a201ec2a9c",
+      "code": "GBTHR",
+      "name": "Thurso",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.5833015441895,
+        "longitude": -3.5
+      },
+      "active": true
+    },
+    {
+      "id": "86c989dc-19b9-40b0-bc0d-1d6a8fd52a4d",
+      "code": "GBTWL",
+      "name": "Tingwall",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 59.0833015441895,
+        "longitude": -3.0166699886322
+      },
+      "active": true
+    },
+    {
+      "id": "d826c821-60f8-44bb-a904-193055d2f6aa",
+      "code": "GBTRE",
+      "name": "Tiree",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.5,
+        "longitude": -6.80000019073486
+      },
+      "active": true
+    },
+    {
+      "id": "127c024e-e464-4ce7-b0a8-bce2f4f47b93",
+      "code": "GBTOB",
+      "name": "Tobermory",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.63330078125,
+        "longitude": -6.08333015441895
+      },
+      "active": true
+    },
+    {
+      "id": "04655279-6b56-42db-9e9d-c81d6ded4977",
+      "code": "GBTBN",
+      "name": "Toberonochy",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.2169990539551,
+        "longitude": -5.63199996948242
+      },
+      "active": true
+    },
+    {
+      "id": "ef8f6bac-0583-48d0-993c-d12f33a69ff5",
+      "code": "GBTOL",
+      "name": "Tollesbury",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.75,
+        "longitude": 0.833333015441895
+      },
+      "active": true
+    },
+    {
+      "id": "4295e3e8-d278-4b69-b64a-2c5b5dd83aae",
+      "code": "GBTHM",
+      "name": "Topsham",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.6829986572266,
+        "longitude": -3.45000004768372
+      },
+      "active": true
+    },
+    {
+      "id": "276a1ec0-1d0a-4919-84e0-25248783ef60",
+      "code": "GBTOR",
+      "name": "Torquay",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.4609985351563,
+        "longitude": -3.52500009536743
+      },
+      "active": true
+    },
+    {
+      "id": "5b549b3d-c6c3-43ad-90c2-2ad54371f58c",
+      "code": "GBTRD",
+      "name": "Torridon",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.5332984924316,
+        "longitude": -5.51667022705078
+      },
+      "active": true
+    },
+    {
+      "id": "52761881-8c68-4219-aa81-38b63e3e62b7",
+      "code": "GBTRO",
+      "name": "Trefor",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 52.9930000305176,
+        "longitude": -4.42700004577637
+      },
+      "active": true
+    },
+    {
+      "id": "6c8d0bf1-6d92-426a-b06f-2a03c6f60037",
+      "code": "GBTRN",
+      "name": "Troon",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.5480003356934,
+        "longitude": -4.68300008773804
+      },
+      "active": true
+    },
+    {
+      "id": "83712a1b-bc89-47c1-ae1f-6c0eb2e3a95f",
+      "code": "GBTRU",
+      "name": "Truro",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.2616996765137,
+        "longitude": -5.04333019256592
+      },
+      "active": true
+    },
+    {
+      "id": "eee0bae4-1eb6-4a53-866d-157b0fa966fa",
+      "code": "GBUIG",
+      "name": "Uig",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.5833015441895,
+        "longitude": -6.34999990463257
+      },
+      "active": true
+    },
+    {
+      "id": "c3e45f31-b4e3-45ab-977b-2b9de525e5fc",
+      "code": "GBULL",
+      "name": "Ullapool",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.9000015258789,
+        "longitude": -5.16666984558105
+      },
+      "active": true
+    },
+    {
+      "id": "3f57f4c2-f2c7-4be3-8dea-9deb7c68c730",
+      "code": "GBULF",
+      "name": "Ulva Ferry",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.4832992553711,
+        "longitude": -6.13332986831665
+      },
+      "active": true
+    },
+    {
+      "id": "b74d9238-f60e-4fb0-add0-4bfd6599940f",
+      "code": "GBUYE",
+      "name": "Uyeasound and Baltasound",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 60.6833000183105,
+        "longitude": -0.916666984558105
+      },
+      "active": true
+    },
+    {
+      "id": "4e9d942b-ca2e-4983-a38d-6fdfc960ef88",
+      "code": "GBVEN",
+      "name": "Ventnor",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.5999984741211,
+        "longitude": -1.20000004768372
+      },
+      "active": true
+    },
+    {
+      "id": "99499034-93e3-4608-89d0-2af457e35939",
+      "code": "GBVID",
+      "name": "Vidlin",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 60.3499984741211,
+        "longitude": -1.11667001247406
+      },
+      "active": true
+    },
+    {
+      "id": "a2c9aed4-f026-47e0-8f69-712cca3d7487",
+      "code": "GBVOE",
+      "name": "Voe",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 60.3499984741211,
+        "longitude": -1.25
+      },
+      "active": true
+    },
+    {
+      "id": "572e325a-2ff7-41f9-869f-bbc2b105affd",
+      "code": "GBWLZ",
+      "name": "Walls",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 60.2270011901855,
+        "longitude": -1.56400001049042
+      },
+      "active": true
+    },
+    {
+      "id": "d1384f78-a622-4ddd-9684-c41cf811a03c",
+      "code": "GBLOY",
+      "name": "Walls,  Orkney",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 60.2270011901855,
+        "longitude": -1.56400001049042
+      },
+      "active": true
+    },
+    {
+      "id": "365ba367-05cf-4bd2-9940-df0844aabe55",
+      "code": "GBWNZ",
+      "name": "Walton-on-the-Naze",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.86669921875,
+        "longitude": 1.2666699886322
+      },
+      "active": true
+    },
+    {
+      "id": "5a2daa62-02c0-4990-9806-81a915c0bbbf",
+      "code": "GBWPT",
+      "name": "Warrenpoint",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.1500015258789,
+        "longitude": -6.26667022705078
+      },
+      "active": true
+    },
+    {
+      "id": "6417687e-685f-4efb-800f-a47cb6fa5906",
+      "code": "GBWFT",
+      "name": "Waterfoot",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.0666999816895,
+        "longitude": -6.06666994094849
+      },
+      "active": true
+    },
+    {
+      "id": "c93c844d-5705-419b-b4b8-9d5503833ac6",
+      "code": "GBWLS",
+      "name": "Wells",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.209400177002,
+        "longitude": -2.64944005012512
+      },
+      "active": true
+    },
+    {
+      "id": "47dc92d3-73c8-486f-8a87-057dbd0b02e9",
+      "code": "GBWNS",
+      "name": "Wells-next the-Sea",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 52.9500007629395,
+        "longitude": -0.833333313465118
+      },
+      "active": true
+    },
+    {
+      "id": "446ff86d-48e6-41dc-82c2-e31010bf207f",
+      "code": "GBWMB",
+      "name": "Wemyss Bay",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.8759994506836,
+        "longitude": -4.89099979400635
+      },
+      "active": true
+    },
+    {
+      "id": "5679bdf7-9a09-4812-8088-ad89d385dab8",
+      "code": "GBWYX",
+      "name": "West Bay",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.7109985351563,
+        "longitude": -2.76399993896484
+      },
+      "active": true
+    },
+    {
+      "id": "a2e670b8-f446-4ae3-9f56-8fd0d9050d60",
+      "code": "GBWBF",
+      "name": "West Burrafirth",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 60.2999992370605,
+        "longitude": -1.5166699886322
+      },
+      "active": true
+    },
+    {
+      "id": "5f93506d-6af5-4f4f-9e97-1b806fcaf4a3",
+      "code": "GBWRB",
+      "name": "West Loch Tarbert",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 55.8499984741211,
+        "longitude": -5.43333005905151
+      },
+      "active": true
+    },
+    {
+      "id": "856a7752-2ac9-4a73-b3fc-6c17f4c50abf",
+      "code": "GBWMD",
+      "name": "West Mainland (Shetland)",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 60.2167015075684,
+        "longitude": -1.38332998752594
+      },
+      "active": true
+    },
+    {
+      "id": "6256056c-3819-49d5-9bf4-911fe064765d",
+      "code": "GBWMS",
+      "name": "West Mersea",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.7832984924316,
+        "longitude": 0.916666984558105
+      },
+      "active": true
+    },
+    {
+      "id": "e7433752-c136-4057-b9a2-320aef05dd74",
+      "code": "GBWWE",
+      "name": "West Wemyss",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 56.1399993896484,
+        "longitude": -3.08599996566772
+      },
+      "active": true
+    },
+    {
+      "id": "a14e7c5d-54fa-41e8-a71d-4277c76f88d4",
+      "code": "GBWSM",
+      "name": "Weston-super-Mare",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.3520011901855,
+        "longitude": -2.98799991607666
+      },
+      "active": true
+    },
+    {
+      "id": "07779420-392f-4ae5-a9ae-40a0e9a0a17f",
+      "code": "GBWRY",
+      "name": "Westray",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 59.3166999816895,
+        "longitude": -2.96667003631592
+      },
+      "active": true
+    },
+    {
+      "id": "7dbc0050-a095-4d5e-b5b8-69ec4a7a021b",
+      "code": "GBWEY",
+      "name": "Weymouth",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.5999984741211,
+        "longitude": -2.45000004768372
+      },
+      "active": true
+    },
+    {
+      "id": "3a00df9e-b239-433e-a5d9-f862bddd77c0",
+      "code": "GBWLG",
+      "name": "Whaligoe",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.3333015441895,
+        "longitude": -3.18333005905151
+      },
+      "active": true
+    },
+    {
+      "id": "84479251-5ae7-4485-a2bb-549f157abc0c",
+      "code": "GBWHY",
+      "name": "Whalsay",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 60.3499984741211,
+        "longitude": -1.03332996368408
+      },
+      "active": true
+    },
+    {
+      "id": "5a63ffd1-eef5-4efc-be2f-d5558cd17f7b",
+      "code": "GBWNL",
+      "name": "Whinnyfold",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.38330078125,
+        "longitude": -1.86667001247406
+      },
+      "active": true
+    },
+    {
+      "id": "14c7c270-61f7-4449-81b5-b4b4c8bae68d",
+      "code": "GBWTB",
+      "name": "Whitby",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.4866981506348,
+        "longitude": -0.630555987358093
+      },
+      "active": true
+    },
+    {
+      "id": "fd4a6a33-37cc-437f-9941-dfbb384568f8",
+      "code": "GBWHV",
+      "name": "Whitehaven",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.5499992370605,
+        "longitude": -3.59999990463257
+      },
+      "active": true
+    },
+    {
+      "id": "3536e743-d9d3-46d4-b571-417e9da1b567",
+      "code": "GBWHE",
+      "name": "Whitehead",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.7560005187988,
+        "longitude": -5.7039999961853
+      },
+      "active": true
+    },
+    {
+      "id": "57ebf5dd-6571-4e76-ada9-1c3581c6b8ed",
+      "code": "GBHTS",
+      "name": "Whitehills",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 57.6666984558105,
+        "longitude": -2.56666994094849
+      },
+      "active": true
+    },
+    {
+      "id": "1bbb25d2-c5bb-49ad-86da-880f51dfa06c",
+      "code": "GBWTS",
+      "name": "Whitstable",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.3639984130859,
+        "longitude": 1.02600002288818
+      },
+      "active": true
+    },
+    {
+      "id": "d5ca42cb-cee6-4d9d-9212-234972d235d6",
+      "code": "GBWIC",
+      "name": "Wick",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 58.4333000183105,
+        "longitude": -3.08332991600037
+      },
+      "active": true
+    },
+    {
+      "id": "720f8267-3419-40ed-bf23-fad6904e55a9",
+      "code": "GBWIG",
+      "name": "Wigtown",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.9589004516602,
+        "longitude": -4.48164987564087
+      },
+      "active": true
+    },
+    {
+      "id": "7403ec8c-af42-46fd-9c44-3b2630d7d8d6",
+      "code": "GBIRO",
+      "name": "Winterton",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 53.6500015258789,
+        "longitude": -0.600000023841858
+      },
+      "active": true
+    },
+    {
+      "id": "94d7260c-1763-413b-98c0-eff46e9a3754",
+      "code": "GBWIS",
+      "name": "Wisbech",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 52.6666984558105,
+        "longitude": 0.166666999459267
+      },
+      "active": true
+    },
+    {
+      "id": "2e490d73-185b-44a1-9a25-17975677b048",
+      "code": "GBWEX",
+      "name": "Withernsea",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 53.7167015075684,
+        "longitude": 0.0166666992008686
+      },
+      "active": true
+    },
+    {
+      "id": "5dde91ee-a4f2-4ce2-b24d-e9c4817e7a65",
+      "code": "GBWIV",
+      "name": "Wivenhoe",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 51.8499984741211,
+        "longitude": 0.966666996479034
+      },
+      "active": true
+    },
+    {
+      "id": "e1fda298-e08a-4d7b-b3c7-bc9fcacaabfc",
+      "code": "GBWOR",
+      "name": "Workington",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 54.6500015258789,
+        "longitude": -3.56666994094849
+      },
+      "active": true
+    },
+    {
+      "id": "84c2be70-4528-4650-a7d3-86ebdfa05e52",
+      "code": "GBWOT",
+      "name": "Worthing",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.8166999816895,
+        "longitude": -0.383332997560501
+      },
+      "active": true
+    },
+    {
+      "id": "79fc78f4-ca48-4280-b6a0-f3a1a2dab99f",
+      "code": "GBWYK",
+      "name": "Wyke Regis",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 50.5833015441895,
+        "longitude": -2.4833300113678
+      },
+      "active": true
+    },
+    {
+      "id": "3b3fa603-7335-47f2-81de-da9f70d1fc26",
+      "code": "GBYFR",
+      "name": "Yell and Fetlar",
+      "countryCode": "GBR",
+      "coordinate": {
+        "latitude": 60.7000007629395,
+        "longitude": -0.966666996479034
+      },
+      "active": true
+    }
+  ]
+}

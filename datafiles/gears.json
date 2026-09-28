@@ -1,0 +1,1620 @@
+{
+  "dataset": "gears",
+  "collectionId": "00000000-0000-4000-8000-000000000020",
+  "schemaVersion": "1.0",
+  "version": "gears-advanced-2",
+  "generatedAt": "2026-09-28T15:13:56Z",
+  "itemCount": 39,
+  "categories": [
+    {
+      "id": "b65c769f-cb50-5daf-ab00-a44b8a45239b",
+      "code": "DREDGES",
+      "name": "Dredges"
+    },
+    {
+      "id": "410a9302-2d19-5645-a438-29dd06a01edc",
+      "code": "TRAPS",
+      "name": "Traps"
+    },
+    {
+      "id": "046ef559-7f82-5f5d-9df3-d1b7c5c1bec5",
+      "code": "GILLNETS_AND_ENTANGLING_NETS",
+      "name": "Gillnets and entangling nets"
+    },
+    {
+      "id": "edafe6c9-2ad3-5973-a35e-84fe154fdc83",
+      "code": "HARVESTING_MACHINES",
+      "name": "Harvesting machines"
+    },
+    {
+      "id": "18219d9f-e96a-592a-aa5d-5db6e2b9b3b0",
+      "code": "SURROUNDING_NETS",
+      "name": "Surrounding nets"
+    },
+    {
+      "id": "688bfa38-2c61-54e2-904f-8cb5453f2b41",
+      "code": "HOOK_AND_LINES",
+      "name": "Hook and lines"
+    },
+    {
+      "id": "5185b6e0-ebb7-52be-8504-8d5011404f48",
+      "code": "MISCELLANEOUS_GEAR",
+      "name": "Miscellaneous gear"
+    },
+    {
+      "id": "c2fc3c47-37c4-5b19-bef6-8d3333acb373",
+      "code": "GEAR_NOT_KNOWN_OR_NOT_SPECIFIED",
+      "name": "Gear not known or not specified"
+    },
+    {
+      "id": "c291ebe0-05fd-527c-94ca-bcc022631621",
+      "code": "TRAWL_NETS",
+      "name": "Trawl nets"
+    },
+    {
+      "id": "02f467be-328e-516f-a6fa-5f92ab0138d0",
+      "code": "RECREATIONAL_GEAR",
+      "name": "Recreational gear"
+    },
+    {
+      "id": "e474d943-358a-5d69-a258-009d4ddc74f8",
+      "code": "SEINE_NETS",
+      "name": "Seine nets"
+    }
+  ],
+  "characteristics": [
+    {
+      "id": "3ec8712d-82a2-5520-bc06-b7cccabb34d4",
+      "code": "GN",
+      "name": "Gear dimension by number. For example: number of trawls, number of beams, number of dredges, number of pots, number of hooks",
+      "dataType": "number",
+      "unit": "count"
+    },
+    {
+      "id": "ec4b5815-3b60-5463-934e-012280b5494a",
+      "code": "GM",
+      "name": "Gear dimension by length or width of the gear - in metres: length of beams, trawl – perimeter of opening, seine nets – overall length, purse seine – length, purse seine – one boat operated – length, width of dredges, gill nets length",
+      "dataType": "number",
+      "unit": "m"
+    },
+    {
+      "id": "6d4f03d9-1490-5d42-b619-338708380e00",
+      "code": "NL",
+      "name": "Nominal length of one net in a fleet",
+      "dataType": "number",
+      "unit": "m"
+    },
+    {
+      "id": "dcb423b5-efd6-5ce8-b322-451eb04bb878",
+      "code": "HE",
+      "name": "Height of the net",
+      "dataType": "number",
+      "unit": "m"
+    },
+    {
+      "id": "4df8f658-267a-54f6-9a3e-8ccc4937b783",
+      "code": "NN",
+      "name": "Number of nets in the fleet",
+      "dataType": "number",
+      "unit": "count"
+    },
+    {
+      "id": "2e4dabd7-7459-5ad5-91e3-32580411950e",
+      "code": "QG",
+      "name": "Quantity of gear on board",
+      "dataType": "number",
+      "unit": "count"
+    },
+    {
+      "id": "75059cf6-a23c-5612-80e6-c7f5031c9519",
+      "code": "ME",
+      "name": "Mesh size",
+      "dataType": "number",
+      "unit": "mm"
+    },
+    {
+      "id": "89f22ce2-17cb-5baf-b634-2d565c1eb83a",
+      "code": "NI",
+      "name": "Number of lines",
+      "dataType": "number",
+      "unit": "count"
+    },
+    {
+      "id": "9a569db5-4e51-5397-a19b-9366d29447c2",
+      "code": "MT",
+      "name": "Model of trawl",
+      "dataType": "number",
+      "unit": "count"
+    }
+  ],
+  "items": [
+    {
+      "id": "5DE20BFB-7F04-4534-9343-B9A2DA654EAB",
+      "code": "DRB",
+      "name": "Dredge",
+      "type": "mobile",
+      "categoryId": "b65c769f-cb50-5daf-ab00-a44b8a45239b",
+      "pairFishing": false,
+      "applicableCharacteristics": [
+        {
+          "id": "1d97952b-8950-5944-8c40-61fb64370831",
+          "characteristicId": "3ec8712d-82a2-5520-bc06-b7cccabb34d4",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "under-10m",
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "cc8d2759-086a-5a4e-ab57-48049a3337e1",
+          "characteristicId": "ec4b5815-3b60-5463-934e-012280b5494a",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "760899B0-7690-463B-820C-8BC064FDE0A9",
+      "code": "FIX",
+      "name": "Traps (not specified)",
+      "type": "static",
+      "categoryId": "410a9302-2d19-5645-a438-29dd06a01edc",
+      "pairFishing": false,
+      "applicableCharacteristics": [],
+      "active": true
+    },
+    {
+      "id": "017B6806-1E00-48BB-993E-6A955BAAE81B",
+      "code": "FPO",
+      "name": "Pots",
+      "type": "static",
+      "categoryId": "410a9302-2d19-5645-a438-29dd06a01edc",
+      "pairFishing": false,
+      "applicableCharacteristics": [
+        {
+          "id": "506345d9-216c-5d45-ab66-c8403758f402",
+          "characteristicId": "3ec8712d-82a2-5520-bc06-b7cccabb34d4",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "1FFB8293-2EAB-4CFE-A4CF-A7A402ADE8C6",
+      "code": "GN",
+      "name": "Gillnets (not specified)",
+      "type": "static",
+      "categoryId": "046ef559-7f82-5f5d-9df3-d1b7c5c1bec5",
+      "pairFishing": false,
+      "applicableCharacteristics": [
+        {
+          "id": "38bce287-29f1-52e9-b3b8-c51827788725",
+          "characteristicId": "6d4f03d9-1490-5d42-b619-338708380e00",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "b354b7bb-37c0-5d27-969a-6b48e2da3d95",
+          "characteristicId": "ec4b5815-3b60-5463-934e-012280b5494a",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "fcfbae0b-4ce3-54b7-a711-8309e899b463",
+          "characteristicId": "dcb423b5-efd6-5ce8-b322-451eb04bb878",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "43203e5f-658b-5d89-9c8f-313023a483e9",
+          "characteristicId": "4df8f658-267a-54f6-9a3e-8ccc4937b783",
+          "fixed": false,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "93d9b637-d310-52d8-b789-1a34db7ef147",
+          "characteristicId": "2e4dabd7-7459-5ad5-91e3-32580411950e",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "3bba9222-5b8f-5624-8052-098acd350d4c",
+          "characteristicId": "75059cf6-a23c-5612-80e6-c7f5031c9519",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "under-10m",
+            "10-to-12m",
+            "over-12m"
+          ]
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "303ADA62-24E8-48DD-B443-D33A8E2A29AF",
+      "code": "GNC",
+      "name": "Gillnets (circling)",
+      "type": "static",
+      "categoryId": "046ef559-7f82-5f5d-9df3-d1b7c5c1bec5",
+      "pairFishing": false,
+      "applicableCharacteristics": [
+        {
+          "id": "3795105a-6eb4-5910-9dcd-2a2c766825d3",
+          "characteristicId": "75059cf6-a23c-5612-80e6-c7f5031c9519",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "under-10m",
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "88ae49e8-ea5f-5f93-a4a5-200a96d79660",
+          "characteristicId": "dcb423b5-efd6-5ce8-b322-451eb04bb878",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "1a08853c-6a00-5e14-b57f-47b1a4d430dd",
+          "characteristicId": "4df8f658-267a-54f6-9a3e-8ccc4937b783",
+          "fixed": false,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "8f3a8abd-d9fe-5440-b628-bd6e86f63d10",
+          "characteristicId": "6d4f03d9-1490-5d42-b619-338708380e00",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "2e242f35-dfec-5ef7-b55d-89abbe7beb4a",
+          "characteristicId": "ec4b5815-3b60-5463-934e-012280b5494a",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "0a8e75e9-27df-58d3-b4b3-dda7125ee750",
+          "characteristicId": "2e4dabd7-7459-5ad5-91e3-32580411950e",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "2C361BD5-6A54-4926-863A-BAE5352A051D",
+      "code": "GND",
+      "name": "Gillnets (drift)",
+      "type": "static",
+      "categoryId": "046ef559-7f82-5f5d-9df3-d1b7c5c1bec5",
+      "pairFishing": false,
+      "applicableCharacteristics": [
+        {
+          "id": "0f5b4b3c-1f26-5eb3-aa75-5c3eed606852",
+          "characteristicId": "2e4dabd7-7459-5ad5-91e3-32580411950e",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "10d2bab4-1232-54f0-944e-6fe996af30a5",
+          "characteristicId": "dcb423b5-efd6-5ce8-b322-451eb04bb878",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "fbb3bc1d-7484-562c-b42f-e3ffce34297e",
+          "characteristicId": "6d4f03d9-1490-5d42-b619-338708380e00",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "6451587b-505e-5b30-bfc4-e2b7200fda1b",
+          "characteristicId": "ec4b5815-3b60-5463-934e-012280b5494a",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "8ab91463-e13d-5f59-967b-17086fac4d93",
+          "characteristicId": "75059cf6-a23c-5612-80e6-c7f5031c9519",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "under-10m",
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "e5496813-c0e6-5cd4-8021-6f2f9fcde5a4",
+          "characteristicId": "4df8f658-267a-54f6-9a3e-8ccc4937b783",
+          "fixed": false,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "56898504-9420-4C17-8D4B-2CBB4D875E58",
+      "code": "GNS",
+      "name": "Gillnets anchored (set)",
+      "type": "static",
+      "categoryId": "046ef559-7f82-5f5d-9df3-d1b7c5c1bec5",
+      "pairFishing": false,
+      "applicableCharacteristics": [
+        {
+          "id": "707161b9-3d44-5e3d-bd39-007ddb29320e",
+          "characteristicId": "4df8f658-267a-54f6-9a3e-8ccc4937b783",
+          "fixed": false,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "566d5cb0-d24f-551b-8321-c258c7150124",
+          "characteristicId": "6d4f03d9-1490-5d42-b619-338708380e00",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "0ce260c3-7bc4-5c4e-83a8-06a5c3dde383",
+          "characteristicId": "ec4b5815-3b60-5463-934e-012280b5494a",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "f4660e0c-f84e-53a9-8396-63005ea6f19a",
+          "characteristicId": "2e4dabd7-7459-5ad5-91e3-32580411950e",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "ac70df1f-8b4e-54c5-b575-cb7d7f2eb91e",
+          "characteristicId": "75059cf6-a23c-5612-80e6-c7f5031c9519",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "under-10m",
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "7eef95b9-bdf5-56df-9241-fc30b6d84729",
+          "characteristicId": "dcb423b5-efd6-5ce8-b322-451eb04bb878",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "5EA149E4-DC3B-45B1-896E-DC110457FA1D",
+      "code": "GTN",
+      "name": "Combined gillnets-trammel nets",
+      "type": "static",
+      "categoryId": "046ef559-7f82-5f5d-9df3-d1b7c5c1bec5",
+      "pairFishing": false,
+      "applicableCharacteristics": [
+        {
+          "id": "6f72af17-cf15-5f5d-9b84-e58e4b75d8a0",
+          "characteristicId": "2e4dabd7-7459-5ad5-91e3-32580411950e",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "f6bdf7f5-1dbd-54c5-871b-0f09518fc4b3",
+          "characteristicId": "ec4b5815-3b60-5463-934e-012280b5494a",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "3b5b6ee4-4bee-5876-b871-97f59f7b4488",
+          "characteristicId": "75059cf6-a23c-5612-80e6-c7f5031c9519",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "under-10m",
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "f3db4742-6110-5848-8270-1ace2ad263cc",
+          "characteristicId": "dcb423b5-efd6-5ce8-b322-451eb04bb878",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "3127b6e0-3cb4-5fc8-8e31-908bec8fc5e0",
+          "characteristicId": "6d4f03d9-1490-5d42-b619-338708380e00",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "2dc1c697-c97e-52c2-a5c0-84f8e5a29c8f",
+          "characteristicId": "4df8f658-267a-54f6-9a3e-8ccc4937b783",
+          "fixed": false,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "5839208F-99C3-4CCE-B5D8-79129AC53D15",
+      "code": "GTR",
+      "name": "Trammel net",
+      "type": "static",
+      "categoryId": "046ef559-7f82-5f5d-9df3-d1b7c5c1bec5",
+      "pairFishing": false,
+      "applicableCharacteristics": [
+        {
+          "id": "77ff1436-55c2-581a-9298-914bb7c5084e",
+          "characteristicId": "4df8f658-267a-54f6-9a3e-8ccc4937b783",
+          "fixed": false,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "65cb4f02-09ad-5888-8dae-e46323d641f7",
+          "characteristicId": "6d4f03d9-1490-5d42-b619-338708380e00",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "bee0e74c-b212-5069-90a2-89f25511416d",
+          "characteristicId": "ec4b5815-3b60-5463-934e-012280b5494a",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "87e110c0-0448-583d-904a-cbb6efcab392",
+          "characteristicId": "75059cf6-a23c-5612-80e6-c7f5031c9519",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "under-10m",
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "25d8b2c1-4ed2-5358-9658-fcd2ec8194f9",
+          "characteristicId": "dcb423b5-efd6-5ce8-b322-451eb04bb878",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "4d4ab99f-7619-50fa-8398-4a656f5c5189",
+          "characteristicId": "2e4dabd7-7459-5ad5-91e3-32580411950e",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "2F091DEF-FD4F-425E-B5E9-8C1E7EF4F951",
+      "code": "HMD",
+      "name": "Mechanised dredges",
+      "type": "other",
+      "categoryId": "edafe6c9-2ad3-5973-a35e-84fe154fdc83",
+      "pairFishing": false,
+      "applicableCharacteristics": [],
+      "active": true
+    },
+    {
+      "id": "CDE455ED-2120-436A-894B-C713494F2D7D",
+      "code": "LA",
+      "name": "Without purse lines (lampara)",
+      "type": "mobile",
+      "categoryId": "18219d9f-e96a-592a-aa5d-5db6e2b9b3b0",
+      "pairFishing": false,
+      "applicableCharacteristics": [
+        {
+          "id": "ec23353c-d64d-5bff-8ed5-f978fc2a0a94",
+          "characteristicId": "dcb423b5-efd6-5ce8-b322-451eb04bb878",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "04553e8b-7be2-5d94-9ee9-5f0f4b243335",
+          "characteristicId": "75059cf6-a23c-5612-80e6-c7f5031c9519",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "under-10m",
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "9e49e89f-dc80-540c-b827-ebdb321856be",
+          "characteristicId": "ec4b5815-3b60-5463-934e-012280b5494a",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "75854706-098A-4BC6-85CE-443ABC01821F",
+      "code": "LHM",
+      "name": "Handlines and pole lines (mechanised)",
+      "type": "mobile",
+      "categoryId": "688bfa38-2c61-54e2-904f-8cb5453f2b41",
+      "pairFishing": false,
+      "applicableCharacteristics": [
+        {
+          "id": "6c0d831b-8ee9-59b5-9e76-4580c1505c26",
+          "characteristicId": "89f22ce2-17cb-5baf-b634-2d565c1eb83a",
+          "fixed": false,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "83ef249e-3213-5366-8d6b-f14057882d4f",
+          "characteristicId": "3ec8712d-82a2-5520-bc06-b7cccabb34d4",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "69C7361B-DFE6-4774-99AD-366161E62EE7",
+      "code": "LHP",
+      "name": "Handlines and pole lines (hand operated)",
+      "type": "mobile",
+      "categoryId": "688bfa38-2c61-54e2-904f-8cb5453f2b41",
+      "pairFishing": false,
+      "applicableCharacteristics": [
+        {
+          "id": "a819ac2a-27e3-58cc-abfa-d932e1b2ad11",
+          "characteristicId": "89f22ce2-17cb-5baf-b634-2d565c1eb83a",
+          "fixed": false,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "9fdb18df-c6af-5cb1-842b-f69c3e773a46",
+          "characteristicId": "3ec8712d-82a2-5520-bc06-b7cccabb34d4",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "81D8A3DD-972B-4600-8C9F-55F8C457C44B",
+      "code": "LL",
+      "name": "Longlines not specified",
+      "type": "static",
+      "categoryId": "688bfa38-2c61-54e2-904f-8cb5453f2b41",
+      "pairFishing": false,
+      "applicableCharacteristics": [
+        {
+          "id": "acce9589-5693-580b-a09e-a2e6255bf786",
+          "characteristicId": "3ec8712d-82a2-5520-bc06-b7cccabb34d4",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "ce28f9bb-eada-5821-aa02-16416363336b",
+          "characteristicId": "89f22ce2-17cb-5baf-b634-2d565c1eb83a",
+          "fixed": false,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "B6FD80C6-28F5-459F-8A62-68942971D8DB",
+      "code": "LLD",
+      "name": "Drifting longlines",
+      "type": "static",
+      "categoryId": "688bfa38-2c61-54e2-904f-8cb5453f2b41",
+      "pairFishing": false,
+      "applicableCharacteristics": [
+        {
+          "id": "0160302f-7429-552a-9bff-e4198d9d4331",
+          "characteristicId": "89f22ce2-17cb-5baf-b634-2d565c1eb83a",
+          "fixed": false,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "56be4022-be8a-571b-91a9-3566a5ec95c0",
+          "characteristicId": "3ec8712d-82a2-5520-bc06-b7cccabb34d4",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "C5864B44-C119-4303-9A6C-DEB2A3D24091",
+      "code": "LLS",
+      "name": "Set longlines",
+      "type": "static",
+      "categoryId": "688bfa38-2c61-54e2-904f-8cb5453f2b41",
+      "pairFishing": false,
+      "applicableCharacteristics": [
+        {
+          "id": "8c27e0fe-4234-5af2-a4e2-744368fabfcf",
+          "characteristicId": "3ec8712d-82a2-5520-bc06-b7cccabb34d4",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "168905e2-97c5-57fc-9567-9c1a713841e7",
+          "characteristicId": "89f22ce2-17cb-5baf-b634-2d565c1eb83a",
+          "fixed": false,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "1A82A58F-6BC6-4585-9D6E-4628D6B9830D",
+      "code": "LTL",
+      "name": "Trolling lines",
+      "type": "static",
+      "categoryId": "688bfa38-2c61-54e2-904f-8cb5453f2b41",
+      "pairFishing": false,
+      "applicableCharacteristics": [],
+      "active": true
+    },
+    {
+      "id": "807322A6-011C-4FFB-A663-D983938C4D91",
+      "code": "LX",
+      "name": "Hooks and lines (not specified)",
+      "type": "static",
+      "categoryId": "688bfa38-2c61-54e2-904f-8cb5453f2b41",
+      "pairFishing": false,
+      "applicableCharacteristics": [],
+      "active": true
+    },
+    {
+      "id": "E27DA57C-EE54-43C2-A2A7-EBC08FDDE907",
+      "code": "MIS",
+      "name": "Miscellaneous gear (diving)",
+      "type": "other",
+      "categoryId": "5185b6e0-ebb7-52be-8504-8d5011404f48",
+      "pairFishing": false,
+      "applicableCharacteristics": [],
+      "active": true
+    },
+    {
+      "id": "0EAD768E-9F63-4B89-9483-F37BEFC4193B",
+      "code": "NK",
+      "name": "Gear not known or not specified",
+      "type": "other",
+      "categoryId": "c2fc3c47-37c4-5b19-bef6-8d3333acb373",
+      "pairFishing": false,
+      "applicableCharacteristics": [],
+      "active": true
+    },
+    {
+      "id": "4FA56E2B-338C-4324-83AB-4C9917CDAB60",
+      "code": "OTB",
+      "name": "Bottom otter trawl",
+      "type": "mobile",
+      "categoryId": "c291ebe0-05fd-527c-94ca-bcc022631621",
+      "pairFishing": false,
+      "applicableCharacteristics": [
+        {
+          "id": "d4dbcf07-ff64-5030-a807-418e585ff336",
+          "characteristicId": "9a569db5-4e51-5397-a19b-9366d29447c2",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "082458fe-52b5-5752-9cc9-0d33379250a5",
+          "characteristicId": "3ec8712d-82a2-5520-bc06-b7cccabb34d4",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "under-10m",
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "148911f9-de65-5ec1-8967-33dd76a31a9a",
+          "characteristicId": "75059cf6-a23c-5612-80e6-c7f5031c9519",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "under-10m",
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "4ef80a78-998c-557e-a910-8311eeb4c449",
+          "characteristicId": "ec4b5815-3b60-5463-934e-012280b5494a",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "EBDD5F73-81A2-48B1-A9A2-F516913FE9C1",
+      "code": "OTM",
+      "name": "Mid-water otter trawl",
+      "type": "mobile",
+      "categoryId": "c291ebe0-05fd-527c-94ca-bcc022631621",
+      "pairFishing": false,
+      "applicableCharacteristics": [
+        {
+          "id": "bb269044-b3ec-57d8-809b-d4bb8416440c",
+          "characteristicId": "9a569db5-4e51-5397-a19b-9366d29447c2",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "907dafa9-821b-5b63-b6d8-6f46b112f2ad",
+          "characteristicId": "75059cf6-a23c-5612-80e6-c7f5031c9519",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "under-10m",
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "31b185d9-b184-56ae-93f5-ffc9b178724f",
+          "characteristicId": "3ec8712d-82a2-5520-bc06-b7cccabb34d4",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "under-10m",
+            "10-to-12m",
+            "over-12m"
+          ]
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "BBAD0A52-FE96-43FC-A428-C20CDCC1C058",
+      "code": "OTT",
+      "name": "Otter twin trawls",
+      "type": "mobile",
+      "categoryId": "c291ebe0-05fd-527c-94ca-bcc022631621",
+      "pairFishing": false,
+      "applicableCharacteristics": [
+        {
+          "id": "e78d2539-3bc2-5cd2-8c19-faad830a6539",
+          "characteristicId": "9a569db5-4e51-5397-a19b-9366d29447c2",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "cb6b18a5-839a-5c7d-a994-0e92d529b3ce",
+          "characteristicId": "75059cf6-a23c-5612-80e6-c7f5031c9519",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "under-10m",
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "80f09345-7400-5a1c-a24b-ca6c58cfb8a7",
+          "characteristicId": "ec4b5815-3b60-5463-934e-012280b5494a",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "576B322C-6A0A-4CCB-8AD2-70363474B0B4",
+      "code": "PS",
+      "name": "Purse seine",
+      "type": "mobile",
+      "categoryId": "18219d9f-e96a-592a-aa5d-5db6e2b9b3b0",
+      "pairFishing": false,
+      "applicableCharacteristics": [
+        {
+          "id": "b001d676-d767-59d7-ac46-8e63f9d02208",
+          "characteristicId": "dcb423b5-efd6-5ce8-b322-451eb04bb878",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "c32b3508-953a-58e5-ab31-492e4cbb35bb",
+          "characteristicId": "ec4b5815-3b60-5463-934e-012280b5494a",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "3a06cccc-b99f-54fd-a73b-3b5db995cb20",
+          "characteristicId": "75059cf6-a23c-5612-80e6-c7f5031c9519",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "under-10m",
+            "10-to-12m",
+            "over-12m"
+          ]
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "0CF41F76-BA98-4A9E-884A-DDBFFAEEC26A",
+      "code": "PS1",
+      "name": "One boat operated purse seine",
+      "type": "mobile",
+      "categoryId": "18219d9f-e96a-592a-aa5d-5db6e2b9b3b0",
+      "pairFishing": false,
+      "applicableCharacteristics": [
+        {
+          "id": "610bb908-78d3-5d30-83a1-6ba22a9f7d37",
+          "characteristicId": "ec4b5815-3b60-5463-934e-012280b5494a",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "accf9938-640a-5e84-bbcd-47bee6d282e8",
+          "characteristicId": "75059cf6-a23c-5612-80e6-c7f5031c9519",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "under-10m",
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "c35a0ae6-5d00-5b15-bc82-6bc0c5cec302",
+          "characteristicId": "dcb423b5-efd6-5ce8-b322-451eb04bb878",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "D1A3B668-8E4A-4B5F-92FF-89B328974249",
+      "code": "PS2",
+      "name": "Two boat operated purse seine",
+      "type": "mobile",
+      "categoryId": "18219d9f-e96a-592a-aa5d-5db6e2b9b3b0",
+      "pairFishing": true,
+      "applicableCharacteristics": [
+        {
+          "id": "a781b749-20e4-583c-a78f-f0d34c21350a",
+          "characteristicId": "dcb423b5-efd6-5ce8-b322-451eb04bb878",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "fe45b210-d473-5049-b52b-8259b39c04c6",
+          "characteristicId": "75059cf6-a23c-5612-80e6-c7f5031c9519",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "under-10m",
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "5618d544-0a9a-50fe-9ffa-718c4eeddcf8",
+          "characteristicId": "ec4b5815-3b60-5463-934e-012280b5494a",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "66A051A5-DD6E-40C0-856F-2BC90328C46D",
+      "code": "PTB",
+      "name": "Bottom pair trawl",
+      "type": "mobile",
+      "categoryId": "c291ebe0-05fd-527c-94ca-bcc022631621",
+      "pairFishing": true,
+      "applicableCharacteristics": [
+        {
+          "id": "930ff466-9aaa-524d-ac6f-364946693570",
+          "characteristicId": "ec4b5815-3b60-5463-934e-012280b5494a",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "ace8e733-c36a-5684-ba0b-ebf31eb8b2c6",
+          "characteristicId": "9a569db5-4e51-5397-a19b-9366d29447c2",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "1649f381-bbc5-50b1-8050-722056c86da2",
+          "characteristicId": "75059cf6-a23c-5612-80e6-c7f5031c9519",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "under-10m",
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "b982aff2-2462-56b3-b7eb-5a85b1f585fa",
+          "characteristicId": "3ec8712d-82a2-5520-bc06-b7cccabb34d4",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "under-10m"
+          ]
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "F67885C7-ADA3-489C-8E38-1F506DEEE92B",
+      "code": "PTM",
+      "name": "Mid-water pair trawl",
+      "type": "mobile",
+      "categoryId": "c291ebe0-05fd-527c-94ca-bcc022631621",
+      "pairFishing": true,
+      "applicableCharacteristics": [
+        {
+          "id": "dc4c458d-fb7f-52e4-97aa-da535dc9460d",
+          "characteristicId": "3ec8712d-82a2-5520-bc06-b7cccabb34d4",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "under-10m"
+          ]
+        },
+        {
+          "id": "9fa01db7-1ac8-5e65-965c-7d779e3de5bd",
+          "characteristicId": "75059cf6-a23c-5612-80e6-c7f5031c9519",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "under-10m",
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "8b195705-4db6-5661-b82c-ced37fde95f4",
+          "characteristicId": "9a569db5-4e51-5397-a19b-9366d29447c2",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "6CBD453D-F580-4BEA-818F-BB6F6AEDDB7C",
+      "code": "RG",
+      "name": "Recreational gear",
+      "type": "mobile",
+      "categoryId": "02f467be-328e-516f-a6fa-5f92ab0138d0",
+      "pairFishing": false,
+      "applicableCharacteristics": [],
+      "active": true
+    },
+    {
+      "id": "9FBDE098-58BB-42EB-A215-06DFF036A172",
+      "code": "SDN",
+      "name": "Danish anchor seine",
+      "type": "mobile",
+      "categoryId": "e474d943-358a-5d69-a258-009d4ddc74f8",
+      "pairFishing": false,
+      "applicableCharacteristics": [
+        {
+          "id": "dd788345-dbb7-51b6-9ee0-c553fbc70004",
+          "characteristicId": "75059cf6-a23c-5612-80e6-c7f5031c9519",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "under-10m",
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "5006da3c-8270-5d6f-888a-d7f3c64c32e5",
+          "characteristicId": "ec4b5815-3b60-5463-934e-012280b5494a",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "D9E8C479-CB64-484B-9612-BFEB5C74C979",
+      "code": "SPR",
+      "name": "Scottish pair seine (fly dragging)",
+      "type": "mobile",
+      "categoryId": "e474d943-358a-5d69-a258-009d4ddc74f8",
+      "pairFishing": true,
+      "applicableCharacteristics": [
+        {
+          "id": "04c55b6e-5dda-505e-aa31-64421162ddb4",
+          "characteristicId": "ec4b5815-3b60-5463-934e-012280b5494a",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "554b94ff-ca1d-5412-b4f6-bc24d81bcabc",
+          "characteristicId": "75059cf6-a23c-5612-80e6-c7f5031c9519",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "under-10m",
+            "10-to-12m",
+            "over-12m"
+          ]
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "F75E11E9-B008-40A4-B35A-FBA14C0A9A32",
+      "code": "SSC",
+      "name": "Scottish seine (fly dragging)",
+      "type": "mobile",
+      "categoryId": "e474d943-358a-5d69-a258-009d4ddc74f8",
+      "pairFishing": false,
+      "applicableCharacteristics": [
+        {
+          "id": "21d51737-769a-5b46-9ae5-d8aed6ce10e0",
+          "characteristicId": "75059cf6-a23c-5612-80e6-c7f5031c9519",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "under-10m",
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "a38e4163-214b-5fff-bc8c-089e49ca514f",
+          "characteristicId": "ec4b5815-3b60-5463-934e-012280b5494a",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "ABF074F7-A4CA-4415-8ACA-5DD0163ECB5F",
+      "code": "SUX",
+      "name": "Surrounding nets (Ring Net)",
+      "type": "mobile",
+      "categoryId": "18219d9f-e96a-592a-aa5d-5db6e2b9b3b0",
+      "pairFishing": false,
+      "applicableCharacteristics": [
+        {
+          "id": "bb14890c-8981-5001-8a4c-77ea4601abb8",
+          "characteristicId": "75059cf6-a23c-5612-80e6-c7f5031c9519",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "under-10m",
+            "10-to-12m",
+            "over-12m"
+          ]
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "E8686478-1770-416F-B081-ECF3CCDE19FB",
+      "code": "SV",
+      "name": "Boat or vessel seine",
+      "type": "mobile",
+      "categoryId": "e474d943-358a-5d69-a258-009d4ddc74f8",
+      "pairFishing": false,
+      "applicableCharacteristics": [
+        {
+          "id": "f317e1fb-5675-5b3d-8b12-06a2d9554e99",
+          "characteristicId": "75059cf6-a23c-5612-80e6-c7f5031c9519",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "under-10m",
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "a8d1ab25-2da6-50de-9e96-77c1571b08c8",
+          "characteristicId": "ec4b5815-3b60-5463-934e-012280b5494a",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "E3896789-FB4F-4283-8919-07FC5AA1190E",
+      "code": "SX",
+      "name": "Seine nets (not specified)",
+      "type": "mobile",
+      "categoryId": "e474d943-358a-5d69-a258-009d4ddc74f8",
+      "pairFishing": false,
+      "applicableCharacteristics": [
+        {
+          "id": "be63f51b-7b8f-5684-9578-147ce4f0598f",
+          "characteristicId": "ec4b5815-3b60-5463-934e-012280b5494a",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "4cb8b955-266a-5bdc-afd7-bfea6677ed06",
+          "characteristicId": "75059cf6-a23c-5612-80e6-c7f5031c9519",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "under-10m",
+            "10-to-12m",
+            "over-12m"
+          ]
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "02C4C0EA-F36F-4517-892B-3C9F9798A9CF",
+      "code": "TB",
+      "name": "Bottom trawls (not specified)",
+      "type": "mobile",
+      "categoryId": "c291ebe0-05fd-527c-94ca-bcc022631621",
+      "pairFishing": false,
+      "applicableCharacteristics": [
+        {
+          "id": "960fdd47-d7b0-552d-83ce-59864ebbaad1",
+          "characteristicId": "ec4b5815-3b60-5463-934e-012280b5494a",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "f6936eb3-bdc0-587d-97f1-18da0efbef0e",
+          "characteristicId": "75059cf6-a23c-5612-80e6-c7f5031c9519",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "under-10m",
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "4b01edfb-d01c-5896-867d-928afa7a194d",
+          "characteristicId": "9a569db5-4e51-5397-a19b-9366d29447c2",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "a19564d8-22e2-569a-bbf6-b8a0df9555e2",
+          "characteristicId": "3ec8712d-82a2-5520-bc06-b7cccabb34d4",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "under-10m",
+            "10-to-12m",
+            "over-12m"
+          ]
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "F3C85F59-1196-43DA-B74B-909F7D7BE451",
+      "code": "TBB",
+      "name": "Beam trawl",
+      "type": "mobile",
+      "categoryId": "c291ebe0-05fd-527c-94ca-bcc022631621",
+      "pairFishing": false,
+      "applicableCharacteristics": [
+        {
+          "id": "75c47750-800a-5479-a1de-c4f233e2e8e2",
+          "characteristicId": "ec4b5815-3b60-5463-934e-012280b5494a",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "48f95983-75b6-57ab-8965-660a5d1efd9d",
+          "characteristicId": "75059cf6-a23c-5612-80e6-c7f5031c9519",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "under-10m",
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "e5539778-c130-58ef-a7cb-a35736791067",
+          "characteristicId": "3ec8712d-82a2-5520-bc06-b7cccabb34d4",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "under-10m",
+            "10-to-12m",
+            "over-12m"
+          ]
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "F41C6B6A-DD02-436F-80C4-12D46459E446",
+      "code": "TBN",
+      "name": "Nephrops trawls",
+      "type": "mobile",
+      "categoryId": "c291ebe0-05fd-527c-94ca-bcc022631621",
+      "pairFishing": false,
+      "applicableCharacteristics": [
+        {
+          "id": "15887b49-b593-5df5-93fb-11b78c0d4662",
+          "characteristicId": "ec4b5815-3b60-5463-934e-012280b5494a",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "3d7fef85-3b91-5f4c-81a8-2f35cc9ff13d",
+          "characteristicId": "75059cf6-a23c-5612-80e6-c7f5031c9519",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "under-10m",
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "d73f4f69-31c9-5365-b8ca-c507b9fde278",
+          "characteristicId": "9a569db5-4e51-5397-a19b-9366d29447c2",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "6191ab4d-ad31-58da-96c8-62193112848c",
+          "characteristicId": "3ec8712d-82a2-5520-bc06-b7cccabb34d4",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "under-10m"
+          ]
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "6BC93FA8-6905-421E-A945-74128B05DD1E",
+      "code": "TBS",
+      "name": "Shrimp trawls",
+      "type": "mobile",
+      "categoryId": "c291ebe0-05fd-527c-94ca-bcc022631621",
+      "pairFishing": false,
+      "applicableCharacteristics": [
+        {
+          "id": "328e442b-2103-5911-839b-f4a8507e7f3e",
+          "characteristicId": "9a569db5-4e51-5397-a19b-9366d29447c2",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "d793fcc6-6602-50db-a041-67146f37be06",
+          "characteristicId": "ec4b5815-3b60-5463-934e-012280b5494a",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "10-to-12m",
+            "over-12m"
+          ]
+        },
+        {
+          "id": "3a9a518e-9fb6-5516-8912-f5b87c11c7c2",
+          "characteristicId": "3ec8712d-82a2-5520-bc06-b7cccabb34d4",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "under-10m"
+          ]
+        },
+        {
+          "id": "21a52ad4-dd62-5e13-8c46-ef1066403c9b",
+          "characteristicId": "75059cf6-a23c-5612-80e6-c7f5031c9519",
+          "fixed": true,
+          "required": false,
+          "vesselLengthApplicability": [
+            "under-10m",
+            "10-to-12m",
+            "over-12m"
+          ]
+        }
+      ],
+      "active": true
+    }
+  ]
+}

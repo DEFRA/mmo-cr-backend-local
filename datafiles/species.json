@@ -1,0 +1,3034 @@
+{
+  "dataset": "species",
+  "collectionId": "00000000-0000-4000-8000-000000000040",
+  "schemaVersion": "1.0",
+  "version": "species-excel-1",
+  "generatedAt": "2026-09-28T08:32:55Z",
+  "itemCount": 216,
+  "items": [
+    {
+      "id": "B33EEEEC-D5AF-4165-872B-7D602B14DEF4",
+      "faoCode": "AGN",
+      "scientificName": "Squatina squatina",
+      "commonNames": [
+        {
+          "id": "0d4de54d-6a2d-5f3f-b79e-7a97e676386d",
+          "countryCode": "GBR",
+          "name": "Angelshark"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "075543DD-2DD7-4926-9AB1-FD6189B43726",
+      "faoCode": "ALB",
+      "scientificName": "Thunnus alalunga",
+      "commonNames": [
+        {
+          "id": "7ce959e5-0320-5a04-adf1-581bfd187f54",
+          "countryCode": "GBR",
+          "name": "Albacore"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "39FF37D1-9D52-48FB-A6D4-2C6876953612",
+      "faoCode": "ALC",
+      "scientificName": "Alepocephalus bairdii",
+      "commonNames": [
+        {
+          "id": "24d7eb60-d2c9-5994-a96f-68592c5b655b",
+          "countryCode": "GBR",
+          "name": "Baird's slickhead"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "60628FCB-97AF-40D0-B992-099216C8FC40",
+      "faoCode": "ALF",
+      "scientificName": "Beryx spp",
+      "commonNames": [
+        {
+          "id": "54d25e34-fc39-5461-9211-2cb00220f297",
+          "countryCode": "GBR",
+          "name": "Alfonsinos nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "42C4E0EE-41F5-400C-AA20-02F2EBC34891",
+      "faoCode": "AMB",
+      "scientificName": "Seriola dumerili",
+      "commonNames": [
+        {
+          "id": "bb1586e6-64f4-570b-9774-8f7a5b9619dd",
+          "countryCode": "GBR",
+          "name": "Greater amberjack"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "3A3B3351-7779-40A6-AD3D-3A4732E19CC1",
+      "faoCode": "AMX",
+      "scientificName": "Seriola spp",
+      "commonNames": [
+        {
+          "id": "f52166c8-67d8-5885-baa6-f4a00d8c9f47",
+          "countryCode": "GBR",
+          "name": "Amberjacks nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "3A541DF2-0211-4463-AA8E-3C7DF52B00E8",
+      "faoCode": "ANE",
+      "scientificName": "Engraulis encrasicolus",
+      "commonNames": [
+        {
+          "id": "4dcbb3bb-9f5c-5271-a24f-deb7bada2781",
+          "countryCode": "GBR",
+          "name": "European anchovy"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "2B7C7B51-AE19-414A-93E4-58B151672255",
+      "faoCode": "ANF",
+      "scientificName": "Lophiidae",
+      "commonNames": [
+        {
+          "id": "bc6f1b66-7fe5-5afa-b037-6f8b49bd4c86",
+          "countryCode": "GBR",
+          "name": "Anglerfishes nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "5744F976-288F-430A-8A7F-49FC66B2F2CA",
+      "faoCode": "ANK",
+      "scientificName": "Lophius budegassa",
+      "commonNames": [
+        {
+          "id": "f1d8e866-a8ae-55ed-90d0-8d03a5d7c2e1",
+          "countryCode": "GBR",
+          "name": "Blackbellied angler"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "4B7A016A-A155-4B1C-A52B-6437F951E474",
+      "faoCode": "ARG",
+      "scientificName": "Argentina spp",
+      "commonNames": [
+        {
+          "id": "a7cf047e-0c37-53e7-a6b8-6f3be888a539",
+          "countryCode": "GBR",
+          "name": "Argentines"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "6062178F-5CC8-48EF-9A60-D2CBA96B6DA9",
+      "faoCode": "ATP",
+      "scientificName": "Atherina presbyter",
+      "commonNames": [
+        {
+          "id": "99d91dc7-c3d1-5bb6-9cbc-bcd49c2cd405",
+          "countryCode": "GBR",
+          "name": "Sand smelt"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "511DA564-5462-4DB3-9027-DDCC52F6ACD3",
+      "faoCode": "BET",
+      "scientificName": "Thunnus obesus",
+      "commonNames": [
+        {
+          "id": "db741b5e-b83f-5968-9e73-d916133337e6",
+          "countryCode": "GBR",
+          "name": "Bigeye tuna"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "0309734D-2928-442F-BFD8-3512158A9538",
+      "faoCode": "BFT",
+      "scientificName": "Thunnus thynnus",
+      "commonNames": [
+        {
+          "id": "a91ac15f-0450-5df5-81c1-c37177b0f539",
+          "countryCode": "GBR",
+          "name": "Atlantic bluefin tuna"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "3A68070E-26D1-439E-A97D-09A98F35F2FE",
+      "faoCode": "BIB",
+      "scientificName": "Trisopterus luscus",
+      "commonNames": [
+        {
+          "id": "4552962d-2137-5d8f-be20-297c0c50bc4f",
+          "countryCode": "GBR",
+          "name": "Pouting(=Bib)"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "5D2C9B04-A76A-4258-A615-6D8E831C1A9F",
+      "faoCode": "BIL",
+      "scientificName": "Istiophoridae",
+      "commonNames": [
+        {
+          "id": "236e8b38-7277-52a0-b62a-b7b7130e8811",
+          "countryCode": "GBR",
+          "name": "Marlins,sailfishes,etc. nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "87BA3111-65D0-4CAF-83C6-4ABB21D801E8",
+      "faoCode": "BLI",
+      "scientificName": "Molva dypterygia",
+      "commonNames": [
+        {
+          "id": "679bb92e-af19-5c85-9211-3ad7ae92deca",
+          "countryCode": "GBR",
+          "name": "Blue ling"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "36C2BB37-8BC6-4821-9F94-39A03563AF5F",
+      "faoCode": "BLL",
+      "scientificName": "Scophthalmus rhombus",
+      "commonNames": [
+        {
+          "id": "58523666-c0c5-5264-b24c-b3f3ba01dbcb",
+          "countryCode": "GBR",
+          "name": "Brill"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "0591C6CF-9EBF-4F6D-90FF-719067ABF2A3",
+      "faoCode": "BOC",
+      "scientificName": "Capros aper",
+      "commonNames": [
+        {
+          "id": "0f4de6ee-f536-546d-931c-794c3d51152c",
+          "countryCode": "GBR",
+          "name": "Boarfish"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "D7A32B7F-4C1F-4D28-B550-BFF7E500FC08",
+      "faoCode": "BOG",
+      "scientificName": "Boops boops",
+      "commonNames": [
+        {
+          "id": "cc0eeb75-bab2-5291-a8d0-93972d557dbe",
+          "countryCode": "GBR",
+          "name": "Bogue"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "80CFD140-8BEE-4FD5-8120-12BF1357F3DD",
+      "faoCode": "BON",
+      "scientificName": "Sarda sarda",
+      "commonNames": [
+        {
+          "id": "2dd8d837-6905-5b64-8e1f-ba024d497026",
+          "countryCode": "GBR",
+          "name": "Atlantic bonito"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "7BD87C47-3E04-4EEC-820A-37F2F2CB352A",
+      "faoCode": "BRB",
+      "scientificName": "Spondyliosoma cantharus",
+      "commonNames": [
+        {
+          "id": "d7465241-5e27-52d6-be38-9940f98bad0f",
+          "countryCode": "GBR",
+          "name": "Black seabream"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "CAEAFBC3-0BDE-4EA7-8111-08B92CC8FC37",
+      "faoCode": "BSF",
+      "scientificName": "Aphanopus carbo",
+      "commonNames": [
+        {
+          "id": "b085ff9c-1e08-5c2d-bc5c-f64d2e26a7c3",
+          "countryCode": "GBR",
+          "name": "Black scabbardfish"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "254F9ADD-57D8-4B67-A510-AFE2E6F9E69A",
+      "faoCode": "BSH",
+      "scientificName": "Prionace glauca",
+      "commonNames": [
+        {
+          "id": "015c5d9f-e10f-526f-879c-5f9f204ad809",
+          "countryCode": "GBR",
+          "name": "Blue shark"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "884EF59C-8CC1-48D1-B451-74009AD094B3",
+      "faoCode": "BSS",
+      "scientificName": "Dicentrarchus labrax",
+      "commonNames": [
+        {
+          "id": "bf8144be-0805-511f-9927-d3ceb878b58d",
+          "countryCode": "GBR",
+          "name": "European seabass"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "3DB853CB-FCFB-44E1-A207-9105C245439B",
+      "faoCode": "CAA",
+      "scientificName": "Anarhichas lupus",
+      "commonNames": [
+        {
+          "id": "1e09810b-632a-5a2a-8a05-873623ba6e22",
+          "countryCode": "GBR",
+          "name": "Atlantic wolffish"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "7FBF3CC7-EB82-4890-910D-919E47BAB6D3",
+      "faoCode": "CAP",
+      "scientificName": "Mallotus villosus",
+      "commonNames": [
+        {
+          "id": "09948aed-6b0a-5e35-80db-4795a40468b4",
+          "countryCode": "GBR",
+          "name": "Capelin"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "6206FA7D-093B-438D-BAA5-5D1565D1F8FE",
+      "faoCode": "CAX",
+      "scientificName": "Ariidae",
+      "commonNames": [
+        {
+          "id": "8bbed472-0e31-50f0-9122-873281005b43",
+          "countryCode": "GBR",
+          "name": "Sea catfishes nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "DF10A1E2-F5E3-46A8-BA4A-50B0CC447389",
+      "faoCode": "CEO",
+      "scientificName": "Centrolophus niger",
+      "commonNames": [
+        {
+          "id": "d6ce58da-df6d-55ed-9158-f044daed0fb9",
+          "countryCode": "GBR",
+          "name": "Rudderfish"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "A001648C-42AD-4A17-9944-2ECA5C62605D",
+      "faoCode": "CFB",
+      "scientificName": "Centroscyllium fabricii",
+      "commonNames": [
+        {
+          "id": "221607e9-c4a7-5295-8a96-9d2123a572ae",
+          "countryCode": "GBR",
+          "name": "Black dogfish"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "E349D11E-A881-415D-8AE3-2E3A59211A2F",
+      "faoCode": "CLH",
+      "scientificName": "Mercenaria mercenaria",
+      "commonNames": [
+        {
+          "id": "c2fe9faa-7aad-52b7-b6ee-f5e0d8d48a1f",
+          "countryCode": "GBR",
+          "name": "Northern quahog(=Hard clam)"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "D62879EA-DD89-4255-90A6-B4E7E24EC1F0",
+      "faoCode": "CLS",
+      "scientificName": "Mya arenaria",
+      "commonNames": [
+        {
+          "id": "07e14d8c-a78e-5949-90e9-7e7a313ffcf3",
+          "countryCode": "GBR",
+          "name": "Sand gaper"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "DD2BA43E-43F6-4D56-8870-B93ACB73E8DB",
+      "faoCode": "CLV",
+      "scientificName": "Veneridae",
+      "commonNames": [
+        {
+          "id": "b4cc55c3-7fb6-54f4-9f79-a2f737ade3e3",
+          "countryCode": "GBR",
+          "name": "Venus clams nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "5DCC4D53-0518-476A-BF64-CB4C16CE1E93",
+      "faoCode": "CLX",
+      "scientificName": "Bivalvia",
+      "commonNames": [
+        {
+          "id": "06264330-0832-5d80-a5ed-f6bf070ec46e",
+          "countryCode": "GBR",
+          "name": "Clams, etc. nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "FB40C3F5-4995-4774-9AED-C3A434A5721F",
+      "faoCode": "CMM",
+      "scientificName": "Corbicula manilensis",
+      "commonNames": [
+        {
+          "id": "7b8fd052-51c5-5476-8110-da769cd33e4b",
+          "countryCode": "GBR",
+          "name": "Manila clam"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "D7FA0144-6444-4310-850F-BF038FA5B086",
+      "faoCode": "CMO",
+      "scientificName": "Chimaera monstrosa",
+      "commonNames": [
+        {
+          "id": "e1eed761-5570-5fcd-808d-2072fded4ee2",
+          "countryCode": "GBR",
+          "name": "Rabbit fish"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "8E9B7012-2D60-4E15-86BD-EF72EDED4FE2",
+      "faoCode": "COC",
+      "scientificName": "Cerastoderma edule",
+      "commonNames": [
+        {
+          "id": "7f47cdbd-90e9-5c08-94ae-ff7725cf0999",
+          "countryCode": "GBR",
+          "name": "Common edible cockle"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "F7C56C89-DC86-490E-82AB-637BB1B40F0C",
+      "faoCode": "COD",
+      "scientificName": "Gadus morhua",
+      "commonNames": [
+        {
+          "id": "64f870fd-e341-5d5e-a5c6-742d28353e32",
+          "countryCode": "GBR",
+          "name": "Atlantic cod"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "5642D65C-0FC5-4D1C-81B8-FAE03C206FBE",
+      "faoCode": "COE",
+      "scientificName": "Conger conger",
+      "commonNames": [
+        {
+          "id": "cd1b275b-da75-5b49-ad7a-5e255ac3020f",
+          "countryCode": "GBR",
+          "name": "European conger"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "D110852A-7955-4308-B28B-421A1E7C2DAC",
+      "faoCode": "COX",
+      "scientificName": "Congridae",
+      "commonNames": [
+        {
+          "id": "8df76bde-9e84-53c4-bf59-86b88a07c81e",
+          "countryCode": "GBR",
+          "name": "Conger eels, etc. nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "CE169EFE-7826-43AE-BF65-2615A0287FD5",
+      "faoCode": "CPR",
+      "scientificName": "Palaemon serratus",
+      "commonNames": [
+        {
+          "id": "4aa81115-26a4-5e22-aeda-4a134dc3bd94",
+          "countryCode": "GBR",
+          "name": "Common prawn"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "4BED3CEF-C036-443A-B058-2872495FC1A1",
+      "faoCode": "CRA",
+      "scientificName": "Brachyura",
+      "commonNames": [
+        {
+          "id": "ae0066eb-b686-5f8c-ae5f-08febf9736b3",
+          "countryCode": "GBR",
+          "name": "Marine crabs nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "8B10BB25-8E45-46E4-85C6-E4C9AB8E4B54",
+      "faoCode": "CRE",
+      "scientificName": "Cancer pagurus",
+      "commonNames": [
+        {
+          "id": "c1067f4f-6f60-5047-8293-004be3b5dcaf",
+          "countryCode": "GBR",
+          "name": "Edible crab"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "511C640B-FA7E-4319-B7CF-E79DC4103029",
+      "faoCode": "CRG",
+      "scientificName": "Carcinus maenas",
+      "commonNames": [
+        {
+          "id": "fc0033b0-6ac5-566b-bbc1-8d98a7086262",
+          "countryCode": "GBR",
+          "name": "Green crab"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "E174850B-A4E6-436E-BDB7-DE55F82239CE",
+      "faoCode": "CRW",
+      "scientificName": "Palinurus spp",
+      "commonNames": [
+        {
+          "id": "a645bfb4-5f50-5450-88e6-6b6290a89e66",
+          "countryCode": "GBR",
+          "name": "Palinurid spiny lobsters nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "43D7D767-C3B1-4DEE-AF47-140B9A7B4A3D",
+      "faoCode": "CSH",
+      "scientificName": "Crangon crangon",
+      "commonNames": [
+        {
+          "id": "15cda78c-a1ce-59f1-ad90-2b876a8a678d",
+          "countryCode": "GBR",
+          "name": "Common shrimp"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "A1147974-DEFC-4D08-BE0F-8A37F6DBE1CE",
+      "faoCode": "CTC",
+      "scientificName": "Sepia officinalis",
+      "commonNames": [
+        {
+          "id": "e7df7901-15bd-54d0-bfe0-aa9de5543132",
+          "countryCode": "GBR",
+          "name": "Common cuttlefish"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "C602BF3C-D421-4B14-8EBD-F3C3582CE092",
+      "faoCode": "CTL",
+      "scientificName": "Sepiidae, Sepiolidae",
+      "commonNames": [
+        {
+          "id": "788fb2c0-ece4-57b3-9ec5-bc0274e55f56",
+          "countryCode": "GBR",
+          "name": "Cuttlefish, bobtail squids nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "F40FB48E-5C16-4AD6-BA77-416237088352",
+      "faoCode": "CUX",
+      "scientificName": "Holothuroidea",
+      "commonNames": [
+        {
+          "id": "40bfce17-4bef-56fd-a69e-e43a2ea344c4",
+          "countryCode": "GBR",
+          "name": "Sea cucumbers nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "9DDF4F77-01F6-45F1-AD68-72815A875936",
+      "faoCode": "CYH",
+      "scientificName": "Hydrolagus mirabilis",
+      "commonNames": [
+        {
+          "id": "ea72ca6e-6738-53c0-98b9-b1566358c6ee",
+          "countryCode": "GBR",
+          "name": "Large-eyed rabbitfish"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "52B37ACC-6C51-42E5-BC38-00CD35F71468",
+      "faoCode": "CYO",
+      "scientificName": "Centroscymnus coelolepis",
+      "commonNames": [
+        {
+          "id": "a640cdb9-e0c7-5c3b-96d2-ab9715858765",
+          "countryCode": "GBR",
+          "name": "Portuguese dogfish"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "CD4B9DDC-93D2-48D9-B2D7-694C8CA04018",
+      "faoCode": "CYP",
+      "scientificName": "Centroscymnus crepidater",
+      "commonNames": [
+        {
+          "id": "49825cb1-b3dd-5dd4-8d80-e5fa99442f2c",
+          "countryCode": "GBR",
+          "name": "Longnose velvet dogfish"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "789A2C31-16BE-4D61-9F94-618C223AE8E5",
+      "faoCode": "DAB",
+      "scientificName": "Limanda limanda",
+      "commonNames": [
+        {
+          "id": "fed6f36c-5a1c-50f4-9ea2-be10a348aa4d",
+          "countryCode": "GBR",
+          "name": "Common dab"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "5059D365-85E1-45BA-9743-F037888B6246",
+      "faoCode": "DCA",
+      "scientificName": "Deania calcea",
+      "commonNames": [
+        {
+          "id": "5af9571b-7156-5ba2-8c0f-2d4fad4cae0a",
+          "countryCode": "GBR",
+          "name": "Birdbeak dogfish"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "D1B08A69-28AF-4148-9959-C81BCAFB8A7B",
+      "faoCode": "DGH",
+      "scientificName": "Squalidae, Scyliorhinidae",
+      "commonNames": [
+        {
+          "id": "824f730a-a643-5d73-bd4c-cfca32e2bc6b",
+          "countryCode": "GBR",
+          "name": "Dogfishes and hounds nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "878723C3-EB89-486C-9CC5-5BE6F50F4986",
+      "faoCode": "DGS",
+      "scientificName": "Squalus acanthias",
+      "commonNames": [
+        {
+          "id": "c53c3ee2-72ae-536a-8ea7-453c9bb3e3f3",
+          "countryCode": "GBR",
+          "name": "Picked dogfish"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "4513920B-6286-4F74-9BB4-91BCBDEDB56A",
+      "faoCode": "DGX",
+      "scientificName": "Squalidae",
+      "commonNames": [
+        {
+          "id": "1a61e29d-550c-5292-8877-25bf9ed9664f",
+          "countryCode": "GBR",
+          "name": "Dogfish sharks nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "A3C288C7-B9F8-43B2-A5EC-65E39D456DDD",
+      "faoCode": "EEO",
+      "scientificName": "Etelis oculatus",
+      "commonNames": [
+        {
+          "id": "4655e5c7-dc5b-540d-b0ff-4ed7e9f5a5c6",
+          "countryCode": "GBR",
+          "name": "Queen snapper"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "820DF891-104C-482F-8E13-13F890E94CEC",
+      "faoCode": "EJE",
+      "scientificName": "Sepia elegans",
+      "commonNames": [
+        {
+          "id": "e85ee679-cee1-5950-8361-0fc4a339b40c",
+          "countryCode": "GBR",
+          "name": "Elegant cuttlefish"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "7FFCC587-319C-4752-AB21-77FECFB843BF",
+      "faoCode": "ELE",
+      "scientificName": "Anguilla anguilla",
+      "commonNames": [
+        {
+          "id": "9cc32eb1-9063-57f1-8185-10cf40b8aeab",
+          "countryCode": "GBR",
+          "name": "European eel"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "3EE76356-0AC9-4679-8A57-90304BB56FF1",
+      "faoCode": "ENX",
+      "scientificName": "Centrolabrus exoletus",
+      "commonNames": [
+        {
+          "id": "04fbe689-e047-5014-b9f1-7d97b5c8d81d",
+          "countryCode": "GBR",
+          "name": "Rock cook"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "729FC393-4320-4813-97E9-493397FD3B16",
+      "faoCode": "EOI",
+      "scientificName": "Eledone cirrhosa",
+      "commonNames": [
+        {
+          "id": "61bc76c3-0095-5458-ac44-b8c3c46a8f55",
+          "countryCode": "GBR",
+          "name": "Horned octopus"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "20A72F14-2762-45F8-91B9-91C153521E80",
+      "faoCode": "ETR",
+      "scientificName": "Etmopterus princeps",
+      "commonNames": [
+        {
+          "id": "d17b0f3d-6276-5a41-9841-04fbe1a04d01",
+          "countryCode": "GBR",
+          "name": "Great lanternshark"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "D32B218D-4622-4712-95AD-507C2B33D1B0",
+      "faoCode": "ETX",
+      "scientificName": "Etmopterus spinax",
+      "commonNames": [
+        {
+          "id": "1a86d78a-6015-54f1-843c-b1dc3ae58802",
+          "countryCode": "GBR",
+          "name": "Velvet belly"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "2C8E8B17-2560-4F40-9C47-D6442B6822D2",
+      "faoCode": "FLE",
+      "scientificName": "Platichthys flesus",
+      "commonNames": [
+        {
+          "id": "34d41135-2320-5640-a791-86c59315477c",
+          "countryCode": "GBR",
+          "name": "European flounder"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "F563E1FC-995F-4159-9C5A-9BFAE815D0C8",
+      "faoCode": "FOR",
+      "scientificName": "Phycis phycis",
+      "commonNames": [
+        {
+          "id": "babe9141-33d3-5ff0-bfa8-99916883ab76",
+          "countryCode": "GBR",
+          "name": "Forkbeard"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "812BE705-BD07-4281-B916-A41508D49B44",
+      "faoCode": "FRZ",
+      "scientificName": "Auxis thazard, A. rochei",
+      "commonNames": [
+        {
+          "id": "9437580a-3379-5174-96e1-314ca873a231",
+          "countryCode": "GBR",
+          "name": "Frigate and bullet tunas"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "746439E5-B6C7-4310-AC30-711900346142",
+      "faoCode": "GAG",
+      "scientificName": "Galeorhinus galeus",
+      "commonNames": [
+        {
+          "id": "519043ba-0631-5ff6-a336-939d108a4ec8",
+          "countryCode": "GBR",
+          "name": "Tope shark"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "673D9989-0A3E-4B6C-8BA0-7E97EC9D2874",
+      "faoCode": "GAM",
+      "scientificName": "Galeus murinus",
+      "commonNames": [
+        {
+          "id": "f2f0181e-5edf-5b4e-b333-b8ec7369adf4",
+          "countryCode": "GBR",
+          "name": "Mouse catshark"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "42BAE56D-5C5D-46DC-AD8F-C657FCE4CAD0",
+      "faoCode": "GAR",
+      "scientificName": "Belone belone",
+      "commonNames": [
+        {
+          "id": "9d579e71-0f69-5e85-93fb-c685ffcbaa52",
+          "countryCode": "GBR",
+          "name": "Garfish"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "4543C72E-38E9-4F12-829A-59D147864D9F",
+      "faoCode": "GFB",
+      "scientificName": "Phycis blennoides",
+      "commonNames": [
+        {
+          "id": "6c8b6737-69dd-5eef-b551-0d69769e12d1",
+          "countryCode": "GBR",
+          "name": "Greater forkbeard"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "FC5F9B01-9998-46CA-922F-6479831B3DF4",
+      "faoCode": "GHL",
+      "scientificName": "Reinhardtius hippoglossoides",
+      "commonNames": [
+        {
+          "id": "3d07e43f-979d-5f7e-8c11-fedb8246a8ad",
+          "countryCode": "GBR",
+          "name": "Greenland halibut"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "7B9A7729-82B8-4A36-96DF-6B8637C12CA4",
+      "faoCode": "GPD",
+      "scientificName": "Epinephelus marginatus",
+      "commonNames": [
+        {
+          "id": "6bc55a4d-b7c3-5f60-9fda-724e4a6730a3",
+          "countryCode": "GBR",
+          "name": "Dusky grouper"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "91A6EF9B-5FFE-4BD8-BF0D-C452F1BAFFFF",
+      "faoCode": "GRX",
+      "scientificName": "Haemulidae (=Pomadasyidae)",
+      "commonNames": [
+        {
+          "id": "28457259-7773-5a56-9601-2ca1e43efc7e",
+          "countryCode": "GBR",
+          "name": "Grunts, sweetlips nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "5E1D0280-A651-48F9-9893-660B0D830A69",
+      "faoCode": "GSK",
+      "scientificName": "Somniosus microcephalus",
+      "commonNames": [
+        {
+          "id": "55b10f29-5613-53dd-8472-b5ff10c68b9f",
+          "countryCode": "GBR",
+          "name": "Greenland shark"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "1F4260E7-9D77-4970-AD29-D75C8BD12B7E",
+      "faoCode": "GUG",
+      "scientificName": "Eutrigla gurnardus",
+      "commonNames": [
+        {
+          "id": "fa142ebd-db09-5483-94a5-a0302be13fb4",
+          "countryCode": "GBR",
+          "name": "Grey gurnard"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "E3690F72-401A-4E9E-9A02-9D06886A2C71",
+      "faoCode": "GUP",
+      "scientificName": "Centrophorus granulosus",
+      "commonNames": [
+        {
+          "id": "9fca8ab1-8d0c-537f-b336-fb95a98456a4",
+          "countryCode": "GBR",
+          "name": "Gulper shark"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "24396639-25DD-41C2-ACDB-A453BC5E4CD7",
+      "faoCode": "GUQ",
+      "scientificName": "Centrophorus squamosus",
+      "commonNames": [
+        {
+          "id": "4bd28a2d-c3eb-5e82-8d09-598d539cfaa2",
+          "countryCode": "GBR",
+          "name": "Leafscale gulper shark"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "E7C5B84D-CFF8-4024-8C25-9A325F39AB1B",
+      "faoCode": "GUR",
+      "scientificName": "Aspitrigla cuculus",
+      "commonNames": [
+        {
+          "id": "a9df47c2-6f2d-545a-b4f9-79e18cb43d0f",
+          "countryCode": "GBR",
+          "name": "Red gurnard"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "01A62F24-EFC4-475B-B35D-D7BDDF3587E6",
+      "faoCode": "GUU",
+      "scientificName": "Chelidonichthys lucerna",
+      "commonNames": [
+        {
+          "id": "fb927d66-5821-5249-967e-70c855ffeb6c",
+          "countryCode": "GBR",
+          "name": "Tub gurnard"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "C1DD4859-F66E-43BE-80AB-BC3491C79405",
+      "faoCode": "GUX",
+      "scientificName": "Triglidae",
+      "commonNames": [
+        {
+          "id": "7700ad1e-3e14-5b81-aa81-8ae93afa256e",
+          "countryCode": "GBR",
+          "name": "Gurnards, searobins nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "03C12AF0-5BC0-469F-AFDA-E7C5C0845F8C",
+      "faoCode": "HAD",
+      "scientificName": "Melanogrammus aeglefinus",
+      "commonNames": [
+        {
+          "id": "5557219d-cf2d-501a-8869-f324ea2b4bb3",
+          "countryCode": "GBR",
+          "name": "Haddock"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "86C3EA42-4B2E-4E05-AC52-008082C29690",
+      "faoCode": "HAL",
+      "scientificName": "Hippoglossus hippoglossus",
+      "commonNames": [
+        {
+          "id": "56e822dd-1845-5476-9ad3-ecc0041ea11e",
+          "countryCode": "GBR",
+          "name": "Atlantic halibut"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "8F725980-99BA-4BAE-8178-DAC8D13778DD",
+      "faoCode": "HER",
+      "scientificName": "Clupea harengus",
+      "commonNames": [
+        {
+          "id": "84f0f98e-baef-5e2b-94b3-f4561c2f9dcc",
+          "countryCode": "GBR",
+          "name": "Atlantic herring"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "0071F0A1-35A9-43AC-875B-11462DC055FA",
+      "faoCode": "HKE",
+      "scientificName": "Merluccius merluccius",
+      "commonNames": [
+        {
+          "id": "23df7203-b815-5f42-addd-7e716bd3ebe7",
+          "countryCode": "GBR",
+          "name": "European hake"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "1C221154-3AD7-4441-8A9E-594F7724E0EB",
+      "faoCode": "HOM",
+      "scientificName": "Trachurus trachurus",
+      "commonNames": [
+        {
+          "id": "f045dc90-66a0-555a-9b32-3e9f67a6e072",
+          "countryCode": "GBR",
+          "name": "Atlantic horse mackerel"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "95C29C58-3C68-4428-B64A-1AC42AA69F55",
+      "faoCode": "HPR",
+      "scientificName": "Hoplostethus mediterraneus",
+      "commonNames": [
+        {
+          "id": "ffc5b584-30d8-57e4-861e-26c7cf80aba5",
+          "countryCode": "GBR",
+          "name": "Mediterranean slimehead"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "4D79FCC7-1A02-4E0E-A978-7ECE88154235",
+      "faoCode": "HXC",
+      "scientificName": "Chlamydoselachus anguineus",
+      "commonNames": [
+        {
+          "id": "ad289a55-393c-5957-b7af-4f27580f1b54",
+          "countryCode": "GBR",
+          "name": "Frilled shark"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "69CD64C8-625C-4C2C-8430-4A379C313AE0",
+      "faoCode": "IAR",
+      "scientificName": "Sepia orbignyana",
+      "commonNames": [
+        {
+          "id": "61eacd03-c907-5eb9-98a7-7f8db7cd1a11",
+          "countryCode": "GBR",
+          "name": "Pink cuttlefish"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "19D3BBDF-8CF6-41F7-83A9-278FF3A13B6C",
+      "faoCode": "JAD",
+      "scientificName": "Raja nidarosiensis",
+      "commonNames": [
+        {
+          "id": "9b748bb9-7939-5b09-8b49-e1705a43000a",
+          "countryCode": "GBR",
+          "name": "Norwegian skate"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "84CB2DD3-E94D-4FF4-8819-C1D1D73DE854",
+      "faoCode": "JAX",
+      "scientificName": "Trachurus spp",
+      "commonNames": [
+        {
+          "id": "ec17cf26-acab-5c5d-9c91-6076b0979a9c",
+          "countryCode": "GBR",
+          "name": "Jack and horse mackerels nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "32826D7C-4471-4438-B478-D2438EC95913",
+      "faoCode": "JDP",
+      "scientificName": "Dasyatis pastinaca",
+      "commonNames": [
+        {
+          "id": "7c1c79ac-5af2-5c82-b532-9f1a6a12aba5",
+          "countryCode": "GBR",
+          "name": "Common stingray"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "26503DE7-A386-442C-B048-8478AA52BA13",
+      "faoCode": "JOD",
+      "scientificName": "Zeus faber",
+      "commonNames": [
+        {
+          "id": "62f18db1-5bf0-5441-ac0f-1ce258702ac9",
+          "countryCode": "GBR",
+          "name": "John dory"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "F6B5CD3D-746C-4AE8-8FF2-8A3AC04B5055",
+      "faoCode": "KCX",
+      "scientificName": "Lithodidae",
+      "commonNames": [
+        {
+          "id": "6b53d862-81fc-508f-a938-1f13906f2785",
+          "countryCode": "GBR",
+          "name": "King crabs, stone crabs nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "1236AF56-7A82-43C7-8540-FD005DCFFF07",
+      "faoCode": "LBE",
+      "scientificName": "Homarus gammarus",
+      "commonNames": [
+        {
+          "id": "81fa5e4d-eb7b-553c-b13b-6d8de6ad3d5f",
+          "countryCode": "GBR",
+          "name": "European lobster"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "5000605C-6A57-455B-B500-F3A0A8FD0E71",
+      "faoCode": "LDB",
+      "scientificName": "Lepidorhombus boscii",
+      "commonNames": [
+        {
+          "id": "0703628c-d6f9-53d4-b3b9-a6e269a50a28",
+          "countryCode": "GBR",
+          "name": "Four-spot megrim"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "929A37B4-F89E-44CD-8AF7-0509C34C6354",
+      "faoCode": "LEM",
+      "scientificName": "Microstomus kitt",
+      "commonNames": [
+        {
+          "id": "f5fd6f96-d8a7-5f9f-acf0-ff5ff19814a6",
+          "countryCode": "GBR",
+          "name": "Lemon sole"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "E4EEBD56-D310-4BB9-B3DD-1579F9E10E5F",
+      "faoCode": "LEZ",
+      "scientificName": "Lepidorhombus spp",
+      "commonNames": [
+        {
+          "id": "76ca3572-d6d2-55ef-a2a9-9ef8c5eb5682",
+          "countryCode": "GBR",
+          "name": "Megrims nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "686831A8-5537-4CE0-9A35-2F4CBE0F1780",
+      "faoCode": "LIN",
+      "scientificName": "Molva molva",
+      "commonNames": [
+        {
+          "id": "44c57ef8-3e78-5bf0-8d74-c53f1dc5eea4",
+          "countryCode": "GBR",
+          "name": "Ling"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "19781AE0-71BF-44BB-B6AD-D2AAC41DFF1E",
+      "faoCode": "LIO",
+      "scientificName": "Necora puber",
+      "commonNames": [
+        {
+          "id": "04687e8b-b81a-5618-a39f-5fbc48c2838d",
+          "countryCode": "GBR",
+          "name": "Velvet swimcrab"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "86843F87-B045-49E4-B14A-4E8011281E65",
+      "faoCode": "LOQ",
+      "scientificName": "Galatheidae",
+      "commonNames": [
+        {
+          "id": "d3f0600b-dc6f-5d52-a3b4-4c2db04f17fb",
+          "countryCode": "GBR",
+          "name": "Craylets, squat lobsters nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "FC9E0D40-C7C5-4D1A-8242-35263B364A69",
+      "faoCode": "LUM",
+      "scientificName": "Cyclopterus lumpus",
+      "commonNames": [
+        {
+          "id": "dd6db9fc-9e47-5cab-9ca2-c17cdcb10f87",
+          "countryCode": "GBR",
+          "name": "Lumpfish(=Lumpsucker)"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "F165DF49-540F-4560-B4A4-231042652F45",
+      "faoCode": "LXX",
+      "scientificName": "Myctophidae",
+      "commonNames": [
+        {
+          "id": "ee95271c-774b-5c16-9911-827ac4118390",
+          "countryCode": "GBR",
+          "name": "Lanternfishes nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "6F0178D9-7783-4053-9247-2F9339ED3B47",
+      "faoCode": "LYY",
+      "scientificName": "Callionymus lyra",
+      "commonNames": [
+        {
+          "id": "03a1a81d-dd5b-59a1-8ff4-210967d3a378",
+          "countryCode": "GBR",
+          "name": "Dragonet"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "6129F854-9D23-433D-B0E5-8C29B50B175B",
+      "faoCode": "MAC",
+      "scientificName": "Scomber scombrus",
+      "commonNames": [
+        {
+          "id": "9d7ed06c-b7e8-500f-9a51-0d29f5ce22b4",
+          "countryCode": "GBR",
+          "name": "Atlantic mackerel"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "CA3D9C19-F40A-42D2-8F70-B9AC0D7E627D",
+      "faoCode": "MAK",
+      "scientificName": "Isurus spp",
+      "commonNames": [
+        {
+          "id": "6689e554-f224-5788-bb26-6e3b019d4d19",
+          "countryCode": "GBR",
+          "name": "Mako sharks"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "AA233D41-D63E-4577-949E-1579FE0F21B7",
+      "faoCode": "MAS",
+      "scientificName": "Scomber japonicus",
+      "commonNames": [
+        {
+          "id": "b299f099-e2b4-5638-8c81-972e5f72e473",
+          "countryCode": "GBR",
+          "name": "Pacific chub mackerel"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "09CADD10-974E-453D-9904-2D3529A0F783",
+      "faoCode": "MEG",
+      "scientificName": "Lepidorhombus whiffiagonis",
+      "commonNames": [
+        {
+          "id": "42f50e95-7174-5b35-9037-f932e76c0c74",
+          "countryCode": "GBR",
+          "name": "Megrim"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "CEB19834-65D2-4ABF-93EF-BB983BDBA2F2",
+      "faoCode": "MGR",
+      "scientificName": "Argyrosomus regius",
+      "commonNames": [
+        {
+          "id": "82ce81c0-0ca3-57bb-bb70-3a0900c45d60",
+          "countryCode": "GBR",
+          "name": "Meagre"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "B01E1F21-2A85-44DF-8916-E0BBE4FAEB67",
+      "faoCode": "MKG",
+      "scientificName": "Microchirus variegatus",
+      "commonNames": [
+        {
+          "id": "545d93bb-ee47-5577-9f92-e3683530f36a",
+          "countryCode": "GBR",
+          "name": "Thickback sole"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "D7372C9F-3298-4FFD-A7A6-723EDEAC0804",
+      "faoCode": "MNZ",
+      "scientificName": "Lophius spp",
+      "commonNames": [
+        {
+          "id": "c2c99703-797c-580c-9c0a-6fbe19b76943",
+          "countryCode": "GBR",
+          "name": "Monkfishes nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "53B42713-C1FB-482A-9310-F14884241178",
+      "faoCode": "MON",
+      "scientificName": "Lophius piscatorius",
+      "commonNames": [
+        {
+          "id": "9066cedf-5795-5c76-b9e3-5e8825057560",
+          "countryCode": "GBR",
+          "name": "Angler(=Monk)"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "AC787BFD-C110-4ABA-ABC3-3FD329C67A7B",
+      "faoCode": "MOP",
+      "scientificName": "Mola spp",
+      "commonNames": [
+        {
+          "id": "8548bb76-e6f6-52b5-ad7f-96f7d52d7ead",
+          "countryCode": "GBR",
+          "name": "Sunfish"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "3F3C0AE5-7D5D-425C-9B18-EC327FE482B7",
+      "faoCode": "MUL",
+      "scientificName": "Mugilidae",
+      "commonNames": [
+        {
+          "id": "c24913ee-b49a-5f39-a07f-f8567c219a28",
+          "countryCode": "GBR",
+          "name": "Mullets nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "84822C1E-D6D2-4E0C-88F6-623774A8A365",
+      "faoCode": "MUR",
+      "scientificName": "Mullus surmuletus",
+      "commonNames": [
+        {
+          "id": "098de09c-400b-5608-bf9f-19c0eebe37c4",
+          "countryCode": "GBR",
+          "name": "Surmullet"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "6709041A-A6DF-4BB2-B8E1-57960A9FA336",
+      "faoCode": "MUS",
+      "scientificName": "Mytilus edulis",
+      "commonNames": [
+        {
+          "id": "73981afd-06dc-5912-b953-605d49971eaa",
+          "countryCode": "GBR",
+          "name": "Blue mussel"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "57C20A3B-25BF-4F25-82F4-88A50D1AC22D",
+      "faoCode": "MUT",
+      "scientificName": "Mullus barbatus",
+      "commonNames": [
+        {
+          "id": "9fc75f9a-887a-5183-af37-db3ab0d3c5b4",
+          "countryCode": "GBR",
+          "name": "Red mullet"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "40CDDA85-684C-4DEC-B57F-3F92B52DA0EE",
+      "faoCode": "MZZ",
+      "scientificName": "Osteichthyes",
+      "commonNames": [
+        {
+          "id": "a4540ac7-918d-5cd2-b02a-93b0969d75cd",
+          "countryCode": "GBR",
+          "name": "Marine fishes nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "91D3E2B7-1894-4A7D-B605-E49E9549268E",
+      "faoCode": "NEP",
+      "scientificName": "Nephrops norvegicus",
+      "commonNames": [
+        {
+          "id": "00b76b9b-3705-5889-8f49-452cb3363d3b",
+          "countryCode": "GBR",
+          "name": "Norway lobster"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "A8ECECC3-32DD-4081-AA43-C3A2CF484602",
+      "faoCode": "NOP",
+      "scientificName": "Trisopterus esmarkii",
+      "commonNames": [
+        {
+          "id": "7b757777-b0ed-5740-ac9c-0e9bdca5e524",
+          "countryCode": "GBR",
+          "name": "Norway pout"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "5B82796B-7B80-400A-BD5F-CE33062D81E7",
+      "faoCode": "OCC",
+      "scientificName": "Octopus vulgaris",
+      "commonNames": [
+        {
+          "id": "2e27461f-fa7e-5419-aa25-fa0b0597218a",
+          "countryCode": "GBR",
+          "name": "Common octopus"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "20117D62-0A7F-400D-9390-32816D4C42C6",
+      "faoCode": "OCM",
+      "scientificName": "Eledone spp",
+      "commonNames": [
+        {
+          "id": "8b4ff353-30ac-5432-96a4-da5f7356a351",
+          "countryCode": "GBR",
+          "name": "Horned and musky octopuses"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "9EA22D34-1216-45F0-92CD-088F6E469CCE",
+      "faoCode": "OCT",
+      "scientificName": "Octopodidae",
+      "commonNames": [
+        {
+          "id": "eef9d82f-71a9-52b2-962f-5ef1e02d3dab",
+          "countryCode": "GBR",
+          "name": "Octopuses, etc. nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "33F8D029-D6E0-4276-80A4-F0A3F64BB3B2",
+      "faoCode": "OCZ",
+      "scientificName": "Octopus spp",
+      "commonNames": [
+        {
+          "id": "f9a365bb-a95c-5bdc-b9a6-a4a694c1ad6d",
+          "countryCode": "GBR",
+          "name": "Octopuses nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "D41588A0-647B-4E3E-83C6-6CF7FF16239D",
+      "faoCode": "ORY",
+      "scientificName": "Hoplostethus atlanticus",
+      "commonNames": [
+        {
+          "id": "2881eaa0-b557-5a14-9d8a-9237707ea47a",
+          "countryCode": "GBR",
+          "name": "Orange roughy"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "50C34B98-F900-4DB3-B12E-ED48D74B3BA3",
+      "faoCode": "OXN",
+      "scientificName": "Oxynotus paradoxus",
+      "commonNames": [
+        {
+          "id": "2c078906-03b5-5651-ac88-dcc1ec0b9a11",
+          "countryCode": "GBR",
+          "name": "Sailfin roughshark"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "CCE037A1-2057-478D-B509-CCC3B4F6476E",
+      "faoCode": "OYF",
+      "scientificName": "Ostrea edulis",
+      "commonNames": [
+        {
+          "id": "11191bed-d965-5adf-9442-ac1878fbf32a",
+          "countryCode": "GBR",
+          "name": "European flat oyster"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "FFA13678-8259-4A65-9A72-21720B5674C3",
+      "faoCode": "OYG",
+      "scientificName": "Crassostrea gigas",
+      "commonNames": [
+        {
+          "id": "4b6e4e96-d5bc-5f45-a4b0-90314edd76fe",
+          "countryCode": "GBR",
+          "name": "Pacific cupped oyster"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "686FC8FB-E134-4EA4-9570-032DD41C120D",
+      "faoCode": "PAN",
+      "scientificName": "Pandalus spp",
+      "commonNames": [
+        {
+          "id": "02ca06fb-830a-55b7-a256-e726ed5e43a6",
+          "countryCode": "GBR",
+          "name": "Pandalus shrimps nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "505E61E5-4C0B-4CD8-B835-8E52141E8399",
+      "faoCode": "PER",
+      "scientificName": "Littorina spp",
+      "commonNames": [
+        {
+          "id": "c3674953-803b-518f-a98e-4d47a075ab8a",
+          "countryCode": "GBR",
+          "name": "Periwinkles nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "43E5C8F1-3CB3-417E-ACAE-5427A078453E",
+      "faoCode": "PIL",
+      "scientificName": "Sardina pilchardus",
+      "commonNames": [
+        {
+          "id": "f96b18d1-7447-5048-855e-90cb605ea7ae",
+          "countryCode": "GBR",
+          "name": "European pilchard(=Sardine)"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "9505528A-82DC-4D71-BD4F-B25DE955A22E",
+      "faoCode": "PLE",
+      "scientificName": "Pleuronectes platessa",
+      "commonNames": [
+        {
+          "id": "f1ac810d-4dc6-5944-8b88-6464d31c27d8",
+          "countryCode": "GBR",
+          "name": "European plaice"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "C769CF1C-4C06-47BB-9B5B-1AAEA88F0AD6",
+      "faoCode": "POA",
+      "scientificName": "Brama brama",
+      "commonNames": [
+        {
+          "id": "d673424e-88df-55b2-98cf-f2e0c354b375",
+          "countryCode": "GBR",
+          "name": "Atlantic pomfret"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "D1E277F6-F809-4CAB-8177-961E7709A17A",
+      "faoCode": "POK",
+      "scientificName": "Pollachius virens",
+      "commonNames": [
+        {
+          "id": "52c3642c-3b6d-531b-b9e0-189a57d62634",
+          "countryCode": "GBR",
+          "name": "Saithe(=Pollock)"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "19C9BBD3-C714-4343-A5DC-84A66DB24456",
+      "faoCode": "POL",
+      "scientificName": "Pollachius pollachius",
+      "commonNames": [
+        {
+          "id": "a1bf071b-c488-5b4e-a74e-de9f0094214f",
+          "countryCode": "GBR",
+          "name": "Pollack"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "80E2EAAA-6BEA-45FD-8358-AB8CE04DC1EA",
+      "faoCode": "POR",
+      "scientificName": "Lamna nasus",
+      "commonNames": [
+        {
+          "id": "18d73379-08dd-5196-946c-808bafbda8b2",
+          "countryCode": "GBR",
+          "name": "Porbeagle"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "FB53DC31-03F7-4FBA-90DE-041109758384",
+      "faoCode": "POX",
+      "scientificName": "Trachinotus spp",
+      "commonNames": [
+        {
+          "id": "62fd73e5-4102-5297-8635-9bac4b84ea56",
+          "countryCode": "GBR",
+          "name": "Pompanos nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "850870FD-FA7E-442E-BF37-788190EA46E8",
+      "faoCode": "PRA",
+      "scientificName": "Pandalus borealis",
+      "commonNames": [
+        {
+          "id": "edb6ce7b-ea0e-580b-862c-9487d2634d58",
+          "countryCode": "GBR",
+          "name": "Northern prawn"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "5E9E48CF-7BCE-4653-ABA9-9F54591CC814",
+      "faoCode": "QSC",
+      "scientificName": "Aequipecten opercularis",
+      "commonNames": [
+        {
+          "id": "84ac2d6c-3563-5cc9-9009-b0738509d29a",
+          "countryCode": "GBR",
+          "name": "Queen scallop"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "1389FEE7-2086-49E1-8E10-F3C18AA54AF0",
+      "faoCode": "RAZ",
+      "scientificName": "Solen spp",
+      "commonNames": [
+        {
+          "id": "a6d77de9-63e5-59cc-9779-e0f5d39bda08",
+          "countryCode": "GBR",
+          "name": "Solen razor clams nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "4EC57B31-486C-43E6-A691-B90473E91BE6",
+      "faoCode": "REB",
+      "scientificName": "Sebastes mentella",
+      "commonNames": [
+        {
+          "id": "e5f3064c-45e7-5bef-a7b7-71e9ad64eac3",
+          "countryCode": "GBR",
+          "name": "Beaked redfish"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "E6752B4D-01EB-421D-8B16-87E39158E45A",
+      "faoCode": "RED",
+      "scientificName": "Sebastes spp",
+      "commonNames": [
+        {
+          "id": "cc556dd4-c935-580c-bd37-d59e209897a5",
+          "countryCode": "GBR",
+          "name": "Atlantic redfishes nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "0CADB00C-DF3E-4CE7-9723-0298400F724B",
+      "faoCode": "RHG",
+      "scientificName": "Macrourus berglax",
+      "commonNames": [
+        {
+          "id": "4c10ab7b-07c1-530b-bc31-33cd5fe26c83",
+          "countryCode": "GBR",
+          "name": "Roughhead grenadier"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "C97ABC93-358C-4275-B151-510A4C4071BD",
+      "faoCode": "RJA",
+      "scientificName": "Raja alba",
+      "commonNames": [
+        {
+          "id": "9b992d8d-e5a7-5869-9b60-2b1d3e03f30e",
+          "countryCode": "GBR",
+          "name": "White skate"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "26C81C5D-3EF2-40B9-A897-B6733E8B10A4",
+      "faoCode": "RJB",
+      "scientificName": "Raja batis",
+      "commonNames": [
+        {
+          "id": "727b1703-38f7-5160-8bff-98986b050905",
+          "countryCode": "GBR",
+          "name": "Blue skate"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "E78A68C2-2FCA-4478-BA6B-D5EEFADEBD39",
+      "faoCode": "RJC",
+      "scientificName": "Raja clavata",
+      "commonNames": [
+        {
+          "id": "b672215c-98af-5197-b96c-4b944bbc92a8",
+          "countryCode": "GBR",
+          "name": "Thornback ray"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "EF17B8AD-B076-495B-AACC-AD95FC9CAEA2",
+      "faoCode": "RJE",
+      "scientificName": "Raja microocellata",
+      "commonNames": [
+        {
+          "id": "2cf9cd45-acb1-5476-b7dd-784dcfda46f5",
+          "countryCode": "GBR",
+          "name": "Small-eyed ray"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "83263F06-464F-4197-9A38-467E706D15D0",
+      "faoCode": "RJF",
+      "scientificName": "Raja fullonica",
+      "commonNames": [
+        {
+          "id": "5768d9ac-abd2-5d74-974e-acaf9f974185",
+          "countryCode": "GBR",
+          "name": "Shagreen ray"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "FD100936-328B-44D8-A362-ED77E66BDD0E",
+      "faoCode": "RJG",
+      "scientificName": "Raja hyperborea",
+      "commonNames": [
+        {
+          "id": "07d4fc37-1932-5dbb-aea1-e939b49a3325",
+          "countryCode": "GBR",
+          "name": "Arctic skate"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "44F80F1A-8133-473A-85B4-0149B6FEC889",
+      "faoCode": "RJH",
+      "scientificName": "Raja brachyura",
+      "commonNames": [
+        {
+          "id": "916676fc-5d39-55e5-acdd-094836432b7f",
+          "countryCode": "GBR",
+          "name": "Blonde ray"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "9EFF79C2-8A72-4D1A-BF68-181A1AFEC6F6",
+      "faoCode": "RJI",
+      "scientificName": "Raja circularis",
+      "commonNames": [
+        {
+          "id": "fc52da1a-6224-5d38-aeae-466d7a06168b",
+          "countryCode": "GBR",
+          "name": "Sandy ray"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "5B017ECE-644F-42DB-985F-34F49CCB02F9",
+      "faoCode": "RJM",
+      "scientificName": "Raja montagui",
+      "commonNames": [
+        {
+          "id": "1a0ee00d-6682-5ccf-ae96-ec70682725a4",
+          "countryCode": "GBR",
+          "name": "Spotted ray"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "9F32FF2F-8665-474A-8492-95EA4A453FFD",
+      "faoCode": "RJN",
+      "scientificName": "Raja naevus",
+      "commonNames": [
+        {
+          "id": "87250cff-a7bf-527c-bf5a-a2a9d7362062",
+          "countryCode": "GBR",
+          "name": "Cuckoo ray"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "4F7AB471-B33E-4DDE-A478-73A6A887CB8A",
+      "faoCode": "RJO",
+      "scientificName": "Raja oxyrinchus",
+      "commonNames": [
+        {
+          "id": "f2684eea-049c-5dc4-a30e-1833a1385d61",
+          "countryCode": "GBR",
+          "name": "Longnosed skate"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "45CCD809-E248-4D70-9E95-735CCF722083",
+      "faoCode": "RJR",
+      "scientificName": "Raja radiata",
+      "commonNames": [
+        {
+          "id": "c6fd04e2-ddcf-534c-96f9-981911eb587f",
+          "countryCode": "GBR",
+          "name": "Starry ray"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "0F4FFDB7-8CBC-4EB4-B6BC-2027FC69A8AE",
+      "faoCode": "RJU",
+      "scientificName": "Raja undulata",
+      "commonNames": [
+        {
+          "id": "53066a10-c7f9-505d-94e1-3118c8a4984a",
+          "countryCode": "GBR",
+          "name": "Undulate ray"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "0BF97260-9328-4989-9BC8-B678EC55FCFD",
+      "faoCode": "RJY",
+      "scientificName": "Raja fyllae",
+      "commonNames": [
+        {
+          "id": "b8525abd-ae71-583f-a048-60eb70ae8bee",
+          "countryCode": "GBR",
+          "name": "Round ray"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "12BA1766-D9D1-433F-91C9-DCC76A87C23B",
+      "faoCode": "RNG",
+      "scientificName": "Coryphaenoides rupestris",
+      "commonNames": [
+        {
+          "id": "aca08988-99da-5490-b848-117f7f9514d4",
+          "countryCode": "GBR",
+          "name": "Roundnose grenadier"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "B71AC9D1-8DD7-459E-B9DD-7661BF1B8F3A",
+      "faoCode": "ROL",
+      "scientificName": "Gaidropsarus spp",
+      "commonNames": [
+        {
+          "id": "5de5faff-07b4-5cb2-9146-402e0db81d36",
+          "countryCode": "GBR",
+          "name": "Rocklings nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "06AE9C84-2AF8-4611-B11B-75157300E234",
+      "faoCode": "RSE",
+      "scientificName": "Scorpaena scrofa",
+      "commonNames": [
+        {
+          "id": "c69cc9e1-ca91-5942-b6e9-8758551dc2be",
+          "countryCode": "GBR",
+          "name": "Red scorpionfish"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "D2ABC1C1-F833-4AC0-8696-84FC9D390C33",
+      "faoCode": "SAL",
+      "scientificName": "Salmo salar",
+      "commonNames": [
+        {
+          "id": "b6f4b748-2214-53dc-9c9c-02e2ff919bfa",
+          "countryCode": "GBR",
+          "name": "Atlantic salmon"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "95096A35-5660-4DE3-AF05-0065A53393E0",
+      "faoCode": "SAN",
+      "scientificName": "Ammodytes spp",
+      "commonNames": [
+        {
+          "id": "73e70c3e-2a03-5e2b-ab9d-efc5dc4519ef",
+          "countryCode": "GBR",
+          "name": "Sandeels(=Sandlances) nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "DBFF4FF1-BCA5-47DD-B244-46B674395182",
+      "faoCode": "SBA",
+      "scientificName": "Pagellus acarne",
+      "commonNames": [
+        {
+          "id": "4a2347d9-4653-5e6b-a67d-6141aa94a707",
+          "countryCode": "GBR",
+          "name": "Axillary seabream"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "C050FFFB-DCFC-44F2-9C01-7DAC3F59477D",
+      "faoCode": "SBG",
+      "scientificName": "Sparus aurata",
+      "commonNames": [
+        {
+          "id": "a9c6fb6f-eab5-5104-a1e4-e4ac54bd22a9",
+          "countryCode": "GBR",
+          "name": "Gilthead seabream"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "E2B41D4C-FB57-448C-8C19-613D91DE9AC3",
+      "faoCode": "SBL",
+      "scientificName": "Hexanchus griseus",
+      "commonNames": [
+        {
+          "id": "90f523c7-dd5e-5224-a693-de66ccf806eb",
+          "countryCode": "GBR",
+          "name": "Bluntnose sixgill shark"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "37E9916C-0290-4B91-ACE3-DB7161FD87CD",
+      "faoCode": "SBR",
+      "scientificName": "Pagellus bogaraveo",
+      "commonNames": [
+        {
+          "id": "b102e73d-c3d0-57f6-a5f0-8c555531fa84",
+          "countryCode": "GBR",
+          "name": "Blackspot(=red) seabream"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "43BF0938-F182-4169-97D0-C0B1C7916919",
+      "faoCode": "SBX",
+      "scientificName": "Sparidae",
+      "commonNames": [
+        {
+          "id": "6090e00a-7f48-5d35-8d0c-2461f7d501a5",
+          "countryCode": "GBR",
+          "name": "Porgies, seabreams nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "482C6404-7E1B-4458-AA73-1780EEEBB146",
+      "faoCode": "SBZ",
+      "scientificName": "Diplodus cervinus",
+      "commonNames": [
+        {
+          "id": "41f9c8c4-2c59-571d-aeb5-53c52495f407",
+          "countryCode": "GBR",
+          "name": "Zebra seabream"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "BF850AC5-49E4-4E67-BC0B-F76BC527CDB8",
+      "faoCode": "SCE",
+      "scientificName": "Pecten maximus",
+      "commonNames": [
+        {
+          "id": "a809cd0f-2df5-5e1f-97ae-71f43081a870",
+          "countryCode": "GBR",
+          "name": "Great Atlantic scallop"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "EF0D3539-9C1B-4837-A606-58DCDAC15019",
+      "faoCode": "SCK",
+      "scientificName": "Dalatias licha",
+      "commonNames": [
+        {
+          "id": "ea0e5e3c-c37d-5f87-8f89-929801df1189",
+          "countryCode": "GBR",
+          "name": "Kitefin shark"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "F925F03E-409E-4C1A-A206-FB35AA4C6319",
+      "faoCode": "SCL",
+      "scientificName": "Scyliorhinus spp",
+      "commonNames": [
+        {
+          "id": "8120e6c5-9f1d-5070-a903-c0926ba433d0",
+          "countryCode": "GBR",
+          "name": "Catsharks, nursehounds nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "8E6DD049-3F99-4EDD-9D22-FE3D4780F600",
+      "faoCode": "SCR",
+      "scientificName": "Maja squinado",
+      "commonNames": [
+        {
+          "id": "5ba56cef-daa1-5241-95ed-fd66b338a106",
+          "countryCode": "GBR",
+          "name": "Spinous spider crab"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "46D8E712-FCCC-4CA8-91F1-1BEDAF7F2D50",
+      "faoCode": "SDS",
+      "scientificName": "Mustelus asterias",
+      "commonNames": [
+        {
+          "id": "d87e353f-e06e-59ad-b0b4-f9d2a1b0c567",
+          "countryCode": "GBR",
+          "name": "Starry smooth-hound"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "ECA571EC-B5D0-4A30-93C3-DF9EAB5FA51C",
+      "faoCode": "SHD",
+      "scientificName": "Alosa alosa, A. fallax",
+      "commonNames": [
+        {
+          "id": "000ab65b-3c9b-55c2-baca-0a88b4d913b6",
+          "countryCode": "GBR",
+          "name": "Allis and twaite shads"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "4731C352-FF98-402E-8BEF-815C62F91262",
+      "faoCode": "SHO",
+      "scientificName": "Galeus melastomus",
+      "commonNames": [
+        {
+          "id": "7d428394-35ae-5642-97a1-7fe57428387a",
+          "countryCode": "GBR",
+          "name": "Blackmouth catshark"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "5869AE6C-0684-4C83-A083-032FB99D2980",
+      "faoCode": "SLO",
+      "scientificName": "Palinurus elephas",
+      "commonNames": [
+        {
+          "id": "d86711d3-bfce-5532-ad18-7af8e1e4180c",
+          "countryCode": "GBR",
+          "name": "Common spiny lobster"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "C5048867-0B3F-4B96-8D36-46FD13C5B51F",
+      "faoCode": "SMD",
+      "scientificName": "Mustelus mustelus",
+      "commonNames": [
+        {
+          "id": "b3ba3f9e-1b40-5de5-a534-9dd928612e88",
+          "countryCode": "GBR",
+          "name": "Smooth-hound"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "855ADD40-1DA1-46DD-94B7-B1F76A082668",
+      "faoCode": "SME",
+      "scientificName": "Osmerus eperlanus",
+      "commonNames": [
+        {
+          "id": "28532690-9290-5a8d-a7e7-2f9e57e3f6f2",
+          "countryCode": "GBR",
+          "name": "European smelt"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "B25709FF-778A-44E8-BD60-F14F4C0EBE2A",
+      "faoCode": "SOL",
+      "scientificName": "Solea solea",
+      "commonNames": [
+        {
+          "id": "a4da1614-cf4d-5297-9ac5-236d4ae4c10c",
+          "countryCode": "GBR",
+          "name": "Common sole"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "B5A121A6-3856-43A8-992A-D0A48A00C5D4",
+      "faoCode": "SOS",
+      "scientificName": "Solea lascaris",
+      "commonNames": [
+        {
+          "id": "81328837-660d-5e9e-a3d2-a59e9346b6d6",
+          "countryCode": "GBR",
+          "name": "Sand sole"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "4310C0E9-1B74-4FB5-8C40-85058C421AB2",
+      "faoCode": "SOX",
+      "scientificName": "Soleidae",
+      "commonNames": [
+        {
+          "id": "0408fc6f-efaa-51d1-90cc-99ab8ae7fc7a",
+          "countryCode": "GBR",
+          "name": "Soles nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "16B0A18F-895B-414A-B34B-D70B19A91704",
+      "faoCode": "SPR",
+      "scientificName": "Sprattus sprattus",
+      "commonNames": [
+        {
+          "id": "c14069d4-0bbc-5f41-b8c2-dc174fad3c37",
+          "countryCode": "GBR",
+          "name": "European sprat"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "1B27A51D-63F6-47C0-AF59-6211A62EC08A",
+      "faoCode": "SQC",
+      "scientificName": "Loligo spp",
+      "commonNames": [
+        {
+          "id": "967cd29a-4d34-5bae-88bf-8f952e9e811d",
+          "countryCode": "GBR",
+          "name": "Common squids nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "DF3A0DEE-4299-4760-8281-007AF7E49901",
+      "faoCode": "SQE",
+      "scientificName": "Todarodes sagittatus",
+      "commonNames": [
+        {
+          "id": "e228493a-b60f-5723-97d9-a61825665b6e",
+          "countryCode": "GBR",
+          "name": "European flying squid"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "AF009FD1-BA89-435C-9035-91C6B6CED6C3",
+      "faoCode": "SQI",
+      "scientificName": "Illex illecebrosus",
+      "commonNames": [
+        {
+          "id": "f95e3cdd-ac95-50cc-8568-0282cb929488",
+          "countryCode": "GBR",
+          "name": "Northern shortfin squid"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "948E407D-576F-4E56-9A61-EA0A21C57977",
+      "faoCode": "SQR",
+      "scientificName": "Loligo vulgaris",
+      "commonNames": [
+        {
+          "id": "99313829-20d5-5c40-9435-5986fa0c8027",
+          "countryCode": "GBR",
+          "name": "European squid"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "25655C3B-15B7-460B-9952-C94B64E5C58D",
+      "faoCode": "SQU",
+      "scientificName": "Loliginidae, Ommastrephidae",
+      "commonNames": [
+        {
+          "id": "281797fa-db5e-5d48-9436-153297224056",
+          "countryCode": "GBR",
+          "name": "Various squids nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "B7DB85CC-95FA-4061-9672-23CA76DEC4B5",
+      "faoCode": "SQZ",
+      "scientificName": "Loliginidae",
+      "commonNames": [
+        {
+          "id": "67fe27db-24fb-50b1-a1a5-b72ed0611f7a",
+          "countryCode": "GBR",
+          "name": "Inshore squids nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "D073B2E0-FACB-496D-A926-911D63513800",
+      "faoCode": "SRX",
+      "scientificName": "Rajiformes",
+      "commonNames": [
+        {
+          "id": "934cb809-bcd4-5a34-8fae-6e010d49ed43",
+          "countryCode": "GBR",
+          "name": "Rays, stingrays, mantas nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "D77A4449-A1D5-4503-AF11-F40FB652B95D",
+      "faoCode": "STF",
+      "scientificName": "Asteroidea",
+      "commonNames": [
+        {
+          "id": "80a9c2fd-ee12-5f68-a0e4-78b8ab4e49ff",
+          "countryCode": "GBR",
+          "name": "Starfishes nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "416A8BFB-26F1-406A-95FC-4BB2E6CFCB99",
+      "faoCode": "STU",
+      "scientificName": "Acipenseridae",
+      "commonNames": [
+        {
+          "id": "85e36515-8d3a-5092-80ad-ec4cf0aa430f",
+          "countryCode": "GBR",
+          "name": "Sturgeons nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "20A77156-2C13-44C2-8652-4B158A6FDC7C",
+      "faoCode": "SYC",
+      "scientificName": "Scyliorhinus canicula",
+      "commonNames": [
+        {
+          "id": "336cba92-b899-5776-81f3-b8f781862214",
+          "countryCode": "GBR",
+          "name": "Small-spotted catshark"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "68B165CD-6806-4A24-A482-5EFBA73D832D",
+      "faoCode": "SYR",
+      "scientificName": "Scymnodon ringens",
+      "commonNames": [
+        {
+          "id": "6f5b9bdb-c135-5e03-99fe-3bf538cfab22",
+          "countryCode": "GBR",
+          "name": "Knifetooth dogfish"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "0BA15C19-B06A-409C-9CD4-A0AA3D5926A2",
+      "faoCode": "SYT",
+      "scientificName": "Scyliorhinus stellaris",
+      "commonNames": [
+        {
+          "id": "a2d2647a-55e5-53bc-891b-35707a721528",
+          "countryCode": "GBR",
+          "name": "Nursehound"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "D8EB5475-2B3F-419E-8F69-E41923881108",
+      "faoCode": "SYX",
+      "scientificName": "Scyliorhinidae",
+      "commonNames": [
+        {
+          "id": "8c063281-d244-5217-a973-f3ba0114a1d7",
+          "countryCode": "GBR",
+          "name": "Catsharks, etc. nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "3ADD71A9-4812-471F-B938-77F39DF25489",
+      "faoCode": "TBR",
+      "scientificName": "Ctenolabrus rupestris",
+      "commonNames": [
+        {
+          "id": "adfa81c2-af1e-5b72-af6d-7784deca0a35",
+          "countryCode": "GBR",
+          "name": "Goldsinny-wrasse"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "68CC2E78-1846-4D77-A85A-ED12C879EC30",
+      "faoCode": "TJX",
+      "scientificName": "Trachyscorpia cristulata",
+      "commonNames": [
+        {
+          "id": "6204a496-9e2e-5e47-a7b5-cf5a4ec16061",
+          "countryCode": "GBR",
+          "name": "Atlantic thornyhead"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "8C0EF4AC-653B-4981-81AC-021F217822E1",
+      "faoCode": "TRI",
+      "scientificName": "Balistidae",
+      "commonNames": [
+        {
+          "id": "dbce4f73-ec7d-5abe-b28e-d216ac99c3db",
+          "countryCode": "GBR",
+          "name": "Triggerfishes, durgons nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "213D09C6-E652-47DF-8AF2-8F585FE8003E",
+      "faoCode": "TRS",
+      "scientificName": "Salmo trutta",
+      "commonNames": [
+        {
+          "id": "8c47fd0f-ff54-5116-bb1c-c151a293581f",
+          "countryCode": "GBR",
+          "name": "Sea trout"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "29547B3F-ABB8-475A-A217-5B47D7ADCF07",
+      "faoCode": "TTR",
+      "scientificName": "Torpedo marmorata",
+      "commonNames": [
+        {
+          "id": "58e07cdc-7bce-5661-b132-7c74e15b1b60",
+          "countryCode": "GBR",
+          "name": "Marbled electric ray"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "B9D1AC1C-9432-4BEA-890B-E497424E9B69",
+      "faoCode": "TUR",
+      "scientificName": "Psetta maxima",
+      "commonNames": [
+        {
+          "id": "4c1ed268-6560-530a-8536-ee0b0c79bab8",
+          "countryCode": "GBR",
+          "name": "Turbot"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "A0A5686D-0D91-4723-82DB-0ED4FBD2946D",
+      "faoCode": "URC",
+      "scientificName": "Strongylocentrotus spp",
+      "commonNames": [
+        {
+          "id": "6ed896da-7b1a-5479-a773-b84893bdf9b9",
+          "countryCode": "GBR",
+          "name": "Sea urchins nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "43EFF0E7-E9BA-4A91-A06D-A907C1A24033",
+      "faoCode": "USB",
+      "scientificName": "Labrus bergylta",
+      "commonNames": [
+        {
+          "id": "cc961d6d-b42b-5f9b-9137-56836a8493e3",
+          "countryCode": "GBR",
+          "name": "Ballan wrasse"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "4416C007-2286-496B-94D5-F97E30DB308B",
+      "faoCode": "USI",
+      "scientificName": "Labrus mixtus",
+      "commonNames": [
+        {
+          "id": "a119e35f-2036-5297-ae1a-de55cfaf46c6",
+          "countryCode": "GBR",
+          "name": "Cuckoo wrasse"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "0F8A0B64-5818-487E-BC68-CF25262F2565",
+      "faoCode": "USK",
+      "scientificName": "Brosme brosme",
+      "commonNames": [
+        {
+          "id": "29e84054-202e-52bb-918f-cbf2ff50989a",
+          "countryCode": "GBR",
+          "name": "Tusk(=Cusk)"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "456FB5C9-B494-450D-A65C-CB88066E3243",
+      "faoCode": "WEG",
+      "scientificName": "Trachinus draco",
+      "commonNames": [
+        {
+          "id": "06075263-7e66-5470-920e-21dd588f1e38",
+          "countryCode": "GBR",
+          "name": "Greater weever"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "E5C306E6-5CFB-4E06-ABF2-EE2DF6D2148F",
+      "faoCode": "WHB",
+      "scientificName": "Micromesistius poutassou",
+      "commonNames": [
+        {
+          "id": "f8cddab9-a6a1-54e5-8afb-4b9d7587d2b4",
+          "countryCode": "GBR",
+          "name": "Blue whiting(=Poutassou)"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "C6FFEA05-2F20-41E8-B7C7-A8D79A0E0228",
+      "faoCode": "WHE",
+      "scientificName": "Buccinum undatum",
+      "commonNames": [
+        {
+          "id": "1109ac6a-5444-5eb2-82f4-41effbf0e36e",
+          "countryCode": "GBR",
+          "name": "Whelk"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "BA5CCFD6-145C-4D9B-88EA-CA43A491C5E2",
+      "faoCode": "WHG",
+      "scientificName": "Merlangius merlangus",
+      "commonNames": [
+        {
+          "id": "36d278be-84ee-5560-a6ab-4ca865e96a3f",
+          "countryCode": "GBR",
+          "name": "Whiting"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "0F16686E-C49F-4BE9-BE98-BCB6ABD78A95",
+      "faoCode": "WIT",
+      "scientificName": "Glyptocephalus cynoglossus",
+      "commonNames": [
+        {
+          "id": "69003f66-8b0d-56a0-a97f-73aadc76ce2f",
+          "countryCode": "GBR",
+          "name": "Witch flounder"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "37D021E8-1B74-4315-A561-2770DDD74E99",
+      "faoCode": "WRA",
+      "scientificName": "Labridae",
+      "commonNames": [
+        {
+          "id": "1c36a0ca-84fa-5300-aa0a-bce529e0a120",
+          "countryCode": "GBR",
+          "name": "Wrasses, hogfishes, etc. nei"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "4F879DD1-A136-4FA1-B02F-6F2400B3493D",
+      "faoCode": "WRF",
+      "scientificName": "Polyprion americanus",
+      "commonNames": [
+        {
+          "id": "e195f67d-ecb6-57fa-a7e4-f4f10c0b25c0",
+          "countryCode": "GBR",
+          "name": "Wreckfish"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "FD87472F-CCE3-4F55-B698-6B64F87EC102",
+      "faoCode": "YEL",
+      "scientificName": "Limanda ferruginea",
+      "commonNames": [
+        {
+          "id": "f57dcac6-61dc-5fa9-ab92-b1e78c83db3e",
+          "countryCode": "GBR",
+          "name": "Yellowtail flounder"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "FF24D641-1A03-4B84-B105-355C09F0D545",
+      "faoCode": "YFM",
+      "scientificName": "Symphodus melops",
+      "commonNames": [
+        {
+          "id": "c2389428-aac0-5ea7-b4e4-37e5b26f52e8",
+          "countryCode": "GBR",
+          "name": "Corkwing wrasse"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "DB1320D8-416E-423C-946D-018EF6EC169D",
+      "faoCode": "YFT",
+      "scientificName": "Thunnus albacares",
+      "commonNames": [
+        {
+          "id": "1368dbd6-ac1b-5b35-bcc4-4542f3cd9fbf",
+          "countryCode": "GBR",
+          "name": "Yellowfin tuna"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "9CDB126D-5DFC-4801-852D-DADAD6C3D7AC",
+      "faoCode": "YTC",
+      "scientificName": "Seriola lalandi",
+      "commonNames": [
+        {
+          "id": "a834cedf-f9a5-5b1e-bbe4-ae5979544887",
+          "countryCode": "GBR",
+          "name": "Yellowtail amberjack"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    },
+    {
+      "id": "1812D922-664B-4065-A2F8-B5A8839AF885",
+      "faoCode": "ZGP",
+      "scientificName": "Zeugopterus punctatus",
+      "commonNames": [
+        {
+          "id": "388920ce-52f4-53c2-a361-ff0d6013fd2f",
+          "countryCode": "GBR",
+          "name": "Topknot"
+        }
+      ],
+      "localNames": [],
+      "active": true
+    }
+  ]
+}
