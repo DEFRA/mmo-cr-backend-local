@@ -1,0 +1,580 @@
+{
+  "dataset": "vessels",
+  "collectionId": "00000000-0000-4000-8000-000000000010",
+  "schemaVersion": "1.0",
+  "version": "mock-seed-30-vessels-1",
+  "generatedAt": "2026-09-28T15:20:15Z",
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "00000000-0000-4000-8000-000000000001",
+      "name": "ACHILLES",
+      "namePln": "ACHILLES PH101",
+      "identifiers": {
+        "cfr": "GBR0000001",
+        "uvi": null,
+        "mmsi": "232100001",
+        "ircs": null,
+        "externalMark": "PH101",
+        "registrationNumber": "PH101"
+      },
+      "typeCode": "FISHING",
+      "registrationCountryCode": "GBR",
+      "lengthOverallMetres": 8.74,
+      "status": "active",
+      "activeFrom": "2009-03-07",
+      "activeTo": null
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000002",
+      "name": "SEA SPRAY",
+      "namePln": "SEA SPRAY BM102",
+      "identifiers": {
+        "cfr": "GBR0000002",
+        "uvi": null,
+        "mmsi": "232100002",
+        "ircs": null,
+        "externalMark": "BM102",
+        "registrationNumber": "BM102"
+      },
+      "typeCode": "FISHING",
+      "registrationCountryCode": "GBR",
+      "lengthOverallMetres": 11.2,
+      "status": "active",
+      "activeFrom": "2010-06-14",
+      "activeTo": null
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000003",
+      "name": "NORTHERN STAR",
+      "namePln": "NORTHERN STAR LT103",
+      "identifiers": {
+        "cfr": "GBR0000003",
+        "uvi": null,
+        "mmsi": "232100003",
+        "ircs": null,
+        "externalMark": "LT103",
+        "registrationNumber": "LT103"
+      },
+      "typeCode": "FISHING",
+      "registrationCountryCode": "GBR",
+      "lengthOverallMetres": 14.5,
+      "status": "inactive",
+      "activeFrom": "2011-09-21",
+      "activeTo": "2023-12-31"
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000004",
+      "name": "OCEAN CREST",
+      "namePln": "OCEAN CREST PD104",
+      "identifiers": {
+        "cfr": "GBR0000004",
+        "uvi": null,
+        "mmsi": "232100004",
+        "ircs": null,
+        "externalMark": "PD104",
+        "registrationNumber": "PD104"
+      },
+      "typeCode": "FISHING",
+      "registrationCountryCode": "GBR",
+      "lengthOverallMetres": 7.9,
+      "status": "active",
+      "activeFrom": "2012-12-28",
+      "activeTo": null
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000005",
+      "name": "SILVER WAVE",
+      "namePln": "SILVER WAVE PL105",
+      "identifiers": {
+        "cfr": "GBR0000005",
+        "uvi": null,
+        "mmsi": "232100005",
+        "ircs": "M005X",
+        "externalMark": "PL105",
+        "registrationNumber": "PL105"
+      },
+      "typeCode": "FISHING",
+      "registrationCountryCode": "GBR",
+      "lengthOverallMetres": 9.65,
+      "status": "active",
+      "activeFrom": "2013-03-07",
+      "activeTo": null
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000006",
+      "name": "HARBOUR LIGHT",
+      "namePln": "HARBOUR LIGHT FY106",
+      "identifiers": {
+        "cfr": "GBR0000006",
+        "uvi": null,
+        "mmsi": "232100006",
+        "ircs": null,
+        "externalMark": "FY106",
+        "registrationNumber": "FY106"
+      },
+      "typeCode": "FISHING",
+      "registrationCountryCode": "GBR",
+      "lengthOverallMetres": 10.4,
+      "status": "active",
+      "activeFrom": "2014-06-14",
+      "activeTo": null
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000007",
+      "name": "ATLANTIC DAWN",
+      "namePln": "ATLANTIC DAWN AB107",
+      "identifiers": {
+        "cfr": "GBR0000007",
+        "uvi": "IMO9000007",
+        "mmsi": "232100007",
+        "ircs": null,
+        "externalMark": "AB107",
+        "registrationNumber": "AB107"
+      },
+      "typeCode": "FISHING",
+      "registrationCountryCode": "GBR",
+      "lengthOverallMetres": 11.85,
+      "status": "active",
+      "activeFrom": "2015-09-21",
+      "activeTo": null
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000008",
+      "name": "BLUE PETREL",
+      "namePln": "BLUE PETREL FR108",
+      "identifiers": {
+        "cfr": "GBR0000008",
+        "uvi": null,
+        "mmsi": "232100008",
+        "ircs": null,
+        "externalMark": "FR108",
+        "registrationNumber": "FR108"
+      },
+      "typeCode": "FISHING",
+      "registrationCountryCode": "GBR",
+      "lengthOverallMetres": 12.2,
+      "status": "active",
+      "activeFrom": "2016-12-28",
+      "activeTo": null
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000009",
+      "name": "CELTIC VOYAGER",
+      "namePln": "CELTIC VOYAGER KY109",
+      "identifiers": {
+        "cfr": "GBR0000009",
+        "uvi": null,
+        "mmsi": "232100009",
+        "ircs": null,
+        "externalMark": "KY109",
+        "registrationNumber": "KY109"
+      },
+      "typeCode": "FISHING",
+      "registrationCountryCode": "GBR",
+      "lengthOverallMetres": 15.75,
+      "status": "active",
+      "activeFrom": "2017-03-07",
+      "activeTo": null
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000010",
+      "name": "COASTAL STAR",
+      "namePln": "COASTAL STAR WK110",
+      "identifiers": {
+        "cfr": "GBR0000010",
+        "uvi": null,
+        "mmsi": "232100010",
+        "ircs": "M010X",
+        "externalMark": "WK110",
+        "registrationNumber": "WK110"
+      },
+      "typeCode": "FISHING",
+      "registrationCountryCode": "GBR",
+      "lengthOverallMetres": 6.8,
+      "status": "active",
+      "activeFrom": "2018-06-14",
+      "activeTo": null
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000011",
+      "name": "CORAL WIND",
+      "namePln": "CORAL WIND PH111",
+      "identifiers": {
+        "cfr": "GBR0000011",
+        "uvi": null,
+        "mmsi": "232100011",
+        "ircs": null,
+        "externalMark": "PH111",
+        "registrationNumber": "PH111"
+      },
+      "typeCode": "FISHING",
+      "registrationCountryCode": "GBR",
+      "lengthOverallMetres": 8.3,
+      "status": "active",
+      "activeFrom": "2019-09-21",
+      "activeTo": null
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000012",
+      "name": "DEEPWATER",
+      "namePln": "DEEPWATER BM112",
+      "identifiers": {
+        "cfr": "GBR0000012",
+        "uvi": null,
+        "mmsi": "232100012",
+        "ircs": null,
+        "externalMark": "BM112",
+        "registrationNumber": "BM112"
+      },
+      "typeCode": "FISHING",
+      "registrationCountryCode": "GBR",
+      "lengthOverallMetres": 9.95,
+      "status": "active",
+      "activeFrom": "2020-12-28",
+      "activeTo": null
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000013",
+      "name": "EMERALD BAY",
+      "namePln": "EMERALD BAY LT113",
+      "identifiers": {
+        "cfr": "GBR0000013",
+        "uvi": null,
+        "mmsi": "232100013",
+        "ircs": null,
+        "externalMark": "LT113",
+        "registrationNumber": "LT113"
+      },
+      "typeCode": "FISHING",
+      "registrationCountryCode": "GBR",
+      "lengthOverallMetres": 10.9,
+      "status": "active",
+      "activeFrom": "2021-03-07",
+      "activeTo": null
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000014",
+      "name": "FAR HORIZON",
+      "namePln": "FAR HORIZON PD114",
+      "identifiers": {
+        "cfr": "GBR0000014",
+        "uvi": "IMO9000014",
+        "mmsi": "232100014",
+        "ircs": null,
+        "externalMark": "PD114",
+        "registrationNumber": "PD114"
+      },
+      "typeCode": "FISHING",
+      "registrationCountryCode": "GBR",
+      "lengthOverallMetres": 11.6,
+      "status": "active",
+      "activeFrom": "2008-06-14",
+      "activeTo": null
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000015",
+      "name": "GOLDEN TIDE",
+      "namePln": "GOLDEN TIDE PL115",
+      "identifiers": {
+        "cfr": "GBR0000015",
+        "uvi": null,
+        "mmsi": "232100015",
+        "ircs": "M015X",
+        "externalMark": "PL115",
+        "registrationNumber": "PL115"
+      },
+      "typeCode": "FISHING",
+      "registrationCountryCode": "GBR",
+      "lengthOverallMetres": 13.4,
+      "status": "inactive",
+      "activeFrom": "2009-09-21",
+      "activeTo": "2023-12-31"
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000016",
+      "name": "ISLAND PRIDE",
+      "namePln": "ISLAND PRIDE FY116",
+      "identifiers": {
+        "cfr": "GBR0000016",
+        "uvi": null,
+        "mmsi": "232100016",
+        "ircs": null,
+        "externalMark": "FY116",
+        "registrationNumber": "FY116"
+      },
+      "typeCode": "FISHING",
+      "registrationCountryCode": "GBR",
+      "lengthOverallMetres": 16.2,
+      "status": "active",
+      "activeFrom": "2010-12-28",
+      "activeTo": null
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000017",
+      "name": "LIBERTY ROSE",
+      "namePln": "LIBERTY ROSE AB117",
+      "identifiers": {
+        "cfr": "GBR0000017",
+        "uvi": null,
+        "mmsi": "232100017",
+        "ircs": null,
+        "externalMark": "AB117",
+        "registrationNumber": "AB117"
+      },
+      "typeCode": "FISHING",
+      "registrationCountryCode": "GBR",
+      "lengthOverallMetres": 7.45,
+      "status": "active",
+      "activeFrom": "2011-03-07",
+      "activeTo": null
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000018",
+      "name": "MARINER",
+      "namePln": "MARINER FR118",
+      "identifiers": {
+        "cfr": "GBR0000018",
+        "uvi": null,
+        "mmsi": "232100018",
+        "ircs": null,
+        "externalMark": "FR118",
+        "registrationNumber": "FR118"
+      },
+      "typeCode": "FISHING",
+      "registrationCountryCode": "GBR",
+      "lengthOverallMetres": 8.95,
+      "status": "active",
+      "activeFrom": "2012-06-14",
+      "activeTo": null
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000019",
+      "name": "NORTH SEA BELLE",
+      "namePln": "NORTH SEA BELLE KY119",
+      "identifiers": {
+        "cfr": "GBR0000019",
+        "uvi": null,
+        "mmsi": "232100019",
+        "ircs": null,
+        "externalMark": "KY119",
+        "registrationNumber": "KY119"
+      },
+      "typeCode": "FISHING",
+      "registrationCountryCode": "GBR",
+      "lengthOverallMetres": 9.4,
+      "status": "active",
+      "activeFrom": "2013-09-21",
+      "activeTo": null
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000020",
+      "name": "OCEAN QUEST",
+      "namePln": "OCEAN QUEST WK120",
+      "identifiers": {
+        "cfr": "GBR0000020",
+        "uvi": null,
+        "mmsi": "232100020",
+        "ircs": "M020X",
+        "externalMark": "WK120",
+        "registrationNumber": "WK120"
+      },
+      "typeCode": "FISHING",
+      "registrationCountryCode": "GBR",
+      "lengthOverallMetres": 10.15,
+      "status": "active",
+      "activeFrom": "2014-12-28",
+      "activeTo": null
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000021",
+      "name": "PACIFIC GULL",
+      "namePln": "PACIFIC GULL PH121",
+      "identifiers": {
+        "cfr": "GBR0000021",
+        "uvi": "IMO9000021",
+        "mmsi": "232100021",
+        "ircs": null,
+        "externalMark": "PH121",
+        "registrationNumber": "PH121"
+      },
+      "typeCode": "FISHING",
+      "registrationCountryCode": "GBR",
+      "lengthOverallMetres": 11.35,
+      "status": "active",
+      "activeFrom": "2015-03-07",
+      "activeTo": null
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000022",
+      "name": "QUEENSFERRY",
+      "namePln": "QUEENSFERRY BM122",
+      "identifiers": {
+        "cfr": "GBR0000022",
+        "uvi": null,
+        "mmsi": "232100022",
+        "ircs": null,
+        "externalMark": "BM122",
+        "registrationNumber": "BM122"
+      },
+      "typeCode": "FISHING",
+      "registrationCountryCode": "GBR",
+      "lengthOverallMetres": 12.8,
+      "status": "active",
+      "activeFrom": "2016-06-14",
+      "activeTo": null
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000023",
+      "name": "ROYAL TERN",
+      "namePln": "ROYAL TERN LT123",
+      "identifiers": {
+        "cfr": "GBR0000023",
+        "uvi": null,
+        "mmsi": "232100023",
+        "ircs": null,
+        "externalMark": "LT123",
+        "registrationNumber": "LT123"
+      },
+      "typeCode": "FISHING",
+      "registrationCountryCode": "GBR",
+      "lengthOverallMetres": 14.1,
+      "status": "active",
+      "activeFrom": "2017-09-21",
+      "activeTo": null
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000024",
+      "name": "SEA FALCON",
+      "namePln": "SEA FALCON PD124",
+      "identifiers": {
+        "cfr": "GBR0000024",
+        "uvi": null,
+        "mmsi": "232100024",
+        "ircs": null,
+        "externalMark": "PD124",
+        "registrationNumber": "PD124"
+      },
+      "typeCode": "FISHING",
+      "registrationCountryCode": "GBR",
+      "lengthOverallMetres": 17.5,
+      "status": "active",
+      "activeFrom": "2018-12-28",
+      "activeTo": null
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000025",
+      "name": "SEA GEM",
+      "namePln": "SEA GEM PL125",
+      "identifiers": {
+        "cfr": "GBR0000025",
+        "uvi": null,
+        "mmsi": "232100025",
+        "ircs": "M025X",
+        "externalMark": "PL125",
+        "registrationNumber": "PL125"
+      },
+      "typeCode": "FISHING",
+      "registrationCountryCode": "GBR",
+      "lengthOverallMetres": 6.95,
+      "status": "active",
+      "activeFrom": "2019-03-07",
+      "activeTo": null
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000026",
+      "name": "SKY LARK",
+      "namePln": "SKY LARK FY126",
+      "identifiers": {
+        "cfr": "GBR0000026",
+        "uvi": null,
+        "mmsi": "232100026",
+        "ircs": null,
+        "externalMark": "FY126",
+        "registrationNumber": "FY126"
+      },
+      "typeCode": "FISHING",
+      "registrationCountryCode": "GBR",
+      "lengthOverallMetres": 8.55,
+      "status": "active",
+      "activeFrom": "2020-06-14",
+      "activeTo": null
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000027",
+      "name": "SOUTHERN CROSS",
+      "namePln": "SOUTHERN CROSS AB127",
+      "identifiers": {
+        "cfr": "GBR0000027",
+        "uvi": null,
+        "mmsi": "232100027",
+        "ircs": null,
+        "externalMark": "AB127",
+        "registrationNumber": "AB127"
+      },
+      "typeCode": "FISHING",
+      "registrationCountryCode": "GBR",
+      "lengthOverallMetres": 9.8,
+      "status": "inactive",
+      "activeFrom": "2021-09-21",
+      "activeTo": "2023-12-31"
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000028",
+      "name": "TIDAL SPIRIT",
+      "namePln": "TIDAL SPIRIT FR128",
+      "identifiers": {
+        "cfr": "GBR0000028",
+        "uvi": "IMO9000028",
+        "mmsi": "232100028",
+        "ircs": null,
+        "externalMark": "FR128",
+        "registrationNumber": "FR128"
+      },
+      "typeCode": "FISHING",
+      "registrationCountryCode": "GBR",
+      "lengthOverallMetres": 11.05,
+      "status": "active",
+      "activeFrom": "2008-12-28",
+      "activeTo": null
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000029",
+      "name": "WESTERN HOPE",
+      "namePln": "WESTERN HOPE KY129",
+      "identifiers": {
+        "cfr": "GBR0000029",
+        "uvi": null,
+        "mmsi": "232100029",
+        "ircs": null,
+        "externalMark": "KY129",
+        "registrationNumber": "KY129"
+      },
+      "typeCode": "FISHING",
+      "registrationCountryCode": "GBR",
+      "lengthOverallMetres": 13.9,
+      "status": "active",
+      "activeFrom": "2009-03-07",
+      "activeTo": null
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000030",
+      "name": "WHITE HORSE",
+      "namePln": "WHITE HORSE WK130",
+      "identifiers": {
+        "cfr": "GBR0000030",
+        "uvi": null,
+        "mmsi": "232100030",
+        "ircs": "M030X",
+        "externalMark": "WK130",
+        "registrationNumber": "WK130"
+      },
+      "typeCode": "FISHING",
+      "registrationCountryCode": "GBR",
+      "lengthOverallMetres": 18.25,
+      "status": "active",
+      "activeFrom": "2010-06-14",
+      "activeTo": null
+    }
+  ]
+}
