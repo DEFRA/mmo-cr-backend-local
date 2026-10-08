@@ -14,23 +14,28 @@
 include:
   - path: mmo-cr-authentication-service/compose.yml
   - path: mmo-cr-reference-data-service/compose.yml
+  - path: mmo-cr-catch-recording-service/compose.yml
 
 services:
-  # Both included files define a "floci" service (shared AWS emulator), so
-  # Compose merges them into one container. Their init script directories
-  # target the same container path, so only one would survive the merge -
-  # override it with the combined start.d directory (compose/floci/start.d)
-  # so both services' bootstrap scripts run.
+  # The reference-data and catch-recording services both define a "floci"
+  # service (shared AWS emulator), so Compose merges them into one container.
+  # Their init script directories target the same container path, so only
+  # one would survive the merge - override it with the combined start.d
+  # directory (compose/floci/start.d) so every service's bootstrap scripts run.
   floci:
     volumes: !override
       - ./compose/floci/start.d:/etc/floci/init/start.d:ro
       - floci-data:/app/data
 
-  # Both services default to host port 3001 inside their own compose.yml.
-  # Remap the reference-data service so both can run at the same time.
+  # All three services default to host port 3001 inside their own compose.yml.
+  # Remap them so they can all run at the same time.
   mmo-cr-reference-data-service:
     ports: !override
       - '3002:3001'
+
+  mmo-cr-catch-recording-service:
+    ports: !override
+      - '3003:3001'
 
   # The authentication service's own compose.yml declares no networks (it has
   # no local dependencies of its own), so it only joins Compose's implicit
