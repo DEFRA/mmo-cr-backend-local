@@ -1,12 +1,15 @@
 #!/bin/bash
  
-git submodule foreach '
-if [ -f ".env.sample" ]; then
-cp .env.sample .env
-echo "Copied $name/.env.sample -> $name/.env"
+for dir in mm-cr-*/; do
+[ -d "$dir" ] || continue
+ 
+if [ -f "${dir}.env.sample" ]; then
+cp "${dir}.env.sample" "${dir}.env"
+echo "Copied ${dir}.env.sample -> ${dir}.env"
 else
-touch .env
-echo "Created empty file: $name/.env (no .env.sample found)"
+touch "${dir}.env"
+echo "Created empty file: ${dir}.env (no .env.sample found)"
 fi
-'
-docker compose up --build -d 
+done
+ 
+docker compose up --build -d

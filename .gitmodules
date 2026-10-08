@@ -1,6 +1,0 @@
-[submodule "mmo-cr-authentication-service"]
-	path = mmo-cr-authentication-service
-	url = git@github.com:DEFRA/mmo-cr-authentication-service.git
-[submodule "mmo-cr-reference-data-service"]
-	path = mmo-cr-reference-data-service
-	url = git@github.com:DEFRA/mmo-cr-reference-data-service.git
