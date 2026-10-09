@@ -21,4 +21,4 @@ for dir in mmo-cr-*/; do
   fi
 done
 
-# docker compose up --build -d
+docker compose up --build -d
