@@ -10,6 +10,11 @@
 #   export BASE_URL=http://localhost:3002
 set -euo pipefail
 
+export READ_TOKEN=read-token
+export WRITE_TOKEN=write-token
+export NO_PERMISSION_TOKEN=no-permission-token
+export BASE_URL=http://localhost:3002
+
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 REPO_ROOT="$(dirname "$SCRIPT_DIR")"
 DATA_DIR="${DATA_DIR:-$REPO_ROOT/datafiles}"
@@ -24,11 +29,17 @@ for file in "$DATA_DIR"/*.json "$DATA_DIR"/*.geojson; do
   schema_version=$(jq -r '.schemaVersion' "$file")
   version=$(jq -r '.version' "$file")
 
-  echo "Uploading $file -> dataset=$dataset schemaVersion=$schema_version version=$version"
+  # Server enforces application/geo+json for GeoJSON datasets (map-land, map-statistical-areas).
+  case "$file" in
+    *.geojson) content_type="application/geo+json" ;;
+    *) content_type="application/json" ;;
+  esac
+
+  echo "Uploading $file -> dataset=$dataset schemaVersion=$schema_version version=$version (content-type=$content_type)"
 
   curl -s -X PUT "$BASE_URL/api/v1/reference-data/$dataset" \
     -H "Authorization: Bearer $WRITE_TOKEN" \
-    -F "file=@${file};type=application/json" \
+    -F "file=@${file};type=${content_type}" \
     -F "schemaVersion=${schema_version}" \
     -F "version=${version}" | jq
 
