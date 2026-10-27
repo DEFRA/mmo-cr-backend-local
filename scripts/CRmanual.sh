@@ -9,6 +9,8 @@
 # Actions:
 #   Health        Health probe
 #   WebCreate     Create the first persistent DRAFT Catch Record for a vessel
+#   MobCreate     Same as WebCreate, plus an explicit catchRecordReference
+#                 (GBR-{RSS}-{DDMMYY}-{HHMMSS})
 #   GetCR         Retrieve one Catch Record
 #   GetBasics     List/Get/History curl commands that read catch records
 #   SaveTrip      PATCH trip — a complete section object
@@ -24,7 +26,7 @@
 #
 # Environment variables (defaults shown) may be overridden before running:
 #   TOKEN, VESSEL_ID, VERSION, PORT_ID, CR_URL, GEAR_ID, CHARACTERISTIC_ID,
-#   STATISTICAL_AREA_ID, SPECIES_ID, CATCH_RECORD_ID
+#   STATISTICAL_AREA_ID, SPECIES_ID, RSS, CATCH_RECORD_ID
 
 set -euo pipefail
 
@@ -63,6 +65,7 @@ save_state() {
 : "${CHARACTERISTIC_ID:=ec4b5815-3b60-5463-934e-012280b5494a}"
 : "${STATISTICAL_AREA_ID:=50640}"
 : "${SPECIES_ID:=F7C56C89-DC86-490E-82AB-637BB1B40F0C}"
+: "${RSS:=BM45}"
 : "${CATCH_RECORD_ID:=}"
 
 usage() {
@@ -115,6 +118,35 @@ do_WebCreate() {
     -H "Content-Type: application/json" \
     -H "Idempotency-Key: $(uuidgen)" \
     -d "{\"vesselId\": \"$VESSEL_ID\"}")
+
+  echo "$response" | print_json
+
+  local new_id new_version
+  new_id=$(echo "$response" | jq -r '.id // empty')
+  new_version=$(echo "$response" | jq -r '.version // empty')
+
+  if [ -n "${new_id:-}" ]; then
+    save_state CATCH_RECORD_ID "$new_id"
+    echo ">>> CATCH_RECORD_ID updated to $CATCH_RECORD_ID"
+  fi
+  if [ -n "${new_version:-}" ]; then
+    save_state VERSION "$new_version"
+    echo ">>> VERSION updated to $VERSION"
+  fi
+}
+
+do_MobCreate() {
+  echo "# Create the first persistent DRAFT Catch Record for a vessel, with an"
+  echo "# explicit catchRecordReference (GBR-{RSS}-{DDMMYY}-{HHMMSS})."
+  local catch_record_reference
+  catch_record_reference="GBR-${RSS}-$(date +%d%m%y)-$(date +%H%M%S)"
+
+  local response
+  response=$(curl -s -X POST "$CR_URL/v1/catch-records" \
+    -H "Authorization: $TOKEN" \
+    -H "Content-Type: application/json" \
+    -H "Idempotency-Key: $(uuidgen)" \
+    -d "{\"vesselId\": \"$VESSEL_ID\", \"catchRecordReference\": \"$catch_record_reference\"}")
 
   echo "$response" | print_json
 
@@ -354,6 +386,7 @@ do_DelFab() {
 case "$ACTION" in
   Health)       do_Health ;;
   WebCreate)    do_WebCreate ;;
+  MobCreate)    do_MobCreate ;;
   GetCR)        do_GetCR ;;
   GetBasics)    do_GetBasics ;;
   SaveTrip)     do_SaveTrip ;;
